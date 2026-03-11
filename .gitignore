@@ -46,3 +46,8 @@ Thumbs.db
 
 # Streamlit cache
 .streamlit/
+
+# Test files
+test_scraper.py
+run_scraper.py
+
