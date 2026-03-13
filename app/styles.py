@@ -1,6 +1,5 @@
 """
 app/styles.py
-CSS global et composants visuels partagés.
 """
 import streamlit as st
 
@@ -9,14 +8,28 @@ def inject_css():
     st.markdown("""
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@300;400;500;600&family=Rajdhani:wght@500;600;700&display=swap');
-
+    @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
     * { box-sizing: border-box; }
 
+    /* ── MASQUER LE HEADER NATIF UNIQUEMENT ──────────────────────────────── */
+    header                    { display: none !important; }
+    #MainMenu                 { display: none !important; }
+    footer                    { display: none !important; }
+
+    /* ── GARDER LA SIDEBAR TOUJOURS VISIBLE ──────────────────────────────── */
+    /* On ne touche PAS à collapsedControl ni au bouton toggle */
+    [data-testid="stSidebar"] {
+        display: flex !important;
+        visibility: visible !important;
+        transform: none !important;
+        left: 0 !important;
+    }
+
+    /* ── FOND GLOBAL ─────────────────────────────────────────────────────── */
     html, body, [data-testid="stAppViewContainer"] {
         background: #07090f !important;
         color: #e0e0e0 !important;
     }
-
     [data-testid="stAppViewContainer"] {
         background:
             radial-gradient(ellipse at 20% 20%, rgba(0,212,255,0.04) 0%, transparent 50%),
@@ -24,12 +37,7 @@ def inject_css():
             #07090f !important;
     }
 
-    /* Hide keyboard shortcuts labels - target the specific text elements */
-    [data-testid="stAppHeader"] {
-        display: none !important;
-    }
-
-    /* Sidebar */
+    /* ── SIDEBAR ─────────────────────────────────────────────────────────── */
     [data-testid="stSidebar"] {
         background: #0b0e18 !important;
         border-right: 1px solid rgba(0,212,255,0.1) !important;
@@ -37,25 +45,6 @@ def inject_css():
     [data-testid="stSidebar"] * {
         font-family: 'Rajdhani', sans-serif !important;
     }
-
-    /* Sidebar toggle button - cibler le vrai élément */
-    button[aria-label*="toggle"] {
-        color: #00d4ff !important;
-        font-size: 0 !important;
-    }
-    button[aria-label*="toggle"]::before {
-        content: "☰" !important;
-        font-size: 20px !important;
-        display: inline-block !important;
-    }
-    button[aria-label*="toggle"] svg {
-        display: none !important;
-    }
-    button[aria-label*="toggle"] span {
-        display: none !important;
-    }
-
-    /* Nav sidebar */
     [data-testid="stSidebarNav"] a {
         border-radius: 8px !important;
         margin: 2px 8px !important;
@@ -78,7 +67,7 @@ def inject_css():
         border-left-color: #00d4ff !important;
     }
 
-    /* Typographie */
+    /* ── TYPOGRAPHIE ─────────────────────────────────────────────────────── */
     h1, h2, h3, h4, h5 {
         font-family: 'Bebas Neue', sans-serif !important;
         letter-spacing: 2px !important;
@@ -87,7 +76,7 @@ def inject_css():
         font-family: 'Inter', sans-serif !important;
     }
 
-    /* Selectbox */
+    /* ── SELECTBOX ───────────────────────────────────────────────────────── */
     [data-testid="stSelectbox"] > div > div {
         background: #0f1420 !important;
         border: 1px solid rgba(0,212,255,0.2) !important;
@@ -100,7 +89,7 @@ def inject_css():
         border-color: #00d4ff !important;
     }
 
-    /* Tabs */
+    /* ── TABS ────────────────────────────────────────────────────────────── */
     [data-testid="stTabs"] [data-baseweb="tab-list"] {
         background: #0b0e18 !important;
         border-radius: 10px !important;
@@ -133,14 +122,14 @@ def inject_css():
         display: none !important;
     }
 
-    /* Dataframe */
+    /* ── DATAFRAME ───────────────────────────────────────────────────────── */
     [data-testid="stDataFrame"] {
         border: 1px solid rgba(0,212,255,0.1) !important;
         border-radius: 10px !important;
         overflow: hidden !important;
     }
 
-    /* Boutons */
+    /* ── BOUTONS ─────────────────────────────────────────────────────────── */
     .stButton > button {
         background: linear-gradient(135deg, #00d4ff, #0099cc) !important;
         color: #000 !important;
@@ -159,7 +148,7 @@ def inject_css():
         box-shadow: 0 8px 24px rgba(0,212,255,0.3) !important;
     }
 
-    /* Inputs */
+    /* ── INPUTS ──────────────────────────────────────────────────────────── */
     [data-testid="stNumberInput"] input,
     [data-testid="stTextInput"] input {
         background: #0f1420 !important;
@@ -169,33 +158,34 @@ def inject_css():
         font-family: 'Rajdhani', sans-serif !important;
     }
 
-    /* Slider */
+    /* ── SLIDER ──────────────────────────────────────────────────────────── */
     [data-testid="stSlider"] [data-baseweb="slider"] div[role="slider"] {
         background: #00d4ff !important;
         border-color: #00d4ff !important;
     }
 
-    /* Expander */
+    /* ── EXPANDER ────────────────────────────────────────────────────────── */
     [data-testid="stExpander"] {
         background: #0f1420 !important;
         border: 1px solid rgba(0,212,255,0.1) !important;
         border-radius: 10px !important;
     }
 
-    /* Scrollbar */
+    /* ── SCROLLBAR ───────────────────────────────────────────────────────── */
     ::-webkit-scrollbar { width: 6px; height: 6px; }
     ::-webkit-scrollbar-track { background: #0b0e18; }
     ::-webkit-scrollbar-thumb { background: rgba(0,212,255,0.3); border-radius: 3px; }
     ::-webkit-scrollbar-thumb:hover { background: #00d4ff; }
 
-    /* Padding global */
+    /* ── PADDING GLOBAL ──────────────────────────────────────────────────── */
     .block-container {
         padding-top: 1.5rem !important;
         padding-left: 2rem !important;
         padding-right: 2rem !important;
+        max-width: 100% !important;
     }
 
-    /* Alerts */
+    /* ── ALERTS ──────────────────────────────────────────────────────────── */
     [data-testid="stAlert"] {
         background: rgba(0,212,255,0.05) !important;
         border: 1px solid rgba(0,212,255,0.2) !important;
