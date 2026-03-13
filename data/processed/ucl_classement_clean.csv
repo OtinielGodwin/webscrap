@@ -1,0 +1,37 @@
+Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Notes,league,saison,win_rate,goal_diff
+1,Liverpool,8,7,0,1,17,5,12,21,→ Round of 16,ucl,2024-2025,0.875,12
+2,Barcelona,8,6,1,1,28,13,15,19,→ Round of 16,ucl,2024-2025,0.75,15
+3,Arsenal,8,6,1,1,16,3,13,19,→ Round of 16,ucl,2024-2025,0.75,13
+4,Inter,8,6,1,1,11,1,10,19,→ Round of 16,ucl,2024-2025,0.75,10
+5,Atlético Madrid,8,6,0,2,20,12,8,18,→ Round of 16,ucl,2024-2025,0.75,8
+6,Leverkusen,8,5,1,2,15,7,8,16,→ Round of 16,ucl,2024-2025,0.625,8
+7,Lille,8,5,1,2,17,10,7,16,→ Round of 16,ucl,2024-2025,0.625,7
+8,Aston Villa,8,5,1,2,13,6,7,16,→ Round of 16,ucl,2024-2025,0.625,7
+9,Atalanta,8,4,3,1,20,6,14,15,→ Knockout phase play-offs,ucl,2024-2025,0.5,14
+10,Dortmund,8,5,0,3,22,12,10,15,→ Knockout phase play-offs,ucl,2024-2025,0.625,10
+11,Real Madrid,8,5,0,3,20,12,8,15,→ Knockout phase play-offs,ucl,2024-2025,0.625,8
+12,Bayern Munich,8,5,0,3,20,12,8,15,→ Knockout phase play-offs,ucl,2024-2025,0.625,8
+13,Milan,8,5,0,3,14,11,3,15,→ Knockout phase play-offs,ucl,2024-2025,0.625,3
+14,PSV,8,4,2,2,16,12,4,14,→ Knockout phase play-offs,ucl,2024-2025,0.5,4
+15,Paris Saint-Germain,8,4,1,3,14,9,5,13,→ Knockout phase play-offs,ucl,2024-2025,0.5,5
+16,Benfica,8,4,1,3,16,12,4,13,→ Knockout phase play-offs,ucl,2024-2025,0.5,4
+17,Monaco,8,4,1,3,13,13,0,13,→ Knockout phase play-offs,ucl,2024-2025,0.5,0
+18,Brest,8,4,1,3,10,11,-1,13,→ Knockout phase play-offs,ucl,2024-2025,0.5,-1
+19,Feyenoord,8,4,1,3,18,21,-3,13,→ Knockout phase play-offs,ucl,2024-2025,0.5,-3
+20,Juventus,8,3,3,2,9,7,2,12,→ Knockout phase play-offs,ucl,2024-2025,0.375,2
+21,Celtic,8,3,3,2,13,14,-1,12,→ Knockout phase play-offs,ucl,2024-2025,0.375,-1
+22,Manchester City,8,3,2,3,18,14,4,11,→ Knockout phase play-offs,ucl,2024-2025,0.375,4
+23,Sporting CP,8,3,2,3,13,12,1,11,→ Knockout phase play-offs,ucl,2024-2025,0.375,1
+24,Club Brugge,8,3,2,3,7,11,-4,11,→ Knockout phase play-offs,ucl,2024-2025,0.375,-4
+25,Dinamo Zagreb,8,3,2,3,12,19,-7,11,,ucl,2024-2025,0.375,-7
+26,Stuttgart,8,3,1,4,13,17,-4,10,,ucl,2024-2025,0.375,-4
+27,Shakhtar Donetsk,8,2,1,5,8,16,-8,7,,ucl,2024-2025,0.25,-8
+28,Bologna,8,1,3,4,4,9,-5,6,,ucl,2024-2025,0.125,-5
+29,Red Star,8,2,0,6,13,22,-9,6,,ucl,2024-2025,0.25,-9
+30,Sturm Graz,8,2,0,6,5,14,-9,6,,ucl,2024-2025,0.25,-9
+31,Sparta Prague,8,1,1,6,7,21,-14,4,,ucl,2024-2025,0.125,-14
+32,RB Leipzig,8,1,0,7,8,15,-7,3,,ucl,2024-2025,0.125,-7
+33,Girona,8,1,0,7,5,13,-8,3,,ucl,2024-2025,0.125,-8
+34,RB Salzburg,8,1,0,7,5,27,-22,3,,ucl,2024-2025,0.125,-22
+35,Slovan Bratislava,8,0,0,8,7,27,-20,0,,ucl,2024-2025,0.0,-20
+36,Young Boys,8,0,0,8,3,24,-21,0,,ucl,2024-2025,0.0,-21

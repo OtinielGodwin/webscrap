@@ -1,0 +1,602 @@
+player_id,Rk,Player,Nation,Pos,Squad,Age,Born,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_Gls,Performance_Ast,Performance_G+A,Performance_G-PK,Performance_PK,Performance_PKatt,Performance_CrdY,Performance_CrdR,Per 90 Minutes_Gls,Per 90 Minutes_Ast,Per 90 Minutes_G+A,Per 90 Minutes_G-PK,Per 90 Minutes_G+A-PK,Matches,league,saison
+774cf58b,1,Max Aarons,ENG,DF,Valencia,24,2000,4,1,120,1.3,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+69c99fce,2,Rodrigo Abajas,ESP,DF,Valencia,21,2003,1,1,65,0.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+cadfa7d1,3,Nabil Aberdin,FRA,MF,Getafe,21,2002,7,4,263,2.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+2bc7f211,4,Abdel Abqar,MAR,DF,Alavés,25,1999,29,29,2463,27.4,0,1,1,0,0,0,13,0,0.0,0.04,0.04,0.0,0.04,Matches,laliga,2024-2025
+2ccd39ed,5,Akor Adams,NGA,FW,Sevilla,24,2000,4,1,134,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+f76e6b4e,6,Adrián,ESP,GK,Real Betis,37,1987,19,19,1710,19.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+a2c1a8d3,7,Julen Agirrezabala,ESP,GK,Athletic Club,23,2000,14,14,1206,13.4,0,0,0,0,0,0,1,1,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+8bc8829a,8,Lucien Agoume,FRA,MF,Sevilla,22,2002,35,24,2114,23.5,1,3,4,1,0,0,5,1,0.04,0.13,0.17,0.04,0.17,Matches,laliga,2024-2025
+014aa7bd,9,Álvaro Aguado,ESP,MF,Espanyol,28,1996,16,4,443,4.9,0,1,1,0,0,0,3,0,0.0,0.2,0.2,0.0,0.2,Matches,laliga,2024-2025
+beae81e1,10,Lorenzo Aguado,ESP,DF,Real Madrid,21,2002,2,0,5,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+288e1e13,11,Nayef Aguerd,MAR,DF,Real Sociedad,28,1996,21,21,1760,19.6,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+18abe173,12,Joseph Aidoo,GHA,DF,Valladolid,28,1995,8,6,583,6.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+18abe173,13,Joseph Aidoo,GHA,DF,Celta Vigo,28,1995,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+b8bd60fe,14,Ilias Akhomach,MAR,MF,Villarreal,20,2004,11,7,584,6.5,1,0,1,1,0,0,1,0,0.15,0.0,0.15,0.15,0.15,Matches,laliga,2024-2025
+05439de2,15,David Alaba,AUT,DF,Real Madrid,32,1992,7,4,317,3.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+36fd9c52,16,Ibrahim Alani,NGA,MF,Valladolid,18,2006,3,1,160,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+4bd414c1,17,Raúl Albiol,ESP,DF,Villarreal,38,1985,15,14,1188,13.2,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+bb08bce9,18,Omar Alderete,PAR,DF,Getafe,27,1996,34,34,2971,33.0,1,0,1,1,0,0,8,0,0.03,0.0,0.03,0.03,0.03,Matches,laliga,2024-2025
+6c811eb7,19,Carles Aleñá,ESP,MF,Getafe,26,1998,10,5,452,5.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+6c811eb7,20,Carles Aleñá,ESP,MF,Alavés,26,1998,14,13,1090,12.1,0,2,2,0,0,0,1,0,0.0,0.17,0.17,0.0,0.17,Matches,laliga,2024-2025
+1c772b46,21,Alfon,ESP,"FW,MF",Celta Vigo,25,1999,26,14,1371,15.2,5,2,7,5,0,0,1,1,0.33,0.13,0.46,0.33,0.46,Matches,laliga,2024-2025
+75a66bed,22,Tadeo Allende,ARG,MF,Celta Vigo,25,1999,1,0,2,0.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+e6697917,23,Domingos André Ribeiro Almeida,POR,"MF,FW",Valencia,24,2000,34,24,1977,22.0,0,4,4,0,0,0,2,0,0.0,0.18,0.18,0.0,0.18,Matches,laliga,2024-2025
+0b32f721,24,Iker Almena,ESP,MF,Girona,20,2004,2,0,48,0.5,0,1,1,0,0,0,0,0,0.0,1.87,1.87,0.0,1.87,Matches,laliga,2024-2025
+f4290206,25,Marcos Alonso,ESP,DF,Celta Vigo,33,1990,31,29,2647,29.4,3,0,3,0,3,3,10,2,0.1,0.0,0.1,0.0,0.0,Matches,laliga,2024-2025
+757a3431,26,Adrià Altimira,ESP,"DF,MF",Leganés,23,2001,22,19,1630,18.1,0,0,0,0,0,0,6,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+94acdd4e,27,Sergi Altimira,ESP,MF,Real Betis,22,2001,32,22,1972,21.9,0,1,1,0,0,0,4,0,0.0,0.05,0.05,0.0,0.05,Matches,laliga,2024-2025
+6f392eb8,28,Hugo Álvarez,ESP,MF,Celta Vigo,21,2003,26,16,1572,17.5,4,3,7,4,0,0,6,0,0.23,0.17,0.4,0.23,0.4,Matches,laliga,2024-2025
+15ab5a2b,29,Julián Álvarez,ARG,FW,Atlético Madrid,24,2000,37,30,2509,27.9,17,4,21,13,4,4,5,0,0.61,0.14,0.75,0.47,0.61,Matches,laliga,2024-2025
+3ecc11d8,30,Yeray Álvarez,ESP,DF,Athletic Club,29,1995,21,20,1781,19.8,1,0,1,1,0,0,4,0,0.05,0.0,0.05,0.05,0.05,Matches,laliga,2024-2025
+00eba9c9,31,Selim Amallah,MAR,MF,Valladolid,27,1996,24,18,1376,15.3,3,1,4,2,1,1,6,0,0.2,0.07,0.26,0.13,0.2,Matches,laliga,2024-2025
+f3b1d9a2,32,Amath,SEN,"FW,MF",Valladolid,28,1996,13,5,375,4.2,0,1,1,0,0,0,1,0,0.0,0.24,0.24,0.0,0.24,Matches,laliga,2024-2025
+ae86d473,33,Marcos André,BRA,FW,Valladolid,27,1996,22,14,1188,13.2,1,2,3,1,0,0,5,0,0.08,0.15,0.23,0.08,0.23,Matches,laliga,2024-2025
+2febb559,34,Leandro Antonetti,PUR,FW,Sevilla,21,2003,2,0,28,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+af784a9e,35,Antoniu,ESP,MF,Espanyol,21,2002,26,13,1022,11.4,0,1,1,0,0,0,3,0,0.0,0.09,0.09,0.0,0.09,Matches,laliga,2024-2025
+99127249,36,Antony,BRA,MF,Real Betis,24,2000,17,15,1362,15.1,5,2,7,5,0,0,2,1,0.33,0.13,0.46,0.33,0.46,Matches,laliga,2024-2025
+c93231dc,37,Anuar,MAR,"MF,FW",Valladolid,29,1995,26,21,1720,19.1,2,0,2,2,0,0,7,0,0.1,0.0,0.1,0.1,0.1,Matches,laliga,2024-2025
+f28876e5,38,Aritz Arambarri,ESP,DF,Leganés,26,1998,2,2,177,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+58afe001,39,Mauro Arambarri,URU,MF,Getafe,28,1995,35,31,2661,29.6,10,0,10,7,3,3,10,0,0.34,0.0,0.34,0.24,0.24,Matches,laliga,2024-2025
+dc7a172e,40,Jon Aramburu,VEN,DF,Real Sociedad,22,2002,35,28,2460,27.3,1,1,2,1,0,0,8,0,0.04,0.04,0.07,0.04,0.07,Matches,laliga,2024-2025
+2bef2bca,41,Ronald Araújo,URU,DF,Barcelona,25,1999,12,11,754,8.4,1,1,2,1,0,0,3,0,0.12,0.12,0.24,0.12,0.24,Matches,laliga,2024-2025
+a461f098,42,Adu Ares,ESP,MF,Athletic Club,22,2001,1,0,19,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+94e01ec6,43,Jesús Areso,ESP,DF,Osasuna,25,1999,36,35,3079,34.2,0,3,3,0,0,0,9,0,0.0,0.09,0.09,0.0,0.09,Matches,laliga,2024-2025
+a1b81f14,44,David Argüelles,ESP,DF,Getafe,22,2002,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+46e07328,45,José Arnaiz,ESP,MF,Osasuna,29,1995,15,1,133,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+ff31f01f,46,Sergio Arribas,ESP,DF,Real Betis,21,2003,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+13ddc856,47,Takuma Asano,JPN,"MF,FW",Mallorca,29,1994,21,13,1054,11.7,2,1,3,2,0,0,0,0,0.17,0.09,0.26,0.17,0.26,Matches,laliga,2024-2025
+4731cd4c,48,Raúl Asencio,ESP,DF,Real Madrid,21,2003,23,18,1670,18.6,0,1,1,0,0,0,3,0,0.0,0.05,0.05,0.0,0.05,Matches,laliga,2024-2025
+7dcf86f6,49,Iago Aspas,ESP,"FW,MF",Celta Vigo,36,1987,30,19,1745,19.4,10,5,15,5,5,6,6,1,0.52,0.26,0.77,0.26,0.52,Matches,laliga,2024-2025
+d139daf9,50,Yaser Asprilla,COL,"MF,FW",Girona,20,2003,27,15,1405,15.6,3,1,4,3,0,0,2,0,0.19,0.06,0.26,0.19,0.26,Matches,laliga,2024-2025
+253a06b9,51,Ezequiel Ávila,ARG,"MF,FW",Real Betis,30,1994,19,6,677,7.5,2,0,2,2,0,0,5,1,0.27,0.0,0.27,0.27,0.27,Matches,laliga,2024-2025
+e678d983,52,Adam Aznou,MAR,"DF,MF",Valladolid,18,2006,13,10,876,9.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+53cad200,53,César Azpilicueta,ESP,DF,Atlético Madrid,34,1989,14,10,875,9.7,1,0,1,1,0,0,1,0,0.1,0.0,0.1,0.1,0.1,Matches,laliga,2024-2025
+e0b0f636,54,Papa Ba,ESP,FW,Girona,19,2004,1,0,48,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+114bbdee,55,Loïc Bade,FRA,DF,Sevilla,24,2000,32,31,2686,29.8,1,1,2,1,0,0,7,1,0.03,0.03,0.07,0.03,0.07,Matches,laliga,2024-2025
+518f2234,56,Alex Baena,ESP,"MF,FW",Villarreal,23,2001,32,30,2595,28.8,7,9,16,7,0,1,9,0,0.24,0.31,0.55,0.24,0.55,Matches,laliga,2024-2025
+a1232f4e,57,Eric Bailly,CIV,DF,Villarreal,30,1994,12,8,617,6.9,0,0,0,0,0,0,2,1,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+32e8417f,58,Stefan Bajcetic,ESP,"MF,DF",Las Palmas,19,2004,14,12,969,10.8,1,0,1,1,0,0,4,0,0.09,0.0,0.09,0.09,0.09,Matches,laliga,2024-2025
+0af4dcf0,59,Cédric Bakambu,COD,FW,Real Betis,33,1991,25,6,710,7.9,2,2,4,2,0,0,4,0,0.25,0.25,0.51,0.25,0.51,Matches,laliga,2024-2025
+5ccc9672,60,Alejandro Balde,ESP,DF,Barcelona,20,2003,32,26,2284,25.4,0,4,4,0,0,0,2,0,0.0,0.16,0.16,0.0,0.16,Matches,laliga,2024-2025
+cee88597,61,Iván Balliu,ALB,DF,Rayo Vallecano,32,1992,25,12,1200,13.3,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+b2bd0f6c,62,Jonathan Bamba,CIV,"MF,FW",Celta Vigo,28,1996,12,10,811,9.0,0,1,1,0,0,0,1,0,0.0,0.11,0.11,0.0,0.11,Matches,laliga,2024-2025
+218bc8d2,63,Adrian Baquerin,ESP,FW,Valladolid,17,2007,5,0,49,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+b9f282ec,64,Valentín Barco,ARG,DF,Sevilla,20,2004,7,3,288,3.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+712dd708,65,Borna Barišić,CRO,DF,Leganés,31,1992,1,1,9,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+aad53e64,66,Kike Barja,ESP,"FW,MF",Osasuna,27,1997,15,3,315,3.5,0,1,1,0,0,0,3,0,0.0,0.29,0.29,0.0,0.29,Matches,laliga,2024-2025
+6caffe81,67,Enzo Barrenechea,ARG,MF,Valencia,23,2001,30,26,2191,24.3,1,2,3,1,0,0,6,0,0.04,0.08,0.12,0.04,0.12,Matches,laliga,2024-2025
+200e89e1,68,Ander Barrenetxea,ESP,MF,Real Sociedad,22,2001,30,14,1263,14.0,1,3,4,1,0,0,6,0,0.07,0.21,0.29,0.07,0.29,Matches,laliga,2024-2025
+45736cec,69,Pablo Barrios,ESP,MF,Atlético Madrid,21,2003,31,28,2330,25.9,1,4,5,1,0,0,4,1,0.04,0.15,0.19,0.04,0.19,Matches,laliga,2024-2025
+52c3244b,70,Thierno Barry,FRA,FW,Villarreal,21,2002,35,25,2323,25.8,11,4,15,10,1,1,4,0,0.43,0.15,0.58,0.39,0.54,Matches,laliga,2024-2025
+b742cc0d,71,Marc Bartra,ESP,DF,Real Betis,33,1991,25,23,2099,23.3,2,1,3,2,0,0,2,0,0.09,0.04,0.13,0.09,0.13,Matches,laliga,2024-2025
+22a312ec,72,Aboubacar Bassinga,CIV,MF,Las Palmas,19,2005,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+fc627681,73,Augusto Batalla,ARG,GK,Rayo Vallecano,28,1996,32,32,2880,32.0,0,0,0,0,0,0,6,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+c6b930b1,74,Rafael Bauza,ESP,MF,Espanyol,19,2005,5,2,183,2.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+8eb55dbb,75,Sheraldo Becker,SUR,"MF,FW",Real Sociedad,29,1995,22,11,995,11.1,2,1,3,2,0,0,1,1,0.18,0.09,0.27,0.18,0.27,Matches,laliga,2024-2025
+50dc94ce,76,Donny van de Beek,NED,MF,Girona,27,1997,26,16,1421,15.8,2,2,4,2,0,0,5,0,0.13,0.13,0.25,0.13,0.25,Matches,laliga,2024-2025
+1406fae0,77,Luken Beitia,ESP,DF,Real Sociedad,20,2004,1,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+e42c0f53,78,Ismael Bekhoucha,MAR,DF,Getafe,19,2004,5,0,69,0.8,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+f874dd44,79,Héctor Bellerín,ESP,DF,Real Betis,29,1995,9,6,580,6.4,0,2,2,0,0,0,1,0,0.0,0.31,0.31,0.0,0.31,Matches,laliga,2024-2025
+57d88cf9,80,Jude Bellingham,ENG,MF,Real Madrid,21,2003,31,29,2488,27.6,9,8,17,8,1,2,5,1,0.33,0.29,0.61,0.29,0.58,Matches,laliga,2024-2025
+ed5c5fa3,81,Fran Beltrán,ESP,MF,Celta Vigo,25,1999,34,29,2421,26.9,2,1,3,2,0,0,3,0,0.07,0.04,0.11,0.07,0.11,Matches,laliga,2024-2025
+9fb45456,82,Carlos Benavídez,URU,MF,Alavés,26,1998,18,6,487,5.4,1,1,2,1,0,0,3,0,0.18,0.18,0.37,0.18,0.37,Matches,laliga,2024-2025
+50cbc806,83,Iker Benito,ESP,"FW,MF",Osasuna,21,2002,2,0,37,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+b6e50615,84,Yuri Berchiche,ESP,DF,Athletic Club,34,1990,30,22,2044,22.7,0,2,2,0,0,0,5,0,0.0,0.09,0.09,0.0,0.09,Matches,laliga,2024-2025
+dc1c2fce,85,Álex Berenguer,ESP,"MF,FW",Athletic Club,29,1995,36,28,2339,26.0,6,7,13,6,0,1,5,0,0.23,0.27,0.5,0.23,0.5,Matches,laliga,2024-2025
+29117812,86,Marc Bernal,ESP,MF,Barcelona,17,2007,3,3,242,2.7,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+433dc9a2,87,Juan Bernat,ESP,DF,Villarreal,31,1993,10,1,212,2.4,0,1,1,0,0,0,0,0,0.0,0.42,0.42,0.0,0.42,Matches,laliga,2024-2025
+433dc9a2,88,Juan Bernat,ESP,MF,Getafe,31,1993,14,9,699,7.8,0,1,1,0,0,0,0,0,0.0,0.13,0.13,0.0,0.13,Matches,laliga,2024-2025
+377ef3a6,89,Juan Berrocal,ESP,DF,Getafe,25,1999,19,11,1063,11.8,0,0,0,0,0,0,8,1,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+506daeac,90,Antonio Blanco,ESP,MF,Alavés,24,2000,35,32,2727,30.3,0,1,1,0,0,0,11,1,0.0,0.03,0.03,0.0,0.03,Matches,laliga,2024-2025
+691bef82,91,Daley Blind,NED,DF,Girona,34,1990,34,31,2780,30.9,0,2,2,0,0,0,2,0,0.0,0.06,0.06,0.0,0.06,Matches,laliga,2024-2025
+e7992f7b,92,Adama Boiro,ESP,DF,Athletic Club,22,2002,18,13,1101,12.2,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+3a99bc13,93,Enzo Boyomo,CMR,DF,Osasuna,22,2001,34,33,2987,33.2,2,0,2,2,0,0,5,0,0.06,0.0,0.06,0.06,0.06,Matches,laliga,2024-2025
+3a99bc13,94,Enzo Boyomo,CMR,DF,Valladolid,22,2001,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+4accb7e0,95,Darko Brašanac,SRB,MF,Leganés,32,1992,30,15,1617,18.0,1,2,3,1,0,0,4,0,0.06,0.11,0.17,0.06,0.17,Matches,laliga,2024-2025
+40b6bd38,96,Abel Bretones,ESP,"DF,MF",Osasuna,23,2000,35,20,2074,23.0,2,0,2,2,0,0,3,0,0.09,0.0,0.09,0.09,0.09,Matches,laliga,2024-2025
+3aca6420,97,Tajon Buchanan,CAN,MF,Villarreal,25,1999,13,4,416,4.6,1,2,3,1,0,0,2,0,0.22,0.43,0.65,0.22,0.65,Matches,laliga,2024-2025
+8f3565b3,98,Ante Budimir,CRO,FW,Osasuna,33,1991,38,34,2952,32.8,21,4,25,13,8,8,4,0,0.64,0.12,0.76,0.4,0.52,Matches,laliga,2024-2025
+c5642098,99,Manu Bueno,ESP,MF,Sevilla,20,2004,9,1,140,1.6,1,0,1,1,0,0,0,0,0.64,0.0,0.64,0.64,0.64,Matches,laliga,2024-2025
+72699f75,100,Endika Buján,ESP,FW,Athletic Club,21,2003,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+53440b64,101,Pau Cabanes,ESP,FW,Villarreal,19,2005,10,0,163,1.8,1,0,1,1,0,0,0,0,0.55,0.0,0.55,0.55,0.55,Matches,laliga,2024-2025
+53440b64,102,Pau Cabanes,ESP,MF,Alavés,19,2005,6,2,188,2.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+69cbc8b6,103,Leandro Cabrera,URU,DF,Espanyol,33,1991,33,32,2869,31.9,4,2,6,4,0,0,4,1,0.13,0.06,0.19,0.13,0.19,Matches,laliga,2024-2025
+41b3069f,104,Fernando Calero,ESP,DF,Espanyol,28,1995,21,6,715,7.9,1,0,1,1,0,0,1,0,0.13,0.0,0.13,0.13,0.13,Matches,laliga,2024-2025
+7b9c2d84,105,Eduardo Camavinga,FRA,"MF,DF",Real Madrid,21,2002,19,11,1102,12.2,1,2,3,1,0,0,2,0,0.08,0.16,0.25,0.08,0.25,Matches,laliga,2024-2025
+873619c6,106,Sergio Camello,ESP,FW,Rayo Vallecano,23,2001,23,14,1134,12.6,3,2,5,3,0,0,2,0,0.24,0.16,0.4,0.24,0.4,Matches,laliga,2024-2025
+61220da2,107,José Campaña,ESP,MF,Las Palmas,31,1993,25,15,1189,13.2,0,3,3,0,0,0,5,0,0.0,0.23,0.23,0.0,0.23,Matches,laliga,2024-2025
+3b5d2ab7,108,Peio Canales,ESP,MF,Athletic Club,19,2005,8,2,259,2.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+d4307c52,109,Antonio Candela,ITA,DF,Valladolid,24,2000,12,12,906,10.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+1137759d,110,Sergi Canós,ESP,MF,Valencia,27,1997,17,2,370,4.1,0,1,1,0,0,0,3,0,0.0,0.24,0.24,0.0,0.24,Matches,laliga,2024-2025
+e1846dde,111,Dani Cárdenas,ESP,GK,Rayo Vallecano,27,1997,6,6,540,6.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+5e080f73,112,Irvin Cardona,MLT,"FW,MF",Espanyol,26,1997,16,5,606,6.7,1,1,2,1,0,0,1,0,0.15,0.15,0.3,0.15,0.3,Matches,laliga,2024-2025
+b92b456a,113,Marc Cardona,ESP,FW,Las Palmas,29,1995,11,0,132,1.5,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+74e90475,114,Sergi Cardona,ESP,DF,Villarreal,25,1999,35,34,2945,32.7,1,7,8,1,0,0,11,0,0.03,0.21,0.24,0.03,0.24,Matches,laliga,2024-2025
+7426f085,115,Johnny Cardoso,USA,MF,Real Betis,22,2001,28,24,2144,23.8,3,1,4,3,0,0,4,0,0.13,0.04,0.17,0.13,0.17,Matches,laliga,2024-2025
+79fe48ae,116,José Carlos González,ESP,MF,Las Palmas,18,2006,1,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+2dce876a,117,Carmona,ESP,DF,Sevilla,22,2002,35,35,2942,32.7,0,0,0,0,0,0,11,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+8d6a9c93,118,Sergio Carreira,ESP,MF,Celta Vigo,23,2000,23,19,1656,18.4,0,4,4,0,0,0,1,0,0.0,0.22,0.22,0.0,0.22,Matches,laliga,2024-2025
+4958bfb2,119,Dani Carvajal,ESP,DF,Real Madrid,32,1992,8,7,609,6.8,1,0,1,1,0,0,1,0,0.15,0.0,0.15,0.15,0.15,Matches,laliga,2024-2025
+dee86451,120,William Carvalho,POR,MF,Real Betis,32,1992,14,6,484,5.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+2ef08833,121,Marc Casado,ESP,MF,Barcelona,20,2003,23,20,1611,17.9,1,3,4,1,0,0,4,1,0.06,0.17,0.22,0.06,0.22,Matches,laliga,2024-2025
+274ab13c,122,Catena,ESP,DF,Osasuna,29,1994,35,35,3074,34.2,1,3,4,1,0,0,11,0,0.03,0.09,0.12,0.03,0.12,Matches,laliga,2024-2025
+c92c24f0,123,Maximiliano Caufriez,BEL,DF,Valencia,27,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+c0617e2b,124,Dani Ceballos,ESP,MF,Real Madrid,27,1996,23,15,1215,13.5,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+5e1028e5,125,Franco Cervi,ARG,"MF,FW",Celta Vigo,30,1994,7,4,273,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+61d964b8,126,Raúl Chasco,ESP,DF,Valladolid,20,2003,2,1,130,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+63c5e56b,127,Pep Chavarría,ESP,DF,Rayo Vallecano,26,1998,34,28,2585,28.7,0,1,1,0,0,0,3,0,0.0,0.03,0.03,0.0,0.03,Matches,laliga,2024-2025
+0545a08e,128,Walid Cheddira,MAR,FW,Espanyol,26,1998,22,5,640,7.1,1,1,2,1,0,0,3,0,0.14,0.14,0.28,0.14,0.28,Matches,laliga,2024-2025
+39ef21fa,129,Chema,ESP,MF,Real Madrid,19,2005,2,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+92dacb99,130,Julián Chicco,ARG,"MF,DF",Leganés,26,1998,14,2,302,3.4,0,1,1,0,0,0,0,0,0.0,0.3,0.3,0.0,0.3,Matches,laliga,2024-2025
+dc6c2f02,131,Chiquinho,POR,MF,Mallorca,24,2000,8,1,146,1.6,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+1cb49278,132,Andreas Christensen,DEN,DF,Barcelona,28,1996,5,2,254,2.8,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+04ac8285,133,Jasper Cillessen,NED,GK,Las Palmas,35,1989,27,27,2335,25.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+9a0408b6,134,Pathé Ciss,SEN,"MF,DF",Rayo Vallecano,30,1994,33,25,2140,23.8,4,1,5,4,0,0,12,0,0.17,0.04,0.21,0.17,0.21,Matches,laliga,2024-2025
+0d13e455,135,Seydouba Cissé,GUI,MF,Leganés,23,2001,34,31,2435,27.1,3,1,4,3,0,0,3,1,0.11,0.04,0.15,0.11,0.15,Matches,laliga,2024-2025
+b793dea2,136,Silvi Clúa,ESP,MF,Girona,19,2005,4,2,163,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+15937e17,137,Eray Cömert,SUI,"DF,MF",Valladolid,26,1998,25,21,1779,19.8,0,0,0,0,0,0,6,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+5ae499d0,138,Santi Comesaña,ESP,MF,Villarreal,27,1996,35,30,2560,28.4,4,2,6,4,0,0,7,0,0.14,0.07,0.21,0.14,0.21,Matches,laliga,2024-2025
+4eae5bc4,139,Diego Conde,ESP,GK,Villarreal,25,1998,22,22,1962,21.8,0,1,1,0,0,0,2,0,0.0,0.05,0.05,0.0,0.05,Matches,laliga,2024-2025
+f61143dd,140,Tomás Conechny,ARG,"MF,FW",Alavés,26,1998,22,9,847,9.4,1,0,1,1,0,0,8,0,0.11,0.0,0.11,0.11,0.11,Matches,laliga,2024-2025
+0f26ffd7,141,Copete,ESP,DF,Mallorca,24,1999,25,16,1528,17.0,0,0,0,0,0,0,6,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+f35d5b6a,142,Iker Córdoba,ESP,DF,Valencia,18,2005,2,0,15,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+01eb744d,143,Ángel Correa,ARG,FW,Atlético Madrid,29,1995,31,3,805,8.9,4,1,5,4,0,0,3,1,0.45,0.11,0.56,0.45,0.56,Matches,laliga,2024-2025
+c78b352d,144,Thierry Correia,POR,DF,Valencia,25,1999,11,9,768,8.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+0b3358f0,145,Coba da Costa,ESP,MF,Getafe,22,2002,19,12,1006,11.2,1,1,2,1,0,0,4,0,0.09,0.09,0.18,0.09,0.18,Matches,laliga,2024-2025
+bfb2056e,146,Logan Costa,CPV,DF,Villarreal,23,2001,32,28,2587,28.7,2,1,3,2,0,0,3,0,0.07,0.03,0.1,0.07,0.1,Matches,laliga,2024-2025
+76c2a023,147,Samu Costa,POR,MF,Mallorca,23,2000,32,31,2649,29.4,0,2,2,0,0,0,10,1,0.0,0.07,0.07,0.0,0.07,Matches,laliga,2024-2025
+1840e36d,148,Thibaut Courtois,BEL,GK,Real Madrid,32,1992,30,30,2700,30.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+a56da3ba,149,Juan Cruz Armada,ESP,DF,Osasuna,32,1992,25,19,1492,16.6,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+cc2dd8a5,150,Juan Cruz,ESP,"MF,DF",Leganés,24,2000,34,26,2257,25.1,5,4,9,5,0,0,2,0,0.2,0.16,0.36,0.2,0.36,Matches,laliga,2024-2025
+cc7888f3,151,Pau Cubarsí,ESP,DF,Barcelona,17,2007,35,29,2618,29.1,0,3,3,0,0,0,3,0,0.0,0.1,0.1,0.0,0.1,Matches,laliga,2024-2025
+71b47ab9,152,Cucho,COL,FW,Real Betis,25,1999,15,14,1139,12.7,5,1,6,5,0,0,0,0,0.4,0.08,0.47,0.4,0.47,Matches,laliga,2024-2025
+f08490a6,153,Arnaut Danjuma,NED,FW,Villarreal,27,1997,3,3,200,2.2,2,0,2,2,0,0,1,0,0.9,0.0,0.9,0.9,0.9,Matches,laliga,2024-2025
+f08490a6,154,Arnaut Danjuma,NED,"MF,FW",Girona,27,1997,25,15,1335,14.8,2,0,2,2,0,0,2,0,0.13,0.0,0.13,0.13,0.13,Matches,laliga,2024-2025
+070a3904,155,Sergi Darder,ESP,MF,Mallorca,30,1993,38,34,2744,30.5,2,6,8,2,0,0,4,0,0.07,0.2,0.26,0.07,0.26,Matches,laliga,2024-2025
+162efffd,156,Rodrigo De Paul,ARG,MF,Atlético Madrid,30,1994,34,23,2106,23.4,3,5,8,3,0,0,7,0,0.13,0.21,0.34,0.13,0.34,Matches,laliga,2024-2025
+d2110326,157,Mouctar Diakhaby,GUI,DF,Valencia,27,1996,13,7,653,7.3,2,0,2,2,0,0,0,0,0.28,0.0,0.28,0.28,0.28,Matches,laliga,2024-2025
+8ae7d0ec,158,Assane Diao,SEN,FW,Real Betis,18,2005,10,2,277,3.1,1,2,3,1,0,0,0,0,0.32,0.65,0.97,0.32,0.97,Matches,laliga,2024-2025
+698f11e3,159,Moussa Diarra,MLI,DF,Alavés,23,2000,26,20,1866,20.7,0,0,0,0,0,0,6,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+407feb71,160,Brahim Díaz,MAR,"MF,FW",Real Madrid,24,1999,31,16,1385,15.4,4,2,6,4,0,0,0,0,0.26,0.13,0.39,0.26,0.39,Matches,laliga,2024-2025
+423680ee,161,Daniel Díaz,ESP,FW,Real Sociedad,18,2006,1,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+eea5130e,162,Pedro Díaz,ESP,MF,Rayo Vallecano,26,1998,26,12,1211,13.5,3,0,3,3,0,1,2,0,0.22,0.0,0.22,0.22,0.22,Matches,laliga,2024-2025
+b85a5126,163,Diego,ESP,"FW,MF",Leganés,24,2000,28,13,1195,13.3,3,0,3,3,0,0,2,0,0.23,0.0,0.23,0.23,0.23,Matches,laliga,2024-2025
+fc70e345,164,Stole Dimitrievski,MKD,GK,Valencia,30,1993,4,4,360,4.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+919f5f54,165,Yan Diomandé,CIV,MF,Leganés,17,2006,10,6,545,6.1,2,1,3,2,0,0,1,0,0.33,0.17,0.5,0.33,0.5,Matches,laliga,2024-2025
+45c29ae7,166,Álvaro djaló,GNB,"MF,FW",Athletic Club,24,1999,17,7,659,7.3,1,0,1,1,0,0,2,0,0.14,0.0,0.14,0.14,0.14,Matches,laliga,2024-2025
+a4971d84,167,Djené,TOG,"DF,MF",Getafe,32,1991,31,31,2548,28.3,0,0,0,0,0,0,10,1,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+ac295d9e,168,Marko Dmitrović,SRB,GK,Leganés,32,1992,32,32,2880,32.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+54880c9b,169,Marc Domenech,ESP,"FW,MF",Mallorca,18,2006,10,3,303,3.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+3521abfe,170,Carlos Dominguez,ESP,DF,Celta Vigo,23,2001,19,13,1181,13.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+d2ba7592,171,Israel Domínguez,ESP,MF,Sevilla,21,2003,1,0,18,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+88507352,172,Sergi Dominguez,ESP,DF,Barcelona,19,2005,3,2,172,1.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+853ca71c,173,Anastasios Douvikas,GRE,FW,Celta Vigo,24,1999,20,6,700,7.8,3,1,4,3,0,0,2,0,0.39,0.13,0.51,0.39,0.51,Matches,laliga,2024-2025
+93090f69,174,Domingos Duarte,POR,DF,Getafe,29,1995,22,21,1859,20.7,1,0,1,1,0,0,4,2,0.05,0.0,0.05,0.05,0.05,Matches,laliga,2024-2025
+777c02e8,175,Duk,CPV,MF,Leganés,24,2000,10,1,179,2.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+6db116ec,176,Pablo Durán,ESP,"FW,MF",Celta Vigo,23,2001,27,15,1394,15.5,4,4,8,4,0,0,3,0,0.26,0.26,0.52,0.26,0.52,Matches,laliga,2024-2025
+37e103f8,177,Hugo Duro,ESP,FW,Valencia,24,1999,31,25,2166,24.1,11,2,13,10,1,1,5,0,0.46,0.08,0.54,0.42,0.5,Matches,laliga,2024-2025
+e7f3e8a7,178,Chidera Ejuke,NGA,"MF,FW",Sevilla,26,1998,25,9,966,10.7,2,1,3,2,0,0,0,0,0.19,0.09,0.28,0.19,0.28,Matches,laliga,2024-2025
+f7dc2ae5,179,Aritz Elustondo,ESP,DF,Real Sociedad,30,1994,22,16,1457,16.2,0,0,0,0,0,0,2,1,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+db8f0eba,180,Adri Embarba,ESP,"MF,FW",Rayo Vallecano,32,1992,35,18,1607,17.9,1,1,2,1,0,0,4,0,0.06,0.06,0.11,0.06,0.11,Matches,laliga,2024-2025
+a2728fbf,181,Endrick,BRA,FW,Real Madrid,18,2006,22,3,363,4.0,1,0,1,1,0,0,1,0,0.25,0.0,0.25,0.25,0.25,Matches,laliga,2024-2025
+db001fa9,182,Alfonso Espino,URU,DF,Rayo Vallecano,32,1992,16,9,833,9.3,0,1,1,0,0,0,4,0,0.0,0.11,0.11,0.0,0.11,Matches,laliga,2024-2025
+1e4319ac,183,Dario Essugo,POR,MF,Las Palmas,19,2005,27,25,1938,21.5,1,0,1,1,0,0,11,2,0.05,0.0,0.05,0.05,0.05,Matches,laliga,2024-2025
+7ecd41a2,184,Etienne Eto'o,CMR,FW,Rayo Vallecano,21,2002,2,0,40,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+f0f499ea,185,Karl Etta Eyong,CMR,FW,Villarreal,20,2003,4,0,37,0.4,1,0,1,1,0,0,0,0,2.43,0.0,2.43,2.43,2.43,Matches,laliga,2024-2025
+283c7121,186,Edu Expósito,ESP,MF,Espanyol,27,1996,19,12,1045,11.6,0,2,2,0,0,0,3,0,0.0,0.17,0.17,0.0,0.17,Matches,laliga,2024-2025
+bed68338,187,Abde Ezzalzouli,MAR,MF,Real Betis,22,2001,32,23,1984,22.0,2,2,4,2,0,1,2,0,0.09,0.09,0.18,0.09,0.18,Matches,laliga,2024-2025
+0ba976e4,188,Ansu Fati,ESP,MF,Barcelona,21,2002,6,3,233,2.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+bece776f,189,Nabil Fekir,FRA,MF,Real Betis,31,1993,2,2,180,2.0,0,1,1,0,0,0,0,0,0.0,0.5,0.5,0.0,0.5,Matches,laliga,2024-2025
+e5d01ecf,190,Kiko Femenía,ESP,DF,Villarreal,33,1991,28,27,2227,24.7,0,1,1,0,0,0,7,0,0.0,0.04,0.04,0.0,0.04,Matches,laliga,2024-2025
+a01c3d54,191,Aitor Fernández,ESP,GK,Osasuna,33,1991,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+f127d782,192,Álvaro Fernández,ESP,GK,Sevilla,26,1998,9,8,747,8.3,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+ce46e850,193,Pelayo Fernandez,ESP,DF,Rayo Vallecano,21,2003,2,1,98,1.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+c981fc98,194,Roberto Férnandez,ESP,FW,Espanyol,22,2002,19,18,1497,16.6,6,0,6,6,0,0,1,0,0.36,0.0,0.36,0.36,0.36,Matches,laliga,2024-2025
+4acd733a,195,Valery Fernández,ESP,MF,Mallorca,24,1999,18,1,309,3.4,2,0,2,2,0,0,1,0,0.58,0.0,0.58,0.58,0.58,Matches,laliga,2024-2025
+12c6cbef,196,André Ferreira,POR,GK,Valladolid,28,1996,6,6,540,6.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+90dcf851,197,Mateo Flores,ESP,MF,Real Betis,20,2004,6,1,153,1.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+82927de4,198,Pablo Fornals,ESP,MF,Real Betis,28,1996,26,22,1827,20.3,2,0,2,2,0,0,2,0,0.1,0.0,0.1,0.1,0.1,Matches,laliga,2024-2025
+2e31f3a6,199,Héctor Fort,ESP,DF,Barcelona,17,2006,17,5,585,6.5,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+45e17712,200,Dimitri Foulquier,FRA,DF,Valencia,31,1993,32,25,2299,25.5,0,1,1,0,0,0,6,0,0.0,0.04,0.04,0.0,0.04,Matches,laliga,2024-2025
+6c7762c3,201,Juan Foyth,ARG,DF,Villarreal,26,1998,19,17,1517,16.9,1,0,1,1,0,0,4,0,0.06,0.0,0.06,0.06,0.06,Matches,laliga,2024-2025
+5e550a91,202,Fran,ESP,GK,Real Madrid,19,2005,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+3e78a188,203,Alejandro Francés,ESP,DF,Girona,21,2002,18,13,1173,13.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+40883e3a,204,Enric Franquesa,ESP,"MF,DF",Leganés,27,1997,12,7,616,6.8,1,0,1,1,0,0,1,0,0.15,0.0,0.15,0.15,0.15,Matches,laliga,2024-2025
+38ce1150,205,Jorge de Frutos,ESP,"MF,FW",Rayo Vallecano,27,1997,36,30,2495,27.7,6,3,9,6,0,0,3,1,0.22,0.11,0.32,0.22,0.32,Matches,laliga,2024-2025
+893268ab,206,Darío Fuentes,ESP,DF,Sevilla,21,2003,1,0,5,0.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+618f396a,207,Manuel Fuster,ESP,"MF,FW",Las Palmas,26,1997,28,8,1003,11.1,2,1,3,2,0,0,2,0,0.18,0.09,0.27,0.18,0.27,Matches,laliga,2024-2025
+a4b00319,208,Javi Galán,ESP,DF,Atlético Madrid,29,1994,25,21,1784,19.8,0,3,3,0,0,0,8,0,0.0,0.15,0.15,0.0,0.15,Matches,laliga,2024-2025
+91f7631f,209,Iñigo Ruiz de Galarreta,ESP,MF,Athletic Club,30,1993,26,18,1477,16.4,0,4,4,0,0,0,5,0,0.0,0.24,0.24,0.0,0.24,Matches,laliga,2024-2025
+c2731c10,210,Conor Gallagher,ENG,MF,Atlético Madrid,24,2000,32,19,1633,18.1,3,3,6,3,0,0,2,0,0.17,0.17,0.33,0.17,0.33,Matches,laliga,2024-2025
+20c88f8f,211,Facundo Garcés,MAS,DF,Alavés,24,1999,10,7,678,7.5,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+90bbd822,212,Álvaro García,ESP,"MF,FW",Rayo Vallecano,31,1992,36,28,2559,28.4,4,5,9,4,0,0,4,0,0.14,0.18,0.32,0.14,0.32,Matches,laliga,2024-2025
+2bed3eab,213,Eric García,ESP,"DF,MF",Barcelona,23,2001,29,14,1566,17.4,2,3,5,2,0,0,4,0,0.11,0.17,0.29,0.11,0.29,Matches,laliga,2024-2025
+7226539b,214,Fran Garcia,ESP,DF,Real Madrid,24,1999,31,24,2171,24.1,0,2,2,0,0,0,0,0,0.0,0.08,0.08,0.0,0.08,Matches,laliga,2024-2025
+74c2d562,215,Gonzalo García,ESP,MF,Real Madrid,20,2004,3,0,56,0.6,0,1,1,0,0,0,0,0,0.0,1.61,1.61,0.0,1.61,Matches,laliga,2024-2025
+87b498b0,216,Joan García,ESP,GK,Espanyol,23,2001,38,38,3420,38.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+9925419c,217,Pablo Garcia,ESP,FW,Real Betis,18,2006,3,0,38,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+5c96b017,218,Rubén García,ESP,"FW,MF",Osasuna,31,1993,36,30,2413,26.8,5,5,10,5,0,0,2,0,0.19,0.19,0.37,0.19,0.37,Matches,laliga,2024-2025
+4a633cfe,219,Unai García,ESP,DF,Osasuna,32,1992,3,1,65,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+20a65cdf,220,Yarek Gasiorowski,ESP,DF,Valencia,19,2005,15,9,947,10.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+19cae58d,221,Gavi,ESP,MF,Barcelona,19,2004,26,14,1085,12.1,1,1,2,1,0,0,4,0,0.08,0.08,0.17,0.08,0.17,Matches,laliga,2024-2025
+63d17038,222,Paulo Gazzaniga,ARG,GK,Girona,32,1992,36,36,3195,35.5,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+7b5ab7f2,223,Bryan Gil,ESP,"MF,FW",Girona,23,2001,25,21,1721,19.1,3,3,6,3,0,0,4,0,0.16,0.16,0.31,0.16,0.31,Matches,laliga,2024-2025
+0e5ddc7c,224,Dani Gómez,ESP,FW,Valencia,26,1998,14,5,532,5.9,2,0,2,2,0,0,0,0,0.34,0.0,0.34,0.34,0.34,Matches,laliga,2024-2025
+5a626448,225,Moi Gómez,ESP,"MF,FW",Osasuna,30,1994,26,6,796,8.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+bc6f5f06,226,Sergi Gómez,ESP,DF,Espanyol,32,1992,12,6,664,7.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+01e5f06e,227,Sergio Gómez,ESP,MF,Real Sociedad,23,2000,37,31,2738,30.4,2,5,7,2,0,0,4,0,0.07,0.16,0.23,0.07,0.23,Matches,laliga,2024-2025
+37db6cae,228,Unai Gómez,ESP,"MF,FW",Athletic Club,21,2003,32,14,1284,14.3,1,3,4,1,0,0,1,0,0.07,0.21,0.28,0.07,0.28,Matches,laliga,2024-2025
+5418d47c,229,Fabio González,ESP,MF,Las Palmas,27,1997,2,0,53,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+1ccd3dae,230,Peter González,DOM,MF,Getafe,22,2002,17,2,477,5.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+c4f5eb61,231,Urko González,ESP,MF,Espanyol,23,2001,17,16,1374,15.3,0,2,2,0,0,0,2,0,0.0,0.13,0.13,0.0,0.13,Matches,laliga,2024-2025
+c4f5eb61,232,Urko González,ESP,MF,Real Sociedad,23,2001,1,1,45,0.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+6f5f82c0,233,Andoni Gorosabel,ESP,DF,Athletic Club,27,1996,20,17,1485,16.5,0,2,2,0,0,0,5,0,0.0,0.12,0.12,0.0,0.12,Matches,laliga,2024-2025
+ee45d138,234,José Gragera,ESP,MF,Espanyol,23,2000,10,7,569,6.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+30061f53,235,Dominik Greif,SVK,GK,Mallorca,27,1997,31,31,2790,31.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+df69b544,236,Antoine Griezmann,FRA,"FW,MF",Atlético Madrid,33,1991,38,29,2469,27.4,8,7,15,7,1,2,2,0,0.29,0.26,0.55,0.26,0.51,Matches,laliga,2024-2025
+ffbbc83b,237,Florian Grillitsch,AUT,MF,Valladolid,28,1995,13,7,623,6.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+ab13a5aa,238,Vicente Guaita,ESP,GK,Celta Vigo,37,1987,34,34,3060,34.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+32974271,239,Sergi Guardiola,ESP,FW,Rayo Vallecano,33,1991,16,1,362,4.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+0076ab7f,240,Nemanja Gudelj,SRB,"MF,DF",Sevilla,32,1991,31,27,2493,27.7,1,1,2,0,1,1,6,0,0.04,0.04,0.07,0.0,0.04,Matches,laliga,2024-2025
+3828f130,241,Javier Guerra,ESP,MF,Valencia,21,2003,36,31,2581,28.7,3,3,6,3,0,0,5,0,0.1,0.1,0.21,0.1,0.21,Matches,laliga,2024-2025
+8e48dc61,242,Ander Guevara,ESP,MF,Alavés,27,1997,33,20,1947,21.6,0,1,1,0,0,0,3,0,0.0,0.05,0.05,0.0,0.05,Matches,laliga,2024-2025
+7155e3e1,243,Pape Gueye,SEN,"MF,FW",Villarreal,25,1999,34,26,2224,24.7,4,0,4,4,0,0,6,2,0.16,0.0,0.16,0.16,0.16,Matches,laliga,2024-2025
+f7c12fbf,244,Hugo Guillamón,ESP,MF,Valencia,24,2000,12,4,364,4.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+4d9f02df,245,Carlos Guirao,ESP,MF,Real Betis,21,2003,2,2,110,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+3741ca58,246,Arda Güler,TUR,"MF,FW",Real Madrid,19,2005,28,14,1250,13.9,3,4,7,3,0,0,1,0,0.22,0.29,0.5,0.22,0.5,Matches,laliga,2024-2025
+ac454a4f,247,Gerard Gumbau,ESP,MF,Rayo Vallecano,29,1994,22,7,849,9.4,0,1,1,0,0,0,4,0,0.0,0.11,0.11,0.0,0.11,Matches,laliga,2024-2025
+4c0a6a48,248,Jon Guridi,ESP,MF,Alavés,29,1995,33,27,2080,23.1,3,1,4,2,1,1,6,0,0.13,0.04,0.17,0.09,0.13,Matches,laliga,2024-2025
+6b5ea2f4,249,Gorka Guruzeta,ESP,FW,Athletic Club,27,1996,36,21,1840,20.4,7,2,9,7,0,0,2,0,0.34,0.1,0.44,0.34,0.44,Matches,laliga,2024-2025
+7e98cff1,250,Miguel Gutiérrez,ESP,"DF,MF",Girona,23,2001,29,29,2458,27.3,1,5,6,1,0,0,4,0,0.04,0.18,0.22,0.04,0.22,Matches,laliga,2024-2025
+8696bc90,251,Munir El Haddadi,MAR,"MF,FW",Leganés,28,1995,25,10,862,9.6,4,0,4,4,0,0,1,1,0.42,0.0,0.42,0.42,0.42,Matches,laliga,2024-2025
+ba115a40,252,Sébastien Haller,CIV,FW,Leganés,30,1994,8,5,404,4.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+f28474a4,253,Henrique,BRA,DF,Valladolid,30,1994,5,4,352,3.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+9a76c2e9,254,Javi Hernández,ESP,DF,Leganés,26,1998,31,27,2389,26.5,2,1,3,2,0,0,6,0,0.08,0.04,0.11,0.08,0.11,Matches,laliga,2024-2025
+132ac341,255,Aridane Hernández,ESP,DF,Rayo Vallecano,35,1989,14,11,1025,11.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+e19c989c,256,Jorge Herrando,ESP,DF,Osasuna,23,2001,18,15,1366,15.2,1,0,1,1,0,0,3,0,0.07,0.0,0.07,0.07,0.07,Matches,laliga,2024-2025
+436a9dd0,257,Ander Herrera,ESP,MF,Athletic Club,34,1989,8,2,273,3.0,0,0,0,0,0,1,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+a4995f48,258,Sergio Herrera,ESP,GK,Osasuna,31,1993,37,37,3330,37.0,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+5083a734,259,Yangel Herrera,VEN,MF,Girona,26,1998,29,27,2257,25.1,4,3,7,4,0,0,10,1,0.16,0.12,0.28,0.16,0.28,Matches,laliga,2024-2025
+3a18abe2,260,Juan Herzog,ESP,DF,Las Palmas,21,2003,19,15,1315,14.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+139560df,261,Omar El Hilali,MAR,DF,Espanyol,20,2003,36,36,3153,35.0,0,2,2,0,0,0,11,0,0.0,0.06,0.06,0.0,0.06,Matches,laliga,2024-2025
+1c33932b,262,Roger Hinojo,ESP,DF,Espanyol,19,2005,1,0,9,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+8fafc04d,263,Dinko Horkaš,CRO,GK,Las Palmas,25,1999,13,11,1085,12.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+3701906c,264,Pablo Ibáñez,ESP,MF,Osasuna,25,1998,28,13,1294,14.4,1,1,2,1,0,0,4,0,0.07,0.07,0.14,0.07,0.14,Matches,laliga,2024-2025
+53551b98,265,Stanis Idumbo,BEL,MF,Sevilla,19,2005,14,3,284,3.2,1,1,2,1,0,0,0,0,0.32,0.32,0.63,0.32,0.63,Matches,laliga,2024-2025
+974322dc,266,Iglesias,ESP,"DF,MF",Getafe,26,1998,37,32,2888,32.1,0,1,1,0,0,0,4,0,0.0,0.03,0.03,0.0,0.03,Matches,laliga,2024-2025
+75645f0e,267,Borja Iglesias,ESP,FW,Celta Vigo,31,1993,37,24,1952,21.7,11,3,14,11,0,0,2,0,0.51,0.14,0.65,0.51,0.65,Matches,laliga,2024-2025
+c92e1a31,268,Kelechi Iheanacho,NGA,FW,Sevilla,27,1996,9,5,400,4.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+a0b4bb3e,269,Isco,ESP,MF,Real Betis,32,1992,22,17,1547,17.2,9,8,17,4,5,6,5,0,0.52,0.47,0.99,0.23,0.7,Matches,laliga,2024-2025
+9d33c71a,270,Diego Iturralde,ESP,MF,Sevilla,21,2003,1,1,37,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+90ba7fa6,271,Ivan Jaime Pajuelo,ESP,MF,Valencia,23,2000,9,2,297,3.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+aa81d8f8,272,Karl Jakob Hein,EST,GK,Valladolid,22,2002,31,31,2790,31.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+4737cebe,273,Adnan Januzaj,BEL,"MF,FW",Las Palmas,29,1995,18,5,598,6.6,2,1,3,2,0,0,5,0,0.3,0.15,0.45,0.3,0.45,Matches,laliga,2024-2025
+2f5c78ca,274,Mikel Jauregizar,ESP,MF,Athletic Club,20,2003,34,25,2244,24.9,2,1,3,2,0,0,4,1,0.08,0.04,0.12,0.08,0.12,Matches,laliga,2024-2025
+fd01216a,275,John Joe,IRL,MF,Getafe,20,2003,4,0,48,0.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+030ef8d6,276,Jofre,ESP,MF,Espanyol,23,2001,37,26,2165,24.1,3,3,6,3,0,0,5,0,0.12,0.12,0.25,0.12,0.25,Matches,laliga,2024-2025
+1bacc518,277,Frenkie de Jong,NED,MF,Barcelona,27,1997,26,9,1143,12.7,2,2,4,2,0,0,3,0,0.16,0.16,0.31,0.16,0.31,Matches,laliga,2024-2025
+2a0c8ba4,278,Joan Jordán,ESP,MF,Alavés,30,1994,25,15,1414,15.7,5,2,7,2,3,4,4,0,0.32,0.13,0.45,0.13,0.25,Matches,laliga,2024-2025
+84399660,279,Juanmi,ESP,FW,Getafe,31,1993,13,8,696,7.7,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+84399660,280,Juanmi,ESP,MF,Real Betis,31,1993,11,2,244,2.7,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+1633fc8a,281,Juanpe,ESP,DF,Girona,33,1991,12,8,727,8.1,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+7b505397,282,Abdulai Juma Bah,SLE,DF,Valladolid,18,2006,12,10,864,9.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+d0530e29,283,Luiz Lúcio Reis Júnior,BRA,GK,Villarreal,23,2001,17,16,1458,16.2,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+7111d552,284,Vinicius Júnior,BRA,"FW,MF",Real Madrid,24,2000,30,24,2253,25.0,11,8,19,9,2,3,8,1,0.44,0.32,0.76,0.36,0.68,Matches,laliga,2024-2025
+21a87181,285,Stanko Jurić,CRO,MF,Valladolid,27,1996,26,19,1729,19.2,0,0,0,0,0,0,7,1,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+6a7353d7,286,Willy Kambwala,FRA,DF,Villarreal,19,2004,19,12,1117,12.4,0,0,0,0,0,0,1,1,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+154b6735,287,Abdoulaye Keita,ESP,MF,Getafe,21,2002,3,1,95,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+5eebbfdf,288,Kenedy,BRA,"FW,MF",Valladolid,28,1996,2,0,9,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+e897d8ba,289,Kiké,ESP,FW,Alavés,34,1989,35,29,2542,28.2,13,0,13,10,3,3,5,1,0.46,0.0,0.46,0.35,0.35,Matches,laliga,2024-2025
+55126f3b,290,Koke,ESP,MF,Atlético Madrid,32,1992,32,20,1926,21.4,1,1,2,1,0,0,4,0,0.05,0.05,0.09,0.05,0.09,Matches,laliga,2024-2025
+4d1666ff,291,Jules Koundé,FRA,DF,Barcelona,25,1998,32,29,2605,28.9,2,3,5,2,0,0,4,0,0.07,0.1,0.17,0.07,0.17,Matches,laliga,2024-2025
+e717705a,292,Alex Král,CZE,MF,Espanyol,26,1998,37,29,2714,30.2,0,1,1,0,0,0,1,0,0.0,0.03,0.03,0.0,0.03,Matches,laliga,2024-2025
+66daeaf7,293,Vladyslav Krapyvtsov,UKR,GK,Girona,19,2005,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+5b5c2228,294,Ladislav Krejčí,CZE,DF,Girona,25,1999,28,27,2440,27.1,2,0,2,2,0,0,9,0,0.07,0.0,0.07,0.07,0.07,Matches,laliga,2024-2025
+16aa3654,295,Takefusa Kubo,JPN,"MF,FW",Real Sociedad,23,2001,36,27,2372,26.4,5,0,5,5,0,0,5,0,0.19,0.0,0.19,0.19,0.19,Matches,laliga,2024-2025
+a40819d9,296,Marash Kumbulla,ALB,DF,Espanyol,24,2000,35,34,2972,33.0,3,0,3,3,0,0,9,0,0.09,0.0,0.09,0.09,0.09,Matches,laliga,2024-2025
+e9241b40,297,Luca de la Torre,USA,MF,Celta Vigo,26,1998,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+edd4e7a5,298,Yoel Lago,ESP,DF,Celta Vigo,20,2004,8,7,583,6.5,0,1,1,0,0,0,2,0,0.0,0.15,0.15,0.0,0.15,Matches,laliga,2024-2025
+e7af9060,299,Cyle Larin,CAN,FW,Mallorca,29,1995,32,21,1764,19.6,7,2,9,6,1,1,4,0,0.36,0.1,0.46,0.31,0.41,Matches,laliga,2024-2025
+2bea832e,300,Juanmi Latasa,ESP,FW,Valladolid,23,2001,28,14,1398,15.5,3,0,3,3,0,0,6,1,0.19,0.0,0.19,0.19,0.19,Matches,laliga,2024-2025
+8e088e04,301,Toni Lato,ESP,DF,Mallorca,26,1997,14,7,621,6.9,0,0,0,0,0,0,1,1,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+9a64e67e,302,Robin Le Normand,ESP,DF,Atlético Madrid,27,1996,27,24,2151,23.9,1,0,1,1,0,0,8,0,0.04,0.0,0.04,0.04,0.04,Matches,laliga,2024-2025
+6eaed4eb,303,Florian Lejeune,FRA,DF,Rayo Vallecano,33,1991,37,37,3325,36.9,2,3,5,2,0,0,8,0,0.05,0.08,0.14,0.05,0.14,Matches,laliga,2024-2025
+59b7d823,304,Iñigo Lekue,ESP,DF,Athletic Club,31,1993,16,8,773,8.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+4dbd0916,305,Thomas Lemar,FRA,MF,Atlético Madrid,28,1995,5,0,85,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+4f28a6ff,306,Clément Lenglet,FRA,DF,Atlético Madrid,29,1995,23,23,1972,21.9,2,1,3,2,0,0,9,0,0.09,0.05,0.14,0.09,0.14,Matches,laliga,2024-2025
+8d78e732,307,Robert Lewandowski,POL,FW,Barcelona,35,1988,34,32,2667,29.6,27,2,29,24,3,4,1,0,0.91,0.07,0.98,0.81,0.88,Matches,laliga,2024-2025
+2a295d33,308,Samuel Lino,BRA,MF,Atlético Madrid,24,1999,31,21,1552,17.2,3,4,7,3,0,0,3,0,0.17,0.23,0.41,0.17,0.41,Matches,laliga,2024-2025
+38b0cf42,309,Javier Llabrés,ESP,MF,Mallorca,21,2002,1,1,57,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+bba30585,310,Diego Llorente,ESP,DF,Real Betis,30,1993,30,29,2519,28.0,2,0,2,2,0,0,4,0,0.07,0.0,0.07,0.07,0.07,Matches,laliga,2024-2025
+02c15616,311,Marcos Llorente,ESP,"DF,MF",Atlético Madrid,29,1995,33,28,2513,27.9,2,4,6,2,0,0,0,1,0.07,0.14,0.21,0.07,0.21,Matches,laliga,2024-2025
+d7553721,312,Giovani Lo Celso,ARG,MF,Real Betis,28,1996,25,15,1457,16.2,8,3,11,6,2,3,4,0,0.49,0.19,0.68,0.37,0.56,Matches,laliga,2024-2025
+6bca20fe,313,Enzo Loiodice,FRA,MF,Las Palmas,23,2000,17,7,684,7.6,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+f03f284b,314,David López,ESP,DF,Mallorca,21,2003,2,2,169,1.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+f03f284b,315,David López,ESP,DF,Girona,34,1989,29,27,2429,27.0,1,1,2,1,0,0,4,0,0.04,0.04,0.07,0.04,0.07,Matches,laliga,2024-2025
+c487901c,316,Diego López,ESP,MF,Valencia,22,2002,38,35,2737,30.4,8,5,13,8,0,0,3,0,0.26,0.16,0.43,0.26,0.43,Matches,laliga,2024-2025
+675cacff,317,Fer López,ESP,"FW,MF",Celta Vigo,20,2004,17,7,671,7.5,2,0,2,2,0,0,2,0,0.27,0.0,0.27,0.27,0.27,Matches,laliga,2024-2025
+c1fe5f0b,318,Fermin López,ESP,MF,Barcelona,21,2003,28,12,1252,13.9,6,5,11,6,0,0,4,1,0.43,0.36,0.79,0.43,0.79,Matches,laliga,2024-2025
+e9ada8cf,319,Javi López,ESP,DF,Real Sociedad,22,2002,29,21,1936,21.5,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+20b9f052,320,Pau López,ESP,GK,Girona,29,1994,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+2a8c9f98,321,Roberto López,ESP,MF,Leganés,24,2000,13,3,396,4.4,0,1,1,0,0,0,0,0,0.0,0.23,0.23,0.0,0.23,Matches,laliga,2024-2025
+88050721,322,Unai López,ESP,MF,Rayo Vallecano,28,1995,32,23,1707,19.0,3,1,4,3,0,0,9,1,0.16,0.05,0.21,0.16,0.21,Matches,laliga,2024-2025
+41521385,323,Iker Losada,ESP,"MF,FW",Celta Vigo,22,2001,12,4,358,4.0,1,0,1,1,0,0,2,0,0.25,0.0,0.25,0.25,0.25,Matches,laliga,2024-2025
+41521385,324,Iker Losada,ESP,MF,Real Betis,22,2001,10,3,336,3.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+ea610f00,325,Pol Lozano,ESP,MF,Espanyol,24,1999,30,27,1943,21.6,0,1,1,0,0,0,12,0,0.0,0.05,0.05,0.0,0.05,Matches,laliga,2024-2025
+b05e2dbd,326,José Luis Gayà,ESP,DF,Valencia,29,1995,23,22,1803,20.0,0,1,1,0,0,0,7,0,0.0,0.05,0.05,0.0,0.05,Matches,laliga,2024-2025
+0c61c77c,327,Dodi Lukebakio,BEL,"MF,FW",Sevilla,26,1997,38,36,3092,34.4,11,2,13,10,1,1,3,1,0.32,0.06,0.38,0.29,0.35,Matches,laliga,2024-2025
+410b16e3,328,Daniel Luna,COL,MF,Mallorca,21,2003,2,0,20,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+3061e1ec,329,Andriy Lunin,UKR,GK,Real Madrid,25,1999,7,7,630,7.0,0,1,1,0,0,0,0,0,0.0,0.14,0.14,0.0,0.14,Matches,laliga,2024-2025
+ed6ea4d9,330,Darwin Machís,VEN,"MF,FW",Valladolid,31,1993,18,7,639,7.1,0,1,1,0,0,0,0,0,0.0,0.14,0.14,0.0,0.14,Matches,laliga,2024-2025
+5db04597,331,Pablo Maffeo,ESP,DF,Mallorca,27,1997,30,28,2368,26.3,0,2,2,0,0,0,7,0,0.0,0.08,0.08,0.0,0.08,Matches,laliga,2024-2025
+d4808594,332,Jon Magunazelaia,ESP,MF,Real Sociedad,23,2001,2,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+d4b73232,333,Giorgi Mamardashvili,GEO,GK,Valencia,23,2000,34,34,3060,34.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+c20bdcd7,334,Reinildo Mandava,MOZ,"DF,MF",Atlético Madrid,30,1994,19,10,941,10.5,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+758dd7f0,335,Javier Manquillo,ESP,DF,Celta Vigo,30,1994,10,7,515,5.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+133faa84,336,Marcão,BRA,DF,Sevilla,28,1996,12,6,552,6.1,0,0,0,0,0,0,6,1,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+9f323c71,337,Óscar de Marcos,ESP,DF,Athletic Club,35,1989,26,17,1564,17.4,0,4,4,0,0,0,0,0,0.0,0.23,0.23,0.0,0.23,Matches,laliga,2024-2025
+44330c36,338,Alberto Marí,ESP,FW,Valencia,23,2001,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+f0da930c,339,José María Giménez,URU,DF,Atlético Madrid,29,1995,27,20,1999,22.2,0,1,1,0,0,0,5,0,0.0,0.05,0.05,0.0,0.05,Matches,laliga,2024-2025
+7c2c671c,340,Arkaitz Mariezkurrena,ESP,FW,Real Sociedad,19,2005,9,1,241,2.7,2,0,2,2,0,0,1,0,0.75,0.0,0.75,0.75,0.75,Matches,laliga,2024-2025
+a83c19cf,341,Pablo Marín,ESP,MF,Real Sociedad,21,2003,23,14,1239,13.8,1,2,3,1,0,0,3,0,0.07,0.15,0.22,0.07,0.22,Matches,laliga,2024-2025
+e7630876,342,Mika Mármol,ESP,DF,Las Palmas,23,2001,30,27,2399,26.7,0,1,1,0,0,0,5,0,0.0,0.04,0.04,0.0,0.04,Matches,laliga,2024-2025
+b518c5ab,343,Mario Maroto,ESP,MF,Valladolid,20,2003,2,0,64,0.7,0,1,1,0,0,0,0,0,0.0,1.41,1.41,0.0,1.41,Matches,laliga,2024-2025
+f0fe87dc,344,Unai Marrero,ESP,GK,Real Sociedad,22,2001,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+64035864,345,Carlos Martín,ESP,"MF,FW",Alavés,22,2002,26,16,1333,14.8,2,2,4,2,0,0,3,0,0.14,0.14,0.27,0.14,0.27,Matches,laliga,2024-2025
+db28ad66,346,Diego Martín,ESP,FW,Las Palmas,20,2003,2,0,40,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+b792c59d,347,Gerard Martín,ESP,DF,Barcelona,22,2002,28,11,1038,11.5,1,3,4,1,0,0,2,0,0.09,0.26,0.35,0.09,0.35,Matches,laliga,2024-2025
+ae48c5cb,348,Iván Martín,ESP,MF,Girona,25,1999,32,24,2039,22.7,1,1,2,1,0,0,1,0,0.04,0.04,0.09,0.04,0.09,Matches,laliga,2024-2025
+df33ecb5,349,Jon Martin,ESP,DF,Real Sociedad,18,2006,13,6,904,10.0,0,1,1,0,0,0,2,0,0.0,0.1,0.1,0.0,0.1,Matches,laliga,2024-2025
+a9aff11a,350,Mario Martín,ESP,MF,Valladolid,20,2004,30,20,1748,19.4,0,1,1,0,0,0,8,3,0.0,0.05,0.05,0.0,0.05,Matches,laliga,2024-2025
+c3e66ffe,351,Arnau Martinez,ESP,"DF,MF",Girona,21,2003,32,30,2624,29.2,2,2,4,2,0,0,3,0,0.07,0.07,0.14,0.07,0.14,Matches,laliga,2024-2025
+3fc45c73,352,Iñigo Martínez,ESP,DF,Barcelona,33,1991,28,28,2490,27.7,0,4,4,0,0,0,5,0,0.0,0.14,0.14,0.0,0.14,Matches,laliga,2024-2025
+3672b352,353,Javi Martínez,ESP,MF,Osasuna,24,1999,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+a04f40c8,354,Ramón Martínez,ESP,DF,Sevilla,21,2002,5,2,261,2.9,1,0,1,1,0,0,0,0,0.34,0.0,0.34,0.34,0.34,Matches,laliga,2024-2025
+f3945e07,355,Toni Martínez,ESP,FW,Alavés,27,1997,28,9,1012,11.2,4,0,4,4,0,0,1,0,0.36,0.0,0.36,0.36,0.36,Matches,laliga,2024-2025
+2381eead,356,Javi Martón,ESP,FW,Athletic Club,25,1999,3,0,53,0.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+efaefda0,357,Marvin,ESP,"DF,MF",Las Palmas,24,2000,23,9,1038,11.5,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+11fd2b75,358,Omar Mascarell,EQG,MF,Mallorca,31,1993,32,21,1992,22.1,1,0,1,1,0,0,5,1,0.05,0.0,0.05,0.05,0.05,Matches,laliga,2024-2025
+02319ad7,359,Jaime Mata,ESP,"MF,FW",Las Palmas,35,1988,30,4,656,7.3,0,0,0,0,0,0,9,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+64e8ed6d,360,Borja Mayoral,ESP,FW,Getafe,27,1997,24,7,1114,12.4,5,1,6,4,1,1,0,0,0.4,0.08,0.48,0.32,0.4,Matches,laliga,2024-2025
+42fd9c7f,361,Kylian Mbappé,FRA,FW,Real Madrid,25,1998,34,34,2907,32.3,31,3,34,24,7,9,3,1,0.96,0.09,1.05,0.74,0.84,Matches,laliga,2024-2025
+78b8ac63,362,Oliver McBurnie,SCO,FW,Las Palmas,28,1996,34,20,1837,20.4,3,6,9,3,0,0,3,0,0.15,0.29,0.44,0.15,0.44,Matches,laliga,2024-2025
+4e5a4cbc,363,Scott McKenna,SCO,DF,Las Palmas,27,1996,29,28,2466,27.4,0,0,0,0,0,0,5,1,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+a96e9b5c,364,Mateo Mejía,ESP,FW,Sevilla,21,2003,1,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+48b3dd60,365,Arthur Melo,BRA,MF,Girona,27,1996,15,10,941,10.5,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+c9e39d91,366,Brais Méndez,ESP,"MF,FW",Real Sociedad,27,1997,27,19,1531,17.0,3,2,5,3,0,0,4,0,0.18,0.12,0.29,0.18,0.29,Matches,laliga,2024-2025
+3cefcaef,367,Ferland Mendy,FRA,DF,Real Madrid,29,1995,14,12,1005,11.2,0,1,1,0,0,0,1,1,0.0,0.09,0.09,0.0,0.09,Matches,laliga,2024-2025
+7e64e657,368,Nobel Mendy,FRA,DF,Real Betis,19,2004,2,1,108,1.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+428a06a7,369,Víctor Meseguer,ESP,MF,Valladolid,25,1999,14,2,418,4.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+6763373d,370,Miguel,ESP,FW,Leganés,24,1999,34,17,1724,19.2,1,3,4,0,1,2,3,0,0.05,0.16,0.21,0.0,0.16,Matches,laliga,2024-2025
+2784f898,371,Éder Militão,BRA,DF,Real Madrid,26,1998,12,11,938,10.4,1,1,2,1,0,0,2,0,0.1,0.1,0.19,0.1,0.19,Matches,laliga,2024-2025
+19c36442,372,Luis Milla,ESP,MF,Getafe,29,1994,33,32,2875,31.9,1,4,5,0,1,1,6,0,0.03,0.13,0.16,0.0,0.13,Matches,laliga,2024-2025
+335039a2,373,Pere Milla,ESP,MF,Espanyol,31,1992,20,1,456,5.1,3,0,3,3,0,0,3,0,0.59,0.0,0.59,0.59,0.59,Matches,laliga,2024-2025
+056269d7,374,Óscar Mingueza,ESP,"MF,DF",Celta Vigo,25,1999,34,31,2729,30.3,4,6,10,4,0,0,6,1,0.13,0.2,0.33,0.13,0.33,Matches,laliga,2024-2025
+11e36e68,375,Kim Minsu,KOR,FW,Girona,18,2006,3,0,22,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+72e442c5,376,Bojan Miovski,MKD,FW,Girona,25,1999,17,12,869,9.7,2,1,3,2,0,0,0,0,0.21,0.1,0.31,0.21,0.31,Matches,laliga,2024-2025
+bbf5c11b,377,Rafa Mir,ESP,"FW,MF",Valencia,27,1997,20,5,753,8.4,1,2,3,1,0,0,4,0,0.12,0.24,0.36,0.12,0.36,Matches,laliga,2024-2025
+6025fab1,378,Luka Modrić,CRO,MF,Real Madrid,38,1985,35,17,1827,20.3,2,6,8,2,0,0,7,0,0.1,0.3,0.39,0.1,0.39,Matches,laliga,2024-2025
+608f2092,379,Johan Mojica,COL,DF,Mallorca,31,1992,36,30,2755,30.6,1,2,3,1,0,0,5,0,0.03,0.07,0.1,0.03,0.1,Matches,laliga,2024-2025
+c2c8897d,380,Alberto Moleiro,ESP,MF,Las Palmas,20,2003,35,32,2714,30.2,6,1,7,6,0,0,5,0,0.2,0.03,0.23,0.2,0.23,Matches,laliga,2024-2025
+23610943,381,Nahuel Molina,ARG,DF,Atlético Madrid,26,1998,30,17,1590,17.7,0,3,3,0,0,0,1,0,0.0,0.17,0.17,0.0,0.17,Matches,laliga,2024-2025
+9939e168,382,Jon Moncayola,ESP,MF,Osasuna,26,1998,32,26,2099,23.3,0,0,0,0,0,0,8,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+374d5158,383,Gonzalo Montiel,ARG,DF,Sevilla,27,1997,6,1,113,1.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+81f0781e,384,Gerard Moreno,ESP,FW,Villarreal,32,1992,17,6,721,8.0,3,2,5,0,3,3,0,0,0.37,0.25,0.62,0.0,0.25,Matches,laliga,2024-2025
+b7584ab8,385,Xavier Moreno,ESP,FW,Valladolid,19,2004,1,1,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+5fd5e542,386,Mateu Morey,ESP,DF,Mallorca,24,2000,16,8,741,8.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+f4c69aa6,387,Ilaix Moriba,GUI,MF,Celta Vigo,21,2003,33,22,2132,23.7,1,1,2,1,0,0,9,1,0.04,0.04,0.08,0.04,0.08,Matches,laliga,2024-2025
+a0255c67,388,Manu Morlanes,ESP,MF,Mallorca,25,1999,23,15,1338,14.9,0,0,0,0,0,0,7,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+919dd4b1,389,Raúl Moro,ESP,"MF,FW",Valladolid,21,2002,33,26,2341,26.0,4,5,9,4,0,0,2,0,0.15,0.19,0.35,0.15,0.35,Matches,laliga,2024-2025
+dc1ce4f5,390,Cristhian Mosquera,ESP,DF,Valencia,20,2004,37,37,3319,36.9,1,0,1,1,0,0,6,0,0.03,0.0,0.03,0.03,0.03,Matches,laliga,2024-2025
+91ee5785,391,Santiago Mouriño,URU,DF,Alavés,22,2002,25,20,1849,20.5,0,1,1,0,0,0,7,0,0.0,0.05,0.05,0.0,0.05,Matches,laliga,2024-2025
+5487adcd,392,Abdul Mumin,GHA,DF,Rayo Vallecano,26,1998,24,24,2017,22.4,2,1,3,2,0,0,6,1,0.09,0.04,0.13,0.09,0.13,Matches,laliga,2024-2025
+228b0d9d,393,Aihen Muñoz,ESP,DF,Real Sociedad,26,1997,21,13,1098,12.2,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+853f211e,394,Álex Muñoz,ESP,DF,Las Palmas,30,1994,21,18,1415,15.7,3,0,3,3,0,0,3,0,0.19,0.0,0.19,0.19,0.19,Matches,laliga,2024-2025
+175ece4c,395,Iker Muñoz,ESP,MF,Osasuna,21,2002,23,4,610,6.8,0,1,1,0,0,0,2,0,0.0,0.15,0.15,0.0,0.15,Matches,laliga,2024-2025
+ec7c84c2,396,Javier Muñoz,ESP,"MF,DF",Las Palmas,29,1995,35,28,2588,28.8,1,3,4,1,0,0,5,0,0.03,0.1,0.14,0.03,0.14,Matches,laliga,2024-2025
+f8b5680f,397,Víctor Muñoz,ESP,FW,Real Madrid,21,2003,2,0,36,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+0cadc46d,398,Vedat Muriqi,KVX,FW,Mallorca,30,1994,29,24,2058,22.9,7,2,9,5,2,3,1,2,0.31,0.09,0.39,0.22,0.31,Matches,laliga,2024-2025
+a111cf41,399,Juan Musso,ARG,GK,Atlético Madrid,30,1994,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+f35430a4,400,Matija Nastasić,SRB,DF,Leganés,31,1993,26,24,2110,23.4,1,0,1,1,0,0,3,0,0.04,0.0,0.04,0.04,0.04,Matches,laliga,2024-2025
+94bccc82,401,Natan,BRA,DF,Real Betis,23,2001,31,23,2175,24.2,1,1,2,1,0,0,5,1,0.04,0.04,0.08,0.04,0.08,Matches,laliga,2024-2025
+3171351c,402,Pau Navarro,ESP,DF,Villarreal,19,2005,17,8,916,10.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+c997b942,403,Roberto Navarro,ESP,MF,Mallorca,22,2002,23,15,1278,14.2,1,0,1,1,0,0,3,0,0.07,0.0,0.07,0.07,0.07,Matches,laliga,2024-2025
+3f10bd22,404,Jesús Navas,ESP,"MF,FW",Sevilla,38,1985,15,3,424,4.7,1,0,1,1,0,0,0,0,0.21,0.0,0.21,0.21,0.21,Matches,laliga,2024-2025
+0ad37003,405,Yvan Neyou,CMR,MF,Leganés,27,1997,30,27,2312,25.7,1,1,2,1,0,0,14,0,0.04,0.04,0.08,0.04,0.08,Matches,laliga,2024-2025
+5853ac44,406,Tanguy Nianzou,FRA,DF,Sevilla,22,2002,6,6,518,5.8,0,0,0,0,0,0,3,1,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+c14bc029,407,Saúl Ñíguez,ESP,MF,Sevilla,29,1994,24,17,1553,17.3,1,6,7,1,0,0,8,1,0.06,0.35,0.41,0.06,0.41,Matches,laliga,2024-2025
+a1c7fe4e,408,Tamás Nikitscher,HUN,"MF,DF",Valladolid,24,1999,13,9,858,9.5,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+5b9067c9,409,Adrian Niño,ESP,FW,Atlético Madrid,20,2004,1,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+5458f670,410,Hugo Novoa,ESP,"MF,DF",Alavés,21,2003,5,2,237,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+a6103274,411,Randy Nteka,ANG,FW,Rayo Vallecano,26,1997,24,16,1129,12.5,3,0,3,3,0,0,6,0,0.24,0.0,0.24,0.24,0.24,Matches,laliga,2024-2025
+be170419,412,Unai Núñez,ESP,DF,Athletic Club,27,1997,10,7,645,7.2,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+bdedffac,413,Ørjan Nyland,NOR,GK,Sevilla,33,1990,30,30,2673,29.7,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+97572117,414,Allan Nyom,CMR,"MF,DF",Getafe,36,1988,20,10,887,9.9,1,2,3,1,0,0,4,0,0.1,0.2,0.3,0.1,0.3,Matches,laliga,2024-2025
+ee8508c0,415,Jan Oblak,SVN,GK,Atlético Madrid,31,1993,36,36,3240,36.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+a08b974a,416,Lucas Ocampos,ARG,"MF,FW",Sevilla,30,1994,2,2,175,1.9,0,1,1,0,0,0,0,0,0.0,0.51,0.51,0.0,0.51,Matches,laliga,2024-2025
+1d1691ad,417,Álvaro Odriozola,ESP,DF,Real Sociedad,28,1995,2,0,43,0.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+06bb141c,418,Thiago Ojeda,ARG,MF,Villarreal,21,2003,1,0,8,0.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+b7e92b0e,419,Aingeru Olabarrieta,ESP,MF,Athletic Club,18,2005,1,1,54,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+3d99999d,420,Olasagasti,ESP,MF,Real Sociedad,23,2000,22,7,857,9.5,1,1,2,1,0,0,2,0,0.11,0.11,0.21,0.11,0.21,Matches,laliga,2024-2025
+a3e4bf46,421,Brian Oliván,ESP,DF,Espanyol,30,1994,17,12,1017,11.3,0,1,1,0,0,0,2,0,0.0,0.09,0.09,0.0,0.09,Matches,laliga,2024-2025
+5132b92c,422,Lucas Oliveira Rosa,BRA,DF,Valladolid,24,2000,21,21,1890,21.0,0,1,1,0,0,0,6,0,0.0,0.05,0.05,0.0,0.05,Matches,laliga,2024-2025
+ae44e8e2,423,Dani Olmo,ESP,MF,Barcelona,26,1998,25,13,1212,13.5,10,3,13,8,2,2,1,0,0.74,0.22,0.97,0.59,0.82,Matches,laliga,2024-2025
+7c363088,424,Aimar Oroz,ESP,MF,Osasuna,22,2001,37,35,2966,33.0,5,4,9,4,1,1,8,0,0.15,0.12,0.27,0.12,0.24,Matches,laliga,2024-2025
+a2f3bbb9,425,Ángel Ortíz,ESP,DF,Real Betis,20,2004,5,4,353,3.9,0,1,1,0,0,0,0,0,0.0,0.25,0.25,0.0,0.25,Matches,laliga,2024-2025
+349a7574,426,Gabriel Osei Misehouy,NED,FW,Girona,19,2005,9,1,257,2.9,1,0,1,1,0,0,0,0,0.35,0.0,0.35,0.35,0.35,Matches,laliga,2024-2025
+c83e3553,427,David Otorbi,ESP,FW,Valencia,16,2007,1,0,14,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+d6e3d7fb,428,Jesús Owono,EQG,GK,Alavés,23,2001,6,5,487,5.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+8c3c640c,429,Mikel Oyarzabal,ESP,FW,Real Sociedad,27,1997,35,28,2250,25.0,9,3,12,5,4,4,4,1,0.36,0.12,0.48,0.2,0.32,Matches,laliga,2024-2025
+9a93efc9,430,Cenk Özkacar,TUR,DF,Valladolid,23,2000,11,8,757,8.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+44150beb,431,Jon Pacheco,ESP,DF,Real Sociedad,23,2001,14,9,854,9.5,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+a275838a,432,Alex Padilla,ESP,GK,Athletic Club,20,2003,5,3,321,3.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+49dbab27,433,Isaac Palazón Camacho,ESP,"MF,FW",Rayo Vallecano,29,1994,35,25,2162,24.0,4,4,8,4,0,0,5,0,0.17,0.17,0.33,0.17,0.33,Matches,laliga,2024-2025
+b906757a,434,Aitor Paredes,ESP,DF,Athletic Club,24,2000,23,21,1812,20.1,3,0,3,3,0,0,4,1,0.15,0.0,0.15,0.15,0.15,Matches,laliga,2024-2025
+7460ca0d,435,Daniel Parejo,ESP,MF,Villarreal,35,1989,36,26,2273,25.3,3,3,6,2,1,2,8,0,0.12,0.12,0.24,0.08,0.2,Matches,laliga,2024-2025
+c9bdd4b2,436,Iago Parente,ESP,DF,Valladolid,18,2006,1,1,71,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+68ad2350,437,Álvaro Pascual,ESP,FW,Sevilla,22,2002,8,4,408,4.5,1,0,1,1,0,0,1,0,0.22,0.0,0.22,0.22,0.22,Matches,laliga,2024-2025
+63f04c6c,438,Alfonso Pedraza,ESP,"DF,MF",Villarreal,28,1996,12,4,460,5.1,0,2,2,0,0,0,0,0,0.0,0.39,0.39,0.0,0.39,Matches,laliga,2024-2025
+0d9b2d31,439,Pedri,ESP,MF,Barcelona,21,2002,37,35,2879,32.0,4,5,9,4,0,0,3,0,0.13,0.16,0.28,0.13,0.28,Matches,laliga,2024-2025
+112521d1,440,Adrià Pedrosa,ESP,DF,Sevilla,26,1998,31,27,2298,25.5,1,1,2,1,0,0,7,0,0.04,0.04,0.08,0.04,0.08,Matches,laliga,2024-2025
+8c4e56cb,441,Pejiño,ESP,MF,Las Palmas,28,1996,1,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+f18d7ab2,442,Andy Pelmard,MAD,DF,Las Palmas,24,2000,4,2,205,2.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+cc1c5035,443,Iñaki Peña,ESP,GK,Barcelona,25,1999,16,15,1396,15.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+1f079188,444,Rubén Peña,ESP,"FW,DF",Osasuna,33,1991,25,7,775,8.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+57e3f0c7,445,Nicolas Pépé,CIV,"FW,MF",Villarreal,29,1995,28,15,1500,16.7,3,6,9,3,0,0,3,0,0.18,0.36,0.54,0.18,0.54,Matches,laliga,2024-2025
+cb971b4f,446,Peque,ESP,"MF,FW",Sevilla,21,2002,26,14,1134,12.6,1,1,2,1,0,0,1,0,0.08,0.08,0.16,0.08,0.16,Matches,laliga,2024-2025
+819aa8e7,447,Ayoze Pérez,ESP,FW,Villarreal,31,1993,30,22,1970,21.9,19,2,21,19,0,0,4,0,0.87,0.09,0.96,0.87,0.96,Matches,laliga,2024-2025
+a8f21b9f,448,Carles Pérez,ESP,MF,Getafe,26,1998,27,15,1431,15.9,3,0,3,3,0,0,2,0,0.19,0.0,0.19,0.19,0.19,Matches,laliga,2024-2025
+3d79a68c,449,Francisco Perez,ESP,MF,Valencia,21,2002,26,4,570,6.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+237a3851,450,Kike Pérez,ESP,MF,Valladolid,27,1997,19,14,1191,13.2,2,0,2,2,0,0,6,0,0.15,0.0,0.15,0.15,0.15,Matches,laliga,2024-2025
+b7c04927,451,Luis Pérez,ESP,DF,Valladolid,29,1995,30,28,2558,28.4,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+6dfd8f05,452,Romain Perraud,FRA,DF,Real Betis,26,1997,28,22,2002,22.2,2,2,4,2,0,0,8,1,0.09,0.09,0.18,0.09,0.18,Matches,laliga,2024-2025
+06d00fbd,453,Valentín Pezzolesi,ESP,DF,Las Palmas,17,2007,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+9b30eda5,454,Pica,ESP,DF,Alavés,22,2002,9,5,499,5.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+540ec57b,455,Yeremi Pino,ESP,MF,Villarreal,21,2002,34,25,1934,21.5,4,7,11,4,0,0,11,0,0.19,0.33,0.51,0.19,0.51,Matches,laliga,2024-2025
+1bda5842,456,Portu,ESP,"FW,MF",Girona,32,1992,27,6,779,8.7,1,2,3,1,0,0,4,0,0.12,0.23,0.35,0.12,0.35,Matches,laliga,2024-2025
+1f60244a,457,Beñat Prados,ESP,MF,Athletic Club,23,2001,30,21,1715,19.1,1,0,1,1,0,0,7,0,0.05,0.0,0.05,0.05,0.05,Matches,laliga,2024-2025
+d1b060e2,458,Abdón Prats,ESP,"FW,MF",Mallorca,31,1992,24,3,456,5.1,2,0,2,1,1,1,4,0,0.39,0.0,0.39,0.2,0.2,Matches,laliga,2024-2025
+2683eda7,459,Javi Puado,ESP,"MF,FW",Espanyol,26,1998,35,35,2974,33.0,12,4,16,7,5,5,8,0,0.36,0.12,0.48,0.21,0.33,Matches,laliga,2024-2025
+ea6a7ab4,460,Dani Raba,ESP,"MF,FW",Leganés,28,1995,29,24,1879,20.9,8,6,14,4,4,5,6,0,0.38,0.29,0.67,0.19,0.48,Matches,laliga,2024-2025
+05d950c4,461,Arnau Rafús,ESP,GK,Valladolid,21,2003,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+b857bd29,462,Antonio Raillo,ESP,DF,Mallorca,32,1991,36,36,3207,35.6,2,0,2,2,0,0,7,1,0.06,0.0,0.06,0.06,0.06,Matches,laliga,2024-2025
+db714daf,463,Benito Ramírez,ESP,"MF,DF",Las Palmas,29,1995,19,2,478,5.3,0,0,0,0,0,0,2,1,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+833fb62e,464,Sandro Ramírez,ESP,"MF,FW",Las Palmas,29,1995,31,25,2034,22.6,9,3,12,8,1,1,6,0,0.4,0.13,0.53,0.35,0.49,Matches,laliga,2024-2025
+4772b1d1,465,Jacobo Ramón,ESP,DF,Real Madrid,19,2005,3,2,204,2.3,1,0,1,1,0,0,1,0,0.44,0.0,0.44,0.44,0.44,Matches,laliga,2024-2025
+3423f250,466,Raphinha,BRA,"MF,FW",Barcelona,27,1996,36,32,2839,31.5,18,9,27,16,2,2,4,0,0.57,0.29,0.86,0.51,0.79,Matches,laliga,2024-2025
+b1b99435,467,Andrei Ratiu,ROU,"DF,MF",Rayo Vallecano,26,1998,35,34,3065,34.1,2,3,5,2,0,0,5,0,0.06,0.09,0.15,0.06,0.15,Matches,laliga,2024-2025
+18f0a9f0,468,Raúl,ESP,FW,Osasuna,23,2000,32,5,750,8.3,4,0,4,4,0,0,1,0,0.48,0.0,0.48,0.48,0.48,Matches,laliga,2024-2025
+9a796115,469,Abde Rebbach,ALG,"MF,FW",Alavés,25,1998,8,4,385,4.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+374ee424,470,Álex Remiro,ESP,GK,Real Sociedad,29,1995,36,36,3240,36.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+34d29ab9,471,Daniel Requena,ESP,MF,Villarreal,20,2004,1,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+d9ba39fc,472,Diego Rico,ESP,DF,Getafe,31,1993,33,32,2819,31.3,0,3,3,0,0,0,9,1,0.0,0.1,0.1,0.0,0.1,Matches,laliga,2024-2025
+eb3dd471,473,Luis Rioja,ESP,MF,Alavés,30,1993,1,0,23,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+eb3dd471,474,Luis Rioja,ESP,MF,Valencia,30,1993,36,33,2831,31.5,5,3,8,3,2,2,6,0,0.16,0.1,0.25,0.1,0.19,Matches,laliga,2024-2025
+65154df0,475,Rodrigo Riquelme,ESP,"MF,DF",Atlético Madrid,24,2000,16,4,516,5.7,0,1,1,0,0,0,0,0,0.0,0.17,0.17,0.0,0.17,Matches,laliga,2024-2025
+36286814,476,Alberto Risco,ESP,MF,Getafe,18,2005,5,0,69,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+ea0aa7e0,477,Mihailo Ristić,SRB,"MF,DF",Celta Vigo,28,1995,10,6,429,4.8,0,1,1,0,0,0,1,0,0.0,0.21,0.21,0.0,0.21,Matches,laliga,2024-2025
+f1124008,478,Gorka Rivera Alonso,ESP,DF,Getafe,19,2004,1,0,20,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+da27e268,479,Marc Roca,ESP,MF,Real Betis,27,1996,14,11,906,10.1,2,2,4,2,0,0,4,0,0.2,0.2,0.4,0.2,0.4,Matches,laliga,2024-2025
+85bed4ee,480,Rodri,ESP,MF,Real Betis,24,2000,3,1,118,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+bf17fb4a,481,Adrian Rodriguez,ESP,GK,Alavés,23,2000,2,1,122,1.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+49a6ecbb,482,Álvaro Rodríguez,URU,FW,Getafe,20,2004,22,7,852,9.5,2,0,2,2,0,0,6,0,0.21,0.0,0.21,0.21,0.21,Matches,laliga,2024-2025
+19709006,483,Óscar Rodríguez Arnaiz,ESP,MF,Leganés,26,1998,29,12,1330,14.8,1,4,5,1,0,0,6,1,0.07,0.27,0.34,0.07,0.34,Matches,laliga,2024-2025
+8516f382,484,Arturo Rodríguez,ESP,FW,Las Palmas,17,2006,1,0,21,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+22371dee,485,Damián Rodríguez,ESP,MF,Celta Vigo,21,2003,17,10,927,10.3,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+70f8e0bd,486,Dani Rodríguez,ESP,"MF,FW",Mallorca,36,1988,37,26,2162,24.0,4,7,11,4,0,0,5,0,0.17,0.29,0.46,0.17,0.46,Matches,laliga,2024-2025
+f9cbad15,487,Daniel Rodriguez,ESP,MF,Barcelona,18,2005,1,1,37,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+715bf047,488,James Rodríguez,COL,MF,Rayo Vallecano,33,1991,6,1,140,1.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+08ec5e71,489,Javi Rodríguez,ESP,DF,Celta Vigo,21,2003,36,26,2514,27.9,3,2,5,3,0,0,7,0,0.11,0.07,0.18,0.11,0.18,Matches,laliga,2024-2025
+f9f74e43,490,Jesus Rodríguez,ESP,MF,Real Betis,18,2005,21,15,1111,12.3,2,0,2,2,0,0,0,0,0.16,0.0,0.16,0.16,0.16,Matches,laliga,2024-2025
+9b130479,491,Kirian Rodríguez,ESP,MF,Las Palmas,28,1996,21,21,1758,19.5,0,3,3,0,0,0,2,0,0.0,0.15,0.15,0.0,0.15,Matches,laliga,2024-2025
+7f78ad23,492,Ricardo Rodríguez,SUI,DF,Real Betis,31,1992,18,15,1274,14.2,0,1,1,0,0,0,0,0,0.0,0.07,0.07,0.0,0.07,Matches,laliga,2024-2025
+8f5e92a6,493,Rodrygo,BRA,"MF,FW",Real Madrid,23,2001,30,22,1928,21.4,6,5,11,6,0,0,0,0,0.28,0.23,0.51,0.28,0.51,Matches,laliga,2024-2025
+924ff27e,494,Leo Román,ESP,GK,Mallorca,24,2000,7,7,630,7.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+23cbf863,495,Carlos Romero,ESP,"DF,MF",Espanyol,22,2001,34,28,2554,28.4,2,1,3,2,0,0,7,0,0.07,0.04,0.11,0.07,0.11,Matches,laliga,2024-2025
+be719093,496,Isaac Romero,ESP,FW,Sevilla,24,2000,31,26,2156,24.0,4,2,6,4,0,1,10,1,0.17,0.08,0.25,0.17,0.25,Matches,laliga,2024-2025
+ca6edaa0,497,Luka Romero,ARG,"MF,FW",Alavés,19,2004,6,2,199,2.2,0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+4b511457,498,Oriol Romeu,ESP,MF,Girona,32,1991,25,17,1356,15.1,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+cb00f1e6,499,Vitor Roque,BRA,FW,Real Betis,19,2005,22,14,1235,13.7,4,0,4,4,0,0,4,0,0.29,0.0,0.29,0.29,0.29,Matches,laliga,2024-2025
+9b6d9b53,500,Valentin Rosier,FRA,DF,Leganés,27,1996,32,28,2595,28.8,1,2,3,1,0,0,8,0,0.03,0.07,0.1,0.03,0.1,Matches,laliga,2024-2025
+18b896d6,501,Antonio Rüdiger,GER,DF,Real Madrid,31,1993,29,26,2291,25.5,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+a55d8df5,502,Aitor Ruibal,ESP,"DF,FW",Real Betis,28,1996,29,13,1313,14.6,1,3,4,1,0,0,5,0,0.07,0.21,0.27,0.07,0.27,Matches,laliga,2024-2025
+6cbf8d0d,503,Abel Ruiz,ESP,FW,Girona,24,2000,23,17,1346,15.0,4,0,4,3,1,2,3,0,0.27,0.0,0.27,0.2,0.2,Matches,laliga,2024-2025
+4e4b8e97,504,Ferrán Ruiz,ESP,DF,Girona,21,2003,1,0,18,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+fbbb9269,505,Youssouf Sabaly,SEN,DF,Real Betis,31,1993,22,20,1581,17.6,0,1,1,0,0,0,1,0,0.0,0.06,0.06,0.0,0.06,Matches,laliga,2024-2025
+686cbe7d,506,Umar Sadiq,NGA,FW,Valencia,27,1997,16,9,825,9.2,5,0,5,5,0,0,4,0,0.55,0.0,0.55,0.55,0.55,Matches,laliga,2024-2025
+686cbe7d,507,Umar Sadiq,NGA,FW,Real Sociedad,27,1997,7,2,227,2.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+bfca375c,508,Jorge Sáenz,ESP,DF,Leganés,27,1996,23,19,1690,18.8,1,0,1,1,0,0,4,1,0.05,0.0,0.05,0.05,0.05,Matches,laliga,2024-2025
+59bb99d1,509,Jan Salas,ESP,MF,Mallorca,18,2005,4,0,43,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+0a69de7b,510,Kike Salas,ESP,DF,Sevilla,22,2002,31,25,2238,24.9,3,2,5,3,0,0,6,0,0.12,0.08,0.2,0.12,0.2,Matches,laliga,2024-2025
+1b4f1169,511,Albert Sambi Lokonga,BEL,MF,Sevilla,24,1999,22,16,1471,16.3,0,2,2,0,0,0,4,0,0.0,0.12,0.12,0.0,0.12,Matches,laliga,2024-2025
+0525a80f,512,Chuky san jose,ESP,"MF,FW",Valladolid,20,2004,18,9,728,8.1,2,0,2,2,0,0,1,0,0.25,0.0,0.25,0.25,0.25,Matches,laliga,2024-2025
+bdb624a3,513,Oihan Sancet,ESP,MF,Athletic Club,24,2000,29,19,1620,18.0,15,1,16,12,3,3,2,0,0.83,0.06,0.89,0.67,0.72,Matches,laliga,2024-2025
+a254bbe0,514,Antonio Sánchez,ESP,"MF,DF",Mallorca,27,1997,33,12,1395,15.5,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+70107d4d,515,Iván Sánchez,ESP,MF,Valladolid,31,1992,32,11,1404,15.6,2,1,3,2,0,0,4,0,0.13,0.06,0.19,0.13,0.19,Matches,laliga,2024-2025
+60359288,516,Javi Sánchez,ESP,DF,Valladolid,27,1997,25,25,2026,22.5,2,0,2,2,0,0,6,0,0.09,0.0,0.09,0.09,0.09,Matches,laliga,2024-2025
+cc6de655,517,Juanlu Sánchez,ESP,"MF,DF",Sevilla,20,2003,32,18,1722,19.1,4,4,8,4,0,0,6,1,0.21,0.21,0.42,0.21,0.42,Matches,laliga,2024-2025
+ffacd3d5,518,Manu Sánchez,ESP,DF,Alavés,23,2000,33,30,2634,29.3,1,0,1,1,0,0,6,1,0.03,0.0,0.03,0.03,0.03,Matches,laliga,2024-2025
+bea2537a,519,Maroan Sannadi,MAR,FW,Athletic Club,23,2001,16,7,754,8.4,1,1,2,1,0,0,0,0,0.12,0.12,0.24,0.12,0.24,Matches,laliga,2024-2025
+bc49fd34,520,Yellu Santiago,ESP,MF,Getafe,20,2004,19,4,372,4.1,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+a35134ae,521,Aleksandar Sedlar,SRB,DF,Alavés,32,1991,9,7,594,6.6,0,0,0,0,0,0,1,1,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+65ac6ea0,522,Sergi,ESP,DF,Leganés,32,1992,36,33,2957,32.9,2,0,2,2,0,0,2,1,0.06,0.0,0.06,0.06,0.06,Matches,laliga,2024-2025
+2ad0e5e5,523,Nicolás Serrano,ESP,MF,Athletic Club,21,2003,4,1,112,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+e7aa9d7c,524,Fábio Silva,POR,FW,Las Palmas,22,2002,24,22,1866,20.7,10,3,13,8,2,3,7,0,0.48,0.14,0.63,0.39,0.53,Matches,laliga,2024-2025
+ea83bfa6,525,Rui Silva,POR,GK,Real Betis,30,1994,15,15,1350,15.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+a6536561,526,Giuliano Simeone,ARG,MF,Atlético Madrid,21,2002,33,26,1926,21.4,2,6,8,2,0,0,4,0,0.09,0.28,0.37,0.09,0.37,Matches,laliga,2024-2025
+5dcf3e90,527,Unai Simón,ESP,GK,Athletic Club,27,1997,21,21,1890,21.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+73000a79,528,Daley Sinkgraven,NED,DF,Las Palmas,29,1995,2,1,91,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+b4819112,529,Jailson Siqueira,BRA,DF,Celta Vigo,28,1995,13,6,614,6.8,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+9970da54,530,Antonio Sivera,ESP,GK,Alavés,27,1996,32,32,2810,31.2,0,0,0,0,0,0,6,1,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+a496d4a2,531,Justin Smith,CAN,MF,Espanyol,21,2003,5,3,209,2.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+5fa714d5,532,Alex Sola,ESP,MF,Getafe,25,1999,19,13,1029,11.4,0,1,1,0,0,0,4,0,0.0,0.09,0.09,0.0,0.09,Matches,laliga,2024-2025
+c8c8ce16,533,Arnau Solà,ESP,DF,Villarreal,21,2003,1,0,13,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+1282939a,534,Jhon Solis,COL,MF,Girona,19,2004,19,3,535,5.9,1,0,1,1,0,0,3,0,0.17,0.0,0.17,0.17,0.17,Matches,laliga,2024-2025
+8f8c6934,535,David Soria,ESP,GK,Getafe,31,1993,38,38,3420,38.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+5512b1a9,536,Juan Soriano,ESP,GK,Leganés,26,1997,6,6,540,6.0,0,0,0,0,0,0,1,1,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+3aa74860,537,Hugo Sotelo,ESP,MF,Celta Vigo,20,2003,24,15,1254,13.9,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+4c6facae,538,Djibril Sow,SUI,MF,Sevilla,27,1997,30,24,2062,22.9,2,1,3,2,0,0,5,0,0.09,0.04,0.13,0.09,0.13,Matches,laliga,2024-2025
+5cfec13d,539,Carl Starfelt,SWE,DF,Celta Vigo,29,1995,28,26,2270,25.2,1,0,1,1,0,0,5,0,0.04,0.0,0.04,0.04,0.04,Matches,laliga,2024-2025
+d0b8e745,540,Orri Steinn Óskarsson,ISL,FW,Real Sociedad,19,2004,23,9,944,10.5,3,0,3,3,0,0,1,0,0.29,0.0,0.29,0.29,0.29,Matches,laliga,2024-2025
+4e257184,541,Stoichkov,ESP,"MF,FW",Alavés,30,1993,16,6,699,7.8,0,1,1,0,0,0,1,0,0.0,0.13,0.13,0.0,0.13,Matches,laliga,2024-2025
+220c11f1,542,Cristhian Stuani,URU,FW,Girona,37,1986,32,6,1078,12.0,11,2,13,8,3,3,4,0,0.92,0.17,1.09,0.67,0.83,Matches,laliga,2024-2025
+9c137b36,543,Álex Suárez,ESP,DF,Las Palmas,31,1993,30,30,2460,27.3,0,0,0,0,0,0,12,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+12c50af5,544,Denis Suárez,ESP,MF,Villarreal,30,1994,21,7,608,6.8,1,1,2,1,0,0,0,0,0.15,0.15,0.3,0.15,0.3,Matches,laliga,2024-2025
+1e1378e1,545,Luka Sučić,CRO,MF,Real Sociedad,21,2002,29,21,1792,19.9,1,1,2,1,0,0,4,0,0.05,0.05,0.1,0.05,0.1,Matches,laliga,2024-2025
+4e219ad2,546,Suso,ESP,"MF,FW",Sevilla,30,1993,16,4,606,6.7,0,2,2,0,0,0,3,0,0.0,0.3,0.3,0.0,0.3,Matches,laliga,2024-2025
+184fe4b2,547,Williot Swedberg,SWE,"FW,MF",Celta Vigo,20,2004,32,15,1348,15.0,4,5,9,4,0,0,1,0,0.27,0.33,0.6,0.27,0.6,Matches,laliga,2024-2025
+e5ec95f8,548,Mamadou Sylla,SEN,"FW,MF",Valladolid,30,1994,29,17,1583,17.6,5,1,6,1,4,4,5,0,0.28,0.06,0.34,0.06,0.11,Matches,laliga,2024-2025
+01b8a2b2,549,Wojciech Szczęsny,POL,GK,Barcelona,34,1990,15,15,1350,15.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+e92cd3f7,550,Alexander Sørloth,NOR,FW,Atlético Madrid,28,1995,35,15,1566,17.4,20,2,22,19,1,1,4,0,1.15,0.11,1.26,1.09,1.21,Matches,laliga,2024-2025
+34269bdf,551,Renato Tapia,PER,"MF,DF",Leganés,29,1995,34,28,2424,26.9,1,0,1,1,0,0,8,0,0.04,0.0,0.04,0.04,0.04,Matches,laliga,2024-2025
+59c29820,552,César Tárrega,ESP,DF,Valencia,22,2002,34,34,3026,33.6,2,0,2,2,0,0,7,0,0.06,0.0,0.06,0.06,0.06,Matches,laliga,2024-2025
+4f255115,553,Aurélien Tchouaméni,FRA,"DF,MF",Real Madrid,24,2000,32,31,2689,29.9,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+868ce848,554,Álvaro Tejero,ESP,"MF,DF",Espanyol,28,1996,28,13,1238,13.8,1,4,5,1,0,0,2,0,0.07,0.29,0.36,0.07,0.36,Matches,laliga,2024-2025
+f99cc198,555,Martín Tejón,ESP,MF,Valencia,20,2004,4,0,49,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+66654daa,556,Nahuel Tenaglia,ARG,DF,Alavés,28,1996,34,33,2922,32.5,2,1,3,2,0,0,11,0,0.06,0.03,0.09,0.06,0.09,Matches,laliga,2024-2025
+6f51e382,557,Marc-André ter Stegen,GER,GK,Barcelona,32,1992,8,8,674,7.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+f36016a5,558,Ramón Terrats,ESP,FW,Villarreal,23,2000,11,1,131,1.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+f36016a5,559,Ramón Terrats,ESP,"MF,FW",Getafe,23,2000,15,15,1219,13.5,4,1,5,4,0,0,1,0,0.3,0.07,0.37,0.3,0.37,Matches,laliga,2024-2025
+02ef8778,560,Raúl de Tomás,ESP,FW,Rayo Vallecano,29,1994,2,0,22,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+04e531b6,561,Pablo Torre,ESP,MF,Barcelona,21,2003,10,4,310,3.4,3,1,4,3,0,0,0,0,0.87,0.29,1.16,0.87,1.16,Matches,laliga,2024-2025
+381dbcfc,562,David Torres,ESP,DF,Valladolid,21,2003,18,15,1387,15.4,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+9e1035f8,563,Ferrán Torres,ESP,"FW,MF",Barcelona,24,2000,27,12,1106,12.3,10,6,16,10,0,0,1,1,0.81,0.49,1.3,0.81,1.3,Matches,laliga,2024-2025
+0e4fef6e,564,Lucas Torró,ESP,MF,Osasuna,30,1994,35,35,2957,32.9,3,0,3,3,0,0,10,0,0.09,0.0,0.09,0.09,0.09,Matches,laliga,2024-2025
+a4b1028a,565,Hamari Traoré,MLI,DF,Real Sociedad,32,1992,11,9,700,7.8,0,1,1,0,0,0,2,0,0.0,0.13,0.13,0.0,0.13,Matches,laliga,2024-2025
+fc647b34,566,Óscar Trejo,ARG,MF,Rayo Vallecano,36,1988,19,6,496,5.5,1,0,1,1,0,0,1,0,0.18,0.0,0.18,0.18,0.18,Matches,laliga,2024-2025
+f7e87032,567,Viktor Tsyhankov,UKR,"MF,FW",Girona,26,1997,27,23,1913,21.3,2,5,7,2,0,0,1,0,0.09,0.24,0.33,0.09,0.33,Matches,laliga,2024-2025
+068f4dec,568,Beñat Turrientes,ESP,MF,Real Sociedad,22,2002,21,11,942,10.5,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+87941696,569,Christantus Uche,NGA,"FW,MF",Getafe,21,2003,33,30,2486,27.6,4,6,10,4,0,0,8,2,0.14,0.22,0.36,0.14,0.36,Matches,laliga,2024-2025
+bf25cb29,570,Naci Ünüvar,NED,"FW,MF",Espanyol,21,2003,2,0,31,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+592f3158,571,Óscar Valentín,ESP,MF,Rayo Vallecano,29,1994,34,18,1835,20.4,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+84f55b4a,572,Germán Valera,ESP,MF,Valencia,22,2002,8,1,148,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+f2c6ac01,573,Martin Valjent,SVK,DF,Mallorca,28,1995,31,31,2763,30.7,3,0,3,3,0,0,4,0,0.1,0.0,0.1,0.1,0.1,Matches,laliga,2024-2025
+c2111b45,574,Jesús Vallejo,ESP,DF,Real Madrid,27,1997,4,1,138,1.5,0,1,1,0,0,0,0,0,0.0,0.65,0.65,0.0,0.65,Matches,laliga,2024-2025
+0959c2a2,575,Federico Valverde,URU,"MF,DF",Real Madrid,26,1998,36,34,3032,33.7,6,4,10,6,0,0,4,0,0.18,0.12,0.3,0.18,0.3,Matches,laliga,2024-2025
+cf9bdd43,576,Siebe Van Der Heyden,BEL,DF,Mallorca,26,1998,2,1,97,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+6ecbddf6,577,Ruben Vargas,SUI,"MF,FW",Sevilla,25,1998,11,9,671,7.5,2,1,3,2,0,0,0,0,0.27,0.13,0.4,0.27,0.4,Matches,laliga,2024-2025
+27dc1378,578,José Luis García Vayá,ESP,MF,Valencia,25,1998,34,18,1742,19.4,2,2,4,0,2,2,8,1,0.1,0.1,0.21,0.0,0.1,Matches,laliga,2024-2025
+106c142c,579,Jesus Vazquez,ESP,DF,Valencia,21,2003,19,10,919,10.2,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+fd51b456,580,Lucas Vázquez,ESP,DF,Real Madrid,33,1991,32,25,2189,24.3,1,5,6,1,0,0,4,0,0.04,0.21,0.25,0.04,0.25,Matches,laliga,2024-2025
+3f7bafbe,581,Alejo Véliz,ARG,FW,Espanyol,20,2003,27,10,1127,12.5,1,0,1,1,0,0,3,0,0.08,0.0,0.08,0.08,0.08,Matches,laliga,2024-2025
+b0fce72c,582,Mikel Vesga,ESP,MF,Athletic Club,31,1993,25,10,988,11.0,0,0,0,0,0,1,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+90df343e,583,Carlos Vicente,ESP,MF,Alavés,25,1999,37,35,3092,34.4,5,5,10,4,1,1,3,0,0.15,0.15,0.29,0.12,0.26,Matches,laliga,2024-2025
+e6e7c819,584,Pau Victor,ESP,FW,Barcelona,22,2001,21,2,319,3.5,2,1,3,2,0,0,2,0,0.56,0.28,0.85,0.56,0.85,Matches,laliga,2024-2025
+3a9c4b7b,585,Nacho Vidal,ESP,DF,Osasuna,29,1995,5,1,124,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+2ae958ab,586,Fran Vieites,ESP,GK,Real Betis,25,1999,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+36b300b8,587,Sergio Viera,ESP,MF,Las Palmas,19,2005,2,1,96,1.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+57be54ec,588,Asier Villalibre,ESP,FW,Alavés,26,1997,16,2,333,3.7,1,1,2,0,1,1,2,0,0.27,0.27,0.54,0.0,0.27,Matches,laliga,2024-2025
+cde52ef5,589,Iván Villar,ESP,GK,Celta Vigo,27,1997,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+c56a2d27,590,Viti,ESP,DF,Las Palmas,26,1997,29,23,1982,22.0,0,2,2,0,0,0,5,0,0.0,0.09,0.09,0.0,0.09,Matches,laliga,2024-2025
+ab7bf91d,591,Daniel Vivian,ESP,DF,Athletic Club,25,1999,32,28,2608,29.0,4,0,4,4,0,0,3,0,0.14,0.0,0.14,0.14,0.14,Matches,laliga,2024-2025
+6a99e0b1,592,Iñaki Williams,GHA,"MF,FW",Athletic Club,30,1994,35,29,2652,29.5,6,8,14,6,0,0,1,0,0.2,0.27,0.48,0.2,0.48,Matches,laliga,2024-2025
+afdc14d7,593,Nico Williams,ESP,MF,Athletic Club,22,2002,29,22,1996,22.2,5,5,10,5,0,0,1,0,0.23,0.23,0.45,0.23,0.45,Matches,laliga,2024-2025
+5dfc6ad5,594,Axel Witsel,BEL,DF,Atlético Madrid,35,1989,14,9,852,9.5,0,1,1,0,0,0,1,0,0.0,0.11,0.11,0.0,0.11,Matches,laliga,2024-2025
+82ec26c1,595,Lamine Yamal,ESP,"MF,FW",Barcelona,17,2007,35,31,2856,31.7,9,13,22,9,0,0,3,0,0.28,0.41,0.69,0.28,0.69,Matches,laliga,2024-2025
+79310b33,596,Daniel Yáñez,ESP,MF,Real Madrid,17,2007,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+7410d325,597,Bertuğ Yıldırım,TUR,FW,Getafe,22,2002,22,14,1083,12.0,1,0,1,1,0,0,7,0,0.08,0.0,0.08,0.08,0.08,Matches,laliga,2024-2025
+7f14ec2a,598,Arsen Zakharyan,RUS,MF,Real Sociedad,21,2003,3,1,73,0.8,1,0,1,1,0,0,0,0,1.23,0.0,1.23,1.23,1.23,Matches,laliga,2024-2025
+a96103b2,599,Bryan Zaragoza,ESP,"MF,FW",Osasuna,22,2001,27,22,1836,20.4,1,6,7,1,0,0,4,0,0.05,0.29,0.34,0.05,0.34,Matches,laliga,2024-2025
+5c7845f6,600,Igor Zubeldia,ESP,DF,Real Sociedad,27,1997,28,27,2269,25.2,0,0,0,0,0,0,6,1,0.0,0.0,0.0,0.0,0.0,Matches,laliga,2024-2025
+3ee0dd59,601,Martín Zubimendi,ESP,MF,Real Sociedad,25,1999,36,33,2962,32.9,2,1,3,2,0,0,6,0,0.06,0.03,0.09,0.06,0.09,Matches,laliga,2024-2025

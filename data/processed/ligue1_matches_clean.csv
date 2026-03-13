@@ -1,0 +1,307 @@
+Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee,Match Report,Notes,league,saison,home_score,away_score,total_goals,result
+1.0,Fri,2024-08-16,20:45,Le Havre,1–4,Paris Saint-Germain,23167.0,Stade Océane,Willy Delajod,Match Report,,ligue1,2024-2025,1,4,5,away
+1.0,Sat,2024-08-17,17:00,Brest,1–5,Marseille,14962.0,Stade Francis-Le Blé,Benoît Bastien,Match Report,,ligue1,2024-2025,1,5,6,away
+1.0,Sat,2024-08-17,19:00,Reims,0–2,Lille,14755.0,Stade Auguste-Delaune,Eric Wattellier,Match Report,,ligue1,2024-2025,0,2,2,away
+1.0,Sat,2024-08-17,21:00,Monaco,1–0,Saint-Étienne,14250.0,Stade Louis II,Clément Turpin,Match Report,,ligue1,2024-2025,1,0,1,home
+1.0,Sun,2024-08-18,15:00,Auxerre,2–1,Nice,16354.0,Stade de l'Abbé Deschamps,Romain Lissorgue,Match Report,,ligue1,2024-2025,2,1,3,home
+1.0,Sun,2024-08-18,17:00,Montpellier,1–1,Strasbourg,15706.0,Stade de la Mosson-Mondial 98,Mathieu Vernice,Match Report,,ligue1,2024-2025,1,1,2,draw
+1.0,Sun,2024-08-18,17:00,Angers,0–1,Lens,14811.0,Stade Raymond Kopa,Thomas Léonard,Match Report,,ligue1,2024-2025,0,1,1,away
+1.0,Sun,2024-08-18,17:00,Toulouse,0–0,Nantes,25491.0,Stadium de Toulouse,Jeremy Stinat,Match Report,,ligue1,2024-2025,0,0,0,draw
+1.0,Sun,2024-08-18,20:45,Rennes,3–0,Lyon,26026.0,Roazhon Park,Benoît Millot,Match Report,,ligue1,2024-2025,3,0,3,home
+2.0,Fri,2024-08-23,20:45,Paris Saint-Germain,6–0,Montpellier,46000.0,Parc des Princes,Marc Bollengier,Match Report,,ligue1,2024-2025,6,0,6,home
+2.0,Sat,2024-08-24,17:00,Lyon,0–2,Monaco,54392.0,Groupama Stadium,Stéphanie Frappart,Match Report,,ligue1,2024-2025,0,2,2,away
+2.0,Sat,2024-08-24,19:00,Lille,2–0,Angers,36906.0,Decathlon Arena - Stade Pierre-Mauroy,Abdelatif Kherradji,Match Report,,ligue1,2024-2025,2,0,2,home
+2.0,Sat,2024-08-24,21:00,Saint-Étienne,0–2,Le Havre,16958.0,Stade Geoffroy-Guichard,Florent Batta,Match Report,,ligue1,2024-2025,0,2,2,away
+2.0,Sun,2024-08-25,15:00,Lens,2–0,Brest,37435.0,Stade Bollaert-Delelis,Jérémie Pignard,Match Report,,ligue1,2024-2025,2,0,2,home
+2.0,Sun,2024-08-25,17:00,Strasbourg,3–1,Rennes,19026.0,Stade de la Meinau,Eric Wattellier,Match Report,,ligue1,2024-2025,3,1,4,home
+2.0,Sun,2024-08-25,17:00,Nice,1–1,Toulouse,21656.0,Allianz Riviera,Bastien Dechepy,Match Report,,ligue1,2024-2025,1,1,2,draw
+2.0,Sun,2024-08-25,17:00,Nantes,2–0,Auxerre,31077.0,Stade de la Beaujoire - Louis Fonteneau,Gaël Angoula,Match Report,,ligue1,2024-2025,2,0,2,home
+2.0,Sun,2024-08-25,20:45,Marseille,2–2,Reims,63841.0,Orange Vélodrome,Hakim Ben El Hadj Salem,Match Report,,ligue1,2024-2025,2,2,4,draw
+3.0,Fri,2024-08-30,20:45,Lyon,4–3,Strasbourg,43805.0,Groupama Stadium,Thomas Léonard,Match Report,,ligue1,2024-2025,4,3,7,home
+3.0,Sat,2024-08-31,17:00,Brest,4–0,Saint-Étienne,14885.0,Stade Francis-Le Blé,Gaël Angoula,Match Report,,ligue1,2024-2025,4,0,4,home
+3.0,Sat,2024-08-31,19:00,Montpellier,1–3,Nantes,13000.0,Stade de la Mosson-Mondial 98,Benoît Millot,Match Report,,ligue1,2024-2025,1,3,4,away
+3.0,Sat,2024-08-31,21:00,Toulouse,1–3,Marseille,19178.0,Stadium de Toulouse,Stéphanie Frappart,Match Report,,ligue1,2024-2025,1,3,4,away
+3.0,Sun,2024-09-01,15:00,Monaco,1–1,Lens,9030.0,Stade Louis II,Willy Delajod,Match Report,,ligue1,2024-2025,1,1,2,draw
+3.0,Sun,2024-09-01,17:00,Angers,1–4,Nice,9168.0,Stade Raymond Kopa,Jeremy Stinat,Match Report,,ligue1,2024-2025,1,4,5,away
+3.0,Sun,2024-09-01,17:00,Reims,2–1,Rennes,12856.0,Stade Auguste-Delaune,Mathieu Vernice,Match Report,,ligue1,2024-2025,2,1,3,home
+3.0,Sun,2024-09-01,17:00,Le Havre,3–1,Auxerre,19715.0,Stade Océane,Marc Bollengier,Match Report,,ligue1,2024-2025,3,1,4,home
+3.0,Sun,2024-09-01,20:45,Lille,1–3,Paris Saint-Germain,45434.0,Decathlon Arena - Stade Pierre-Mauroy,Benoît Bastien,Match Report,,ligue1,2024-2025,1,3,4,away
+4.0,Fri,2024-09-13,20:45,Saint-Étienne,1–0,Lille,23000.0,Stade Geoffroy-Guichard,François Letexier,Match Report,,ligue1,2024-2025,1,0,1,home
+4.0,Sat,2024-09-14,17:00,Marseille,2–0,Nice,65803.0,Orange Vélodrome,Benoît Millot,Match Report,,ligue1,2024-2025,2,0,2,home
+4.0,Sat,2024-09-14,19:00,Auxerre,0–3,Monaco,17045.0,Stade de l'Abbé Deschamps,Abdelatif Kherradji,Match Report,,ligue1,2024-2025,0,3,3,away
+4.0,Sat,2024-09-14,21:00,Paris Saint-Germain,3–1,Brest,47000.0,Parc des Princes,Clément Turpin,Match Report,,ligue1,2024-2025,3,1,4,home
+4.0,Sun,2024-09-15,15:00,Rennes,3–0,Montpellier,27451.0,Roazhon Park,Jérémie Pignard,Match Report,,ligue1,2024-2025,3,0,3,home
+4.0,Sun,2024-09-15,17:00,Strasbourg,1–1,Angers,19135.0,Stade de la Meinau,Hakim Ben El Hadj Salem,Match Report,,ligue1,2024-2025,1,1,2,draw
+4.0,Sun,2024-09-15,17:00,Toulouse,2–0,Le Havre,30097.0,Stadium de Toulouse,Eric Wattellier,Match Report,,ligue1,2024-2025,2,0,2,home
+4.0,Sun,2024-09-15,17:00,Nantes,1–2,Reims,29811.0,Stade de la Beaujoire - Louis Fonteneau,Willy Delajod,Match Report,,ligue1,2024-2025,1,2,3,away
+4.0,Sun,2024-09-15,20:45,Lens,0–0,Lyon,38116.0,Stade Bollaert-Delelis,Bastien Dechepy,Match Report,,ligue1,2024-2025,0,0,0,draw
+5.0,Fri,2024-09-20,20:45,Nice,8–0,Saint-Étienne,30024.0,Allianz Riviera,Thomas Léonard,Match Report,,ligue1,2024-2025,8,0,8,home
+5.0,Sat,2024-09-21,17:00,Lille,3–3,Strasbourg,39516.0,Decathlon Arena - Stade Pierre-Mauroy,Jérôme Brisard,Match Report,,ligue1,2024-2025,3,3,6,draw
+5.0,Sat,2024-09-21,19:00,Rennes,1–1,Lens,28500.0,Roazhon Park,Jeremy Stinat,Match Report,,ligue1,2024-2025,1,1,2,draw
+5.0,Sat,2024-09-21,21:00,Reims,1–1,Paris Saint-Germain,20220.0,Stade Auguste-Delaune,Jérémie Pignard,Match Report,,ligue1,2024-2025,1,1,2,draw
+5.0,Sun,2024-09-22,15:00,Monaco,3–1,Le Havre,6000.0,Stade Louis II,Stéphanie Frappart,Match Report,,ligue1,2024-2025,3,1,4,home
+5.0,Sun,2024-09-22,17:00,Angers,1–1,Nantes,16960.0,Stade Raymond Kopa,Mathieu Vernice,Match Report,,ligue1,2024-2025,1,1,2,draw
+5.0,Sun,2024-09-22,17:00,Brest,2–0,Toulouse,14580.0,Stade Francis-Le Blé,Florent Batta,Match Report,,ligue1,2024-2025,2,0,2,home
+5.0,Sun,2024-09-22,17:00,Montpellier,3–2,Auxerre,11643.0,Stade de la Mosson-Mondial 98,Hakim Ben El Hadj Salem,Match Report,,ligue1,2024-2025,3,2,5,home
+5.0,Sun,2024-09-22,20:45,Lyon,2–3,Marseille,53928.0,Groupama Stadium,Benoît Bastien,Match Report,,ligue1,2024-2025,2,3,5,away
+6.0,Fri,2024-09-27,19:00,Auxerre,3–0,Brest,15381.0,Stade de l'Abbé Deschamps,Jeremy Stinat,Match Report,,ligue1,2024-2025,3,0,3,home
+6.0,Fri,2024-09-27,21:00,Paris Saint-Germain,3–1,Rennes,47000.0,Parc des Princes,Hakim Ben El Hadj Salem,Match Report,,ligue1,2024-2025,3,1,4,home
+6.0,Sat,2024-09-28,17:00,Lens,0–0,Nice,37301.0,Stade Bollaert-Delelis,François Letexier,Match Report,,ligue1,2024-2025,0,0,0,draw
+6.0,Sat,2024-09-28,19:00,Le Havre,0–3,Lille,21369.0,Stade Océane,Bastien Dechepy,Match Report,,ligue1,2024-2025,0,3,3,away
+6.0,Sat,2024-09-28,21:00,Monaco,2–1,Montpellier,13065.0,Stade Louis II,Marc Bollengier,Match Report,,ligue1,2024-2025,2,1,3,home
+6.0,Sun,2024-09-29,15:00,Toulouse,1–2,Lyon,30026.0,Stadium de Toulouse,Gaël Angoula,Match Report,,ligue1,2024-2025,1,2,3,away
+6.0,Sun,2024-09-29,17:00,Angers,1–3,Reims,8526.0,Stade Raymond Kopa,Eric Wattellier,Match Report,,ligue1,2024-2025,1,3,4,away
+6.0,Sun,2024-09-29,17:00,Nantes,2–2,Saint-Étienne,34005.0,Stade de la Beaujoire - Louis Fonteneau,Abdelatif Kherradji,Match Report,,ligue1,2024-2025,2,2,4,draw
+6.0,Sun,2024-09-29,20:45,Strasbourg,1–0,Marseille,19790.0,Stade de la Meinau,Willy Delajod,Match Report,,ligue1,2024-2025,1,0,1,home
+7.0,Fri,2024-10-04,20:45,Marseille,1–1,Angers,54568.0,Orange Vélodrome,Romain Lissorgue,Match Report,,ligue1,2024-2025,1,1,2,draw
+7.0,Sat,2024-10-05,17:00,Saint-Étienne,3–1,Auxerre,31445.0,Stade Geoffroy-Guichard,Mathieu Vernice,Match Report,,ligue1,2024-2025,3,1,4,home
+7.0,Sat,2024-10-05,19:00,Lille,2–1,Toulouse,36947.0,Decathlon Arena - Stade Pierre-Mauroy,Clément Turpin,Match Report,,ligue1,2024-2025,2,1,3,home
+7.0,Sat,2024-10-05,21:00,Rennes,1–2,Monaco,26533.0,Roazhon Park,Thomas Léonard,Match Report,,ligue1,2024-2025,1,2,3,away
+7.0,Sun,2024-10-06,15:00,Lyon,2–0,Nantes,51888.0,Groupama Stadium,Marc Bollengier,Match Report,,ligue1,2024-2025,2,0,2,home
+7.0,Sun,2024-10-06,17:00,Brest,2–0,Le Havre,14572.0,Stade Francis-Le Blé,Benoît Millot,Match Report,,ligue1,2024-2025,2,0,2,home
+7.0,Sun,2024-10-06,17:00,Reims,4–2,Montpellier,14903.0,Stade Auguste-Delaune,Benoît Bastien,Match Report,,ligue1,2024-2025,4,2,6,home
+7.0,Sun,2024-10-06,17:00,Strasbourg,2–2,Lens,19968.0,Stade de la Meinau,Stéphanie Frappart,Match Report,,ligue1,2024-2025,2,2,4,draw
+7.0,Sun,2024-10-06,20:45,Nice,1–1,Paris Saint-Germain,30247.0,Allianz Riviera,Jérôme Brisard,Match Report,,ligue1,2024-2025,1,1,2,draw
+8.0,Fri,2024-10-18,20:45,Monaco,0–0,Lille,7263.0,Stade Louis II,Eric Wattellier,Match Report,,ligue1,2024-2025,0,0,0,draw
+8.0,Sat,2024-10-19,17:00,Brest,1–1,Rennes,15099.0,Stade Francis-Le Blé,Bastien Dechepy,Match Report,,ligue1,2024-2025,1,1,2,draw
+8.0,Sat,2024-10-19,19:00,Saint-Étienne,0–2,Lens,36832.0,Stade Geoffroy-Guichard,Romain Lissorgue,Match Report,,ligue1,2024-2025,0,2,2,away
+8.0,Sat,2024-10-19,21:00,Paris Saint-Germain,4–2,Strasbourg,47590.0,Parc des Princes,Jeremy Stinat,Match Report,,ligue1,2024-2025,4,2,6,home
+8.0,Sun,2024-10-20,15:00,Le Havre,0–4,Lyon,22490.0,Stade Océane,Abdelatif Kherradji,Match Report,,ligue1,2024-2025,0,4,4,away
+8.0,Sun,2024-10-20,17:00,Auxerre,2–1,Reims,17016.0,Stade de l'Abbé Deschamps,Florent Batta,Match Report,,ligue1,2024-2025,2,1,3,home
+8.0,Sun,2024-10-20,17:00,Nantes,1–1,Nice,28141.0,Stade de la Beaujoire - Louis Fonteneau,Gaël Angoula,Match Report,,ligue1,2024-2025,1,1,2,draw
+8.0,Sun,2024-10-20,17:00,Toulouse,1–1,Angers,24107.0,Stadium de Toulouse,Willy Delajod,Match Report,,ligue1,2024-2025,1,1,2,draw
+8.0,Sun,2024-10-20,20:45,Montpellier,0–5,Marseille,18000.0,Stade de la Mosson-Mondial 98,Clément Turpin,Match Report,,ligue1,2024-2025,0,5,5,away
+9.0,Fri,2024-10-25,20:45,Rennes,1–0,Le Havre,27130.0,Roazhon Park,Florent Batta,Match Report,,ligue1,2024-2025,1,0,1,home
+9.0,Sat,2024-10-26,17:00,Angers,4–2,Saint-Étienne,13796.0,Stade Raymond Kopa,Marc Bollengier,Match Report,,ligue1,2024-2025,4,2,6,home
+9.0,Sat,2024-10-26,19:00,Reims,1–2,Brest,17172.0,Stade Auguste-Delaune,Jérôme Brisard,Match Report,,ligue1,2024-2025,1,2,3,away
+9.0,Sat,2024-10-26,21:00,Lens,0–2,Lille,38223.0,Stade Bollaert-Delelis,Benoît Bastien,Match Report,,ligue1,2024-2025,0,2,2,away
+9.0,Sun,2024-10-27,15:00,Lyon,2–2,Auxerre,54868.0,Groupama Stadium,Jeremy Stinat,Match Report,,ligue1,2024-2025,2,2,4,draw
+9.0,Sun,2024-10-27,17:00,Nice,2–1,Monaco,29795.0,Allianz Riviera,Jérémie Pignard,Match Report,,ligue1,2024-2025,2,1,3,home
+9.0,Sun,2024-10-27,17:00,Strasbourg,3–1,Nantes,19398.0,Stade de la Meinau,Hakim Ben El Hadj Salem,Match Report,,ligue1,2024-2025,3,1,4,home
+9.0,Sun,2024-10-27,17:00,Montpellier,0–3,Toulouse,14111.0,Stade de la Mosson-Mondial 98,Thomas Léonard,Match Report,,ligue1,2024-2025,0,3,3,away
+9.0,Sun,2024-10-27,20:45,Marseille,0–3,Paris Saint-Germain,66115.0,Orange Vélodrome,François Letexier,Match Report,,ligue1,2024-2025,0,3,3,away
+10.0,Fri,2024-11-01,19:00,Monaco,0–1,Angers,10540.0,Stade Louis II,Abdelatif Kherradji,Match Report,,ligue1,2024-2025,0,1,1,away
+10.0,Fri,2024-11-01,21:00,Lille,1–1,Lyon,45084.0,Decathlon Arena - Stade Pierre-Mauroy,Jérôme Brisard,Match Report,,ligue1,2024-2025,1,1,2,draw
+10.0,Sat,2024-11-02,17:00,Paris Saint-Germain,1–0,Lens,47926.0,Parc des Princes,Willy Delajod,Match Report,,ligue1,2024-2025,1,0,1,home
+10.0,Sat,2024-11-02,19:00,Brest,0–1,Nice,14534.0,Stade Francis-Le Blé,Clément Turpin,Match Report,,ligue1,2024-2025,0,1,1,away
+10.0,Sat,2024-11-02,21:00,Saint-Étienne,2–0,Strasbourg,33043.0,Stade Geoffroy-Guichard,Eric Wattellier,Match Report,,ligue1,2024-2025,2,0,2,home
+10.0,Sun,2024-11-03,15:00,Toulouse,1–0,Reims,23769.0,Stadium de Toulouse,Mathieu Vernice,Match Report,,ligue1,2024-2025,1,0,1,home
+10.0,Sun,2024-11-03,17:00,Le Havre,1–0,Montpellier,18703.0,Stade Océane,Stéphanie Frappart,Match Report,,ligue1,2024-2025,1,0,1,home
+10.0,Sun,2024-11-03,17:00,Auxerre,4–0,Rennes,16366.0,Stade de l'Abbé Deschamps,Gaël Angoula,Match Report,,ligue1,2024-2025,4,0,4,home
+10.0,Sun,2024-11-03,20:45,Nantes,1–2,Marseille,33248.0,Stade de la Beaujoire - Louis Fonteneau,Bastien Dechepy,Match Report,,ligue1,2024-2025,1,2,3,away
+11.0,Fri,2024-11-08,20:45,Marseille,1–3,Auxerre,64184.0,Orange Vélodrome,Marc Bollengier,Match Report,,ligue1,2024-2025,1,3,4,away
+11.0,Sat,2024-11-09,17:00,Strasbourg,1–3,Monaco,19451.0,Stade de la Meinau,Bastien Dechepy,Match Report,,ligue1,2024-2025,1,3,4,away
+11.0,Sat,2024-11-09,19:00,Lens,3–2,Nantes,38202.0,Stade Bollaert-Delelis,Clément Turpin,Match Report,,ligue1,2024-2025,3,2,5,home
+11.0,Sat,2024-11-09,21:00,Angers,2–4,Paris Saint-Germain,17212.0,Stade Raymond Kopa,Benoît Millot,Match Report,,ligue1,2024-2025,2,4,6,away
+11.0,Sun,2024-11-10,15:00,Nice,2–2,Lille,25063.0,Allianz Riviera,Jeremy Stinat,Match Report,,ligue1,2024-2025,2,2,4,draw
+11.0,Sun,2024-11-10,17:00,Montpellier,3–1,Brest,12936.0,Stade de la Mosson-Mondial 98,Jérémie Pignard,Match Report,,ligue1,2024-2025,3,1,4,home
+11.0,Sun,2024-11-10,17:00,Rennes,0–2,Toulouse,27525.0,Roazhon Park,Romain Lissorgue,Match Report,,ligue1,2024-2025,0,2,2,away
+11.0,Sun,2024-11-10,17:00,Le Havre,0–3,Reims,19256.0,Stade Océane,Hakim Ben El Hadj Salem,Match Report,,ligue1,2024-2025,0,3,3,away
+11.0,Sun,2024-11-10,20:45,Lyon,1–0,Saint-Étienne,58082.0,Groupama Stadium,Willy Delajod,Match Report,,ligue1,2024-2025,1,0,1,home
+12.0,Fri,2024-11-22,19:00,Monaco,3–2,Brest,5800.0,Stade Louis II,Thomas Léonard,Match Report,,ligue1,2024-2025,3,2,5,home
+12.0,Fri,2024-11-22,21:00,Paris Saint-Germain,3–0,Toulouse,47000.0,Parc des Princes,Gaël Angoula,Match Report,,ligue1,2024-2025,3,0,3,home
+12.0,Sat,2024-11-23,17:00,Lens,1–3,Marseille,38823.0,Stade Bollaert-Delelis,Eric Wattellier,Match Report,,ligue1,2024-2025,1,3,4,away
+12.0,Sat,2024-11-23,19:00,Saint-Étienne,1–0,Montpellier,33008.0,Stade Geoffroy-Guichard,Florent Batta,Match Report,,ligue1,2024-2025,1,0,1,home
+12.0,Sat,2024-11-23,21:00,Reims,1–1,Lyon,18500.0,Stade Auguste-Delaune,Stéphanie Frappart,Match Report,,ligue1,2024-2025,1,1,2,draw
+12.0,Sun,2024-11-24,15:00,Lille,1–0,Rennes,46019.0,Decathlon Arena - Stade Pierre-Mauroy,Mathieu Vernice,Match Report,,ligue1,2024-2025,1,0,1,home
+12.0,Sun,2024-11-24,17:00,Nantes,0–2,Le Havre,26936.0,Stade de la Beaujoire - Louis Fonteneau,Jérôme Brisard,Match Report,,ligue1,2024-2025,0,2,2,away
+12.0,Sun,2024-11-24,17:00,Auxerre,1–0,Angers,16120.0,Stade de l'Abbé Deschamps,François Letexier,Match Report,,ligue1,2024-2025,1,0,1,home
+12.0,Sun,2024-11-24,20:45,Nice,2–1,Strasbourg,18389.0,Allianz Riviera,Benoît Bastien,Match Report,,ligue1,2024-2025,2,1,3,home
+13.0,Fri,2024-11-29,20:45,Reims,0–2,Lens,18555.0,Stade Auguste-Delaune,Abdelatif Kherradji,Match Report,,ligue1,2024-2025,0,2,2,away
+13.0,Sat,2024-11-30,17:00,Rennes,5–0,Saint-Étienne,27586.0,Roazhon Park,Marc Bollengier,Match Report,,ligue1,2024-2025,5,0,5,home
+13.0,Sat,2024-11-30,19:00,Brest,3–1,Strasbourg,14600.0,Stade Francis-Le Blé,Romain Lissorgue,Match Report,,ligue1,2024-2025,3,1,4,home
+13.0,Sat,2024-11-30,21:00,Paris Saint-Germain,1–1,Nantes,47926.0,Parc des Princes,Jeremy Stinat,Match Report,,ligue1,2024-2025,1,1,2,draw
+13.0,Sun,2024-12-01,15:00,Montpellier,2–2,Lille,14000.0,Stade de la Mosson-Mondial 98,Benoît Millot,Match Report,,ligue1,2024-2025,2,2,4,draw
+13.0,Sun,2024-12-01,17:00,Toulouse,2–0,Auxerre,23525.0,Stadium de Toulouse,Hakim Ben El Hadj Salem,Match Report,,ligue1,2024-2025,2,0,2,home
+13.0,Sun,2024-12-01,17:00,Lyon,4–1,Nice,59977.0,Groupama Stadium,Bastien Dechepy,Match Report,,ligue1,2024-2025,4,1,5,home
+13.0,Sun,2024-12-01,17:00,Le Havre,0–1,Angers,20018.0,Stade Océane,Willy Delajod,Match Report,,ligue1,2024-2025,0,1,1,away
+13.0,Sun,2024-12-01,20:45,Marseille,2–1,Monaco,64277.0,Orange Vélodrome,Clément Turpin,Match Report,,ligue1,2024-2025,2,1,3,home
+14.0,Fri,2024-12-06,19:00,Lille,3–1,Brest,38128.0,Decathlon Arena - Stade Pierre-Mauroy,Benoît Bastien,Match Report,,ligue1,2024-2025,3,1,4,home
+14.0,Fri,2024-12-06,21:00,Auxerre,0–0,Paris Saint-Germain,17028.0,Stade de l'Abbé Deschamps,Jérémie Pignard,Match Report,,ligue1,2024-2025,0,0,0,draw
+14.0,Sat,2024-12-07,17:00,Monaco,2–0,Toulouse,6868.0,Stade Louis II,Stéphanie Frappart,Match Report,,ligue1,2024-2025,2,0,2,home
+14.0,Sat,2024-12-07,19:00,Nice,2–1,Le Havre,21248.0,Allianz Riviera,François Letexier,Match Report,,ligue1,2024-2025,2,1,3,home
+14.0,Sat,2024-12-07,21:00,Angers,0–3,Lyon,16301.0,Stade Raymond Kopa,Marc Bollengier,Match Report,,ligue1,2024-2025,0,3,3,away
+14.0,Sun,2024-12-08,15:00,Lens,2–0,Montpellier,37317.0,Stade Bollaert-Delelis,Mathieu Vernice,Match Report,,ligue1,2024-2025,2,0,2,home
+14.0,Sun,2024-12-08,17:00,Strasbourg,0–0,Reims,19369.0,Stade de la Meinau,Thomas Léonard,Match Report,,ligue1,2024-2025,0,0,0,draw
+14.0,Sun,2024-12-08,17:00,Nantes,1–0,Rennes,28418.0,Stade de la Beaujoire - Louis Fonteneau,Eric Wattellier,Match Report,,ligue1,2024-2025,1,0,1,home
+14.0,Sun,2024-12-08,20:45,Saint-Étienne,0–2,Marseille,35350.0,Stade Geoffroy-Guichard,Jérôme Brisard,Match Report,,ligue1,2024-2025,0,2,2,away
+15.0,Fri,2024-12-13,20:45,Toulouse,2–1,Saint-Étienne,25350.0,Stadium de Toulouse,Thomas Léonard,Match Report,,ligue1,2024-2025,2,1,3,home
+15.0,Sat,2024-12-14,17:00,Marseille,1–1,Lille,64380.0,Orange Vélodrome,Willy Delajod,Match Report,,ligue1,2024-2025,1,1,2,draw
+15.0,Sat,2024-12-14,19:00,Auxerre,2–2,Lens,17052.0,Stade de l'Abbé Deschamps,Jeremy Stinat,Match Report,,ligue1,2024-2025,2,2,4,draw
+15.0,Sat,2024-12-14,21:00,Reims,0–0,Monaco,15859.0,Stade Auguste-Delaune,Romain Lissorgue,Match Report,,ligue1,2024-2025,0,0,0,draw
+15.0,Sun,2024-12-15,15:00,Montpellier,2–2,Nice,11612.0,Stade de la Mosson-Mondial 98,Clément Turpin,Match Report,,ligue1,2024-2025,2,2,4,draw
+15.0,Sun,2024-12-15,17:00,Le Havre,0–3,Strasbourg,17071.0,Stade Océane,Abdelatif Kherradji,Match Report,,ligue1,2024-2025,0,3,3,away
+15.0,Sun,2024-12-15,17:00,Brest,4–1,Nantes,15019.0,Stade Francis-Le Blé,Gaël Angoula,Match Report,,ligue1,2024-2025,4,1,5,home
+15.0,Sun,2024-12-15,17:00,Rennes,2–0,Angers,27781.0,Roazhon Park,Hakim Ben El Hadj Salem,Match Report,,ligue1,2024-2025,2,0,2,home
+15.0,Sun,2024-12-15,20:45,Paris Saint-Germain,3–1,Lyon,47000.0,Parc des Princes,Benoît Bastien,Match Report,,ligue1,2024-2025,3,1,4,home
+16.0,Wed,2024-12-18,21:00,Monaco,2–4,Paris Saint-Germain,12095.0,Stade Louis II,François Letexier,Match Report,,ligue1,2024-2025,2,4,6,away
+16.0,Fri,2025-01-03,21:00,Nice,3–2,Rennes,21332.0,Allianz Riviera,Jérôme Brisard,Match Report,,ligue1,2024-2025,3,2,5,home
+16.0,Sat,2025-01-04,17:00,Saint-Étienne,3–1,Reims,14201.0,Stade Geoffroy-Guichard,Stéphanie Frappart,Match Report,,ligue1,2024-2025,3,1,4,home
+16.0,Sat,2025-01-04,19:00,Lille,1–1,Nantes,41635.0,Decathlon Arena - Stade Pierre-Mauroy,Jérémie Pignard,Match Report,,ligue1,2024-2025,1,1,2,draw
+16.0,Sat,2025-01-04,21:00,Lyon,1–0,Montpellier,48162.0,Groupama Stadium,Jeremy Stinat,Match Report,,ligue1,2024-2025,1,0,1,home
+16.0,Sun,2025-01-05,15:00,Lens,0–1,Toulouse,37461.0,Stade Bollaert-Delelis,Hakim Ben El Hadj Salem,Match Report,,ligue1,2024-2025,0,1,1,away
+16.0,Sun,2025-01-05,15:00,Strasbourg,3–1,Auxerre,19471.0,Stade de la Meinau,Florent Batta,Match Report,,ligue1,2024-2025,3,1,4,home
+16.0,Sun,2025-01-05,15:00,Angers,2–0,Brest,12691.0,Stade Raymond Kopa,Benoît Millot,Match Report,,ligue1,2024-2025,2,0,2,home
+16.0,Sun,2025-01-05,20:45,Marseille,5–1,Le Havre,64092.0,Orange Vélodrome,Thomas Léonard,Match Report,,ligue1,2024-2025,5,1,6,home
+17.0,Fri,2025-01-10,19:00,Nantes,2–2,Monaco,25380.0,Stade de la Beaujoire - Louis Fonteneau,Marc Bollengier,Match Report,,ligue1,2024-2025,2,2,4,draw
+17.0,Fri,2025-01-10,21:05,Auxerre,0–0,Lille,15599.0,Stade de l'Abbé Deschamps,Gaël Angoula,Match Report,,ligue1,2024-2025,0,0,0,draw
+17.0,Sat,2025-01-11,17:00,Brest,2–1,Lyon,14735.0,Stade Francis-Le Blé,Eric Wattellier,Match Report,,ligue1,2024-2025,2,1,3,home
+17.0,Sat,2025-01-11,19:00,Reims,2–4,Nice,12270.0,Stade Auguste-Delaune,Willy Delajod,Match Report,,ligue1,2024-2025,2,4,6,away
+17.0,Sat,2025-01-11,21:05,Rennes,1–2,Marseille,26837.0,Roazhon Park,Abdelatif Kherradji,Match Report,,ligue1,2024-2025,1,2,3,away
+17.0,Sun,2025-01-12,15:00,Le Havre,1–2,Lens,19617.0,Stade Océane,Clément Turpin,Match Report,,ligue1,2024-2025,1,2,3,away
+17.0,Sun,2025-01-12,17:15,Montpellier,1–3,Angers,11719.0,Stade de la Mosson-Mondial 98,Romain Lissorgue,Match Report,,ligue1,2024-2025,1,3,4,away
+17.0,Sun,2025-01-12,17:15,Toulouse,1–2,Strasbourg,22042.0,Stadium de Toulouse,Benoît Bastien,Match Report,,ligue1,2024-2025,1,2,3,away
+17.0,Sun,2025-01-12,20:45,Paris Saint-Germain,2–1,Saint-Étienne,47580.0,Parc des Princes,Benoît Millot,Match Report,,ligue1,2024-2025,2,1,3,home
+18.0,Fri,2025-01-17,19:00,Montpellier,2–1,Monaco,11371.0,Stade de la Mosson-Mondial 98,Jérôme Brisard,Match Report,,ligue1,2024-2025,2,1,3,home
+18.0,Fri,2025-01-17,21:05,Lille,2–1,Nice,38325.0,Decathlon Arena - Stade Pierre-Mauroy,François Letexier,Match Report,,ligue1,2024-2025,2,1,3,home
+18.0,Sat,2025-01-18,17:00,Lens,1–2,Paris Saint-Germain,38120.0,Stade Bollaert-Delelis,Jérémie Pignard,Match Report,,ligue1,2024-2025,1,2,3,away
+18.0,Sat,2025-01-18,19:00,Rennes,1–2,Brest,28238.0,Roazhon Park,Thomas Léonard,Match Report,,ligue1,2024-2025,1,2,3,away
+18.0,Sat,2025-01-18,21:05,Lyon,0–0,Toulouse,42750.0,Groupama Stadium,Benoît Millot,Match Report,,ligue1,2024-2025,0,0,0,draw
+18.0,Sun,2025-01-19,15:00,Saint-Étienne,1–1,Nantes,14094.0,Stade Geoffroy-Guichard,Florent Batta,Match Report,,ligue1,2024-2025,1,1,2,draw
+18.0,Sun,2025-01-19,17:15,Angers,2–0,Auxerre,9938.0,Stade Raymond Kopa,Stéphanie Frappart,Match Report,,ligue1,2024-2025,2,0,2,home
+18.0,Sun,2025-01-19,17:15,Reims,1–1,Le Havre,11278.0,Stade Auguste-Delaune,Mathieu Vernice,Match Report,,ligue1,2024-2025,1,1,2,draw
+18.0,Sun,2025-01-19,20:45,Marseille,1–1,Strasbourg,61000.0,Orange Vélodrome,Bastien Dechepy,Match Report,,ligue1,2024-2025,1,1,2,draw
+19.0,Fri,2025-01-24,20:45,Auxerre,1–1,Saint-Étienne,16805.0,Stade de l'Abbé Deschamps,Marc Bollengier,Match Report,,ligue1,2024-2025,1,1,2,draw
+19.0,Sat,2025-01-25,17:00,Monaco,3–2,Rennes,5725.0,Stade Louis II,Jeremy Stinat,Match Report,,ligue1,2024-2025,3,2,5,home
+19.0,Sat,2025-01-25,19:00,Strasbourg,2–1,Lille,19428.0,Stade de la Meinau,Willy Delajod,Match Report,,ligue1,2024-2025,2,1,3,home
+19.0,Sat,2025-01-25,21:05,Paris Saint-Germain,1–1,Reims,47862.0,Parc des Princes,Hakim Ben El Hadj Salem,Match Report,,ligue1,2024-2025,1,1,2,draw
+19.0,Sun,2025-01-26,15:00,Le Havre,0–1,Brest,17898.0,Stade Océane,Romain Lissorgue,Match Report,,ligue1,2024-2025,0,1,1,away
+19.0,Sun,2025-01-26,17:15,Lens,1–0,Angers,37321.0,Stade Bollaert-Delelis,Abdelatif Kherradji,Match Report,,ligue1,2024-2025,1,0,1,home
+19.0,Sun,2025-01-26,17:15,Toulouse,1–2,Montpellier,28382.0,Stadium de Toulouse,Clément Turpin,Match Report,,ligue1,2024-2025,1,2,3,away
+19.0,Sun,2025-01-26,17:15,Nantes,1–1,Lyon,32690.0,Stade de la Beaujoire - Louis Fonteneau,Benoît Bastien,Match Report,,ligue1,2024-2025,1,1,2,draw
+19.0,Sun,2025-01-26,20:45,Nice,2–0,Marseille,31017.0,Allianz Riviera,Eric Wattellier,Match Report,,ligue1,2024-2025,2,0,2,home
+20.0,Fri,2025-01-31,20:45,Montpellier,0–2,Lens,15330.0,Stade de la Mosson-Mondial 98,Bastien Dechepy,Match Report,,ligue1,2024-2025,0,2,2,away
+20.0,Sat,2025-02-01,17:00,Brest,2–5,Paris Saint-Germain,15040.0,Stade Francis-Le Blé,Benoît Bastien,Match Report,,ligue1,2024-2025,2,5,7,away
+20.0,Sat,2025-02-01,19:00,Monaco,4–2,Auxerre,53363.0,Stade Louis II,Abdelatif Kherradji,Match Report,,ligue1,2024-2025,4,2,6,home
+20.0,Sat,2025-02-01,21:05,Lille,4–1,Saint-Étienne,38924.0,Decathlon Arena - Stade Pierre-Mauroy,Eric Wattellier,Match Report,,ligue1,2024-2025,4,1,5,home
+20.0,Sun,2025-02-02,15:00,Toulouse,1–1,Nice,23522.0,Stadium de Toulouse,Thomas Léonard,Match Report,,ligue1,2024-2025,1,1,2,draw
+20.0,Sun,2025-02-02,17:15,Reims,1–2,Nantes,12712.0,Stade Auguste-Delaune,Benoît Millot,Match Report,,ligue1,2024-2025,1,2,3,away
+20.0,Sun,2025-02-02,17:15,Rennes,1–0,Strasbourg,26621.0,Roazhon Park,Stéphanie Frappart,Match Report,,ligue1,2024-2025,1,0,1,home
+20.0,Sun,2025-02-02,17:15,Angers,1–1,Le Havre,11267.0,Stade Raymond Kopa,Jérémie Pignard,Match Report,,ligue1,2024-2025,1,1,2,draw
+20.0,Sun,2025-02-02,20:45,Marseille,3–2,Lyon,66096.0,Orange Vélodrome,Jérôme Brisard,Match Report,,ligue1,2024-2025,3,2,5,home
+21.0,Fri,2025-02-07,19:00,Nantes,0–2,Brest,25050.0,Stade de la Beaujoire - Louis Fonteneau,Jérémie Pignard,Match Report,,ligue1,2024-2025,0,2,2,away
+21.0,Fri,2025-02-07,21:05,Paris Saint-Germain,4–1,Monaco,47926.0,Parc des Princes,Clément Turpin,Match Report,,ligue1,2024-2025,4,1,5,home
+21.0,Sat,2025-02-08,17:00,Nice,2–0,Lens,22586.0,Allianz Riviera,Romain Lissorgue,Match Report,,ligue1,2024-2025,2,0,2,home
+21.0,Sat,2025-02-08,19:00,Lille,1–2,Le Havre,39515.0,Decathlon Arena - Stade Pierre-Mauroy,Thomas Léonard,Match Report,,ligue1,2024-2025,1,2,3,away
+21.0,Sat,2025-02-08,21:05,Saint-Étienne,0–2,Rennes,30385.0,Stade Geoffroy-Guichard,Mathieu Vernice,Match Report,,ligue1,2024-2025,0,2,2,away
+21.0,Sun,2025-02-09,15:00,Lyon,4–0,Reims,43489.0,Groupama Stadium,François Letexier,Match Report,,ligue1,2024-2025,4,0,4,home
+21.0,Sun,2025-02-09,17:15,Auxerre,2–2,Toulouse,15801.0,Stade de l'Abbé Deschamps,Jérôme Brisard,Match Report,,ligue1,2024-2025,2,2,4,draw
+21.0,Sun,2025-02-09,17:15,Strasbourg,2–0,Montpellier,19042.0,Stade de la Meinau,Jeremy Stinat,Match Report,,ligue1,2024-2025,2,0,2,home
+21.0,Sun,2025-02-09,20:45,Angers,0–2,Marseille,17325.0,Stade Raymond Kopa,Hakim Ben El Hadj Salem,Match Report,,ligue1,2024-2025,0,2,2,away
+22.0,Fri,2025-02-14,20:45,Brest,2–2,Auxerre,12525.0,Stade Francis-Le Blé,Bastien Dechepy,Match Report,,ligue1,2024-2025,2,2,4,draw
+22.0,Sat,2025-02-15,17:00,Marseille,5–1,Saint-Étienne,66199.0,Orange Vélodrome,Abdelatif Kherradji,Match Report,,ligue1,2024-2025,5,1,6,home
+22.0,Sat,2025-02-15,19:00,Monaco,7–1,Nantes,6080.0,Stade Louis II,Thomas Léonard,Match Report,,ligue1,2024-2025,7,1,8,home
+22.0,Sat,2025-02-15,21:05,Toulouse,0–1,Paris Saint-Germain,31703.0,Stadium de Toulouse,Willy Delajod,Match Report,,ligue1,2024-2025,0,1,1,away
+22.0,Sun,2025-02-16,15:00,Montpellier,1–4,Lyon,16573.0,Stade de la Mosson-Mondial 98,Marc Bollengier,Match Report,,ligue1,2024-2025,1,4,5,away
+22.0,Sun,2025-02-16,17:15,Reims,0–1,Angers,11868.0,Stade Auguste-Delaune,Florent Batta,Match Report,,ligue1,2024-2025,0,1,1,away
+22.0,Sun,2025-02-16,17:15,Lens,0–2,Strasbourg,38113.0,Stade Bollaert-Delelis,Benoît Millot,Match Report,,ligue1,2024-2025,0,2,2,away
+22.0,Sun,2025-02-16,17:15,Le Havre,1–3,Nice,17739.0,Stade Océane,Stéphanie Frappart,Match Report,,ligue1,2024-2025,1,3,4,away
+22.0,Sun,2025-02-16,20:45,Rennes,0–2,Lille,27627.0,Roazhon Park,Romain Lissorgue,Match Report,,ligue1,2024-2025,0,2,2,away
+23.0,Fri,2025-02-21,20:45,Rennes,1–0,Reims,26818.0,Roazhon Park,Marc Bollengier,Match Report,,ligue1,2024-2025,1,0,1,home
+23.0,Sat,2025-02-22,17:00,Lille,2–1,Monaco,44177.0,Decathlon Arena - Stade Pierre-Mauroy,Benoît Bastien,Match Report,,ligue1,2024-2025,2,1,3,home
+23.0,Sat,2025-02-22,19:00,Saint-Étienne,3–3,Angers,30566.0,Stade Geoffroy-Guichard,Bastien Dechepy,Match Report,,ligue1,2024-2025,3,3,6,draw
+23.0,Sat,2025-02-22,21:05,Auxerre,3–0,Marseille,17183.0,Stade de l'Abbé Deschamps,Jeremy Stinat,Match Report,,ligue1,2024-2025,3,0,3,home
+23.0,Sun,2025-02-23,15:00,Nantes,3–1,Lens,29000.0,Stade de la Beaujoire - Louis Fonteneau,Jérôme Brisard,Match Report,,ligue1,2024-2025,3,1,4,home
+23.0,Sun,2025-02-23,17:15,Strasbourg,0–0,Brest,19108.0,Stade de la Meinau,Clément Turpin,Match Report,,ligue1,2024-2025,0,0,0,draw
+23.0,Sun,2025-02-23,17:15,Nice,2–0,Montpellier,18519.0,Allianz Riviera,Willy Delajod,Match Report,,ligue1,2024-2025,2,0,2,home
+23.0,Sun,2025-02-23,17:15,Le Havre,1–4,Toulouse,17239.0,Stade Océane,François Letexier,Match Report,,ligue1,2024-2025,1,4,5,away
+23.0,Sun,2025-02-23,20:45,Lyon,2–3,Paris Saint-Germain,57777.0,Groupama Stadium,Eric Wattellier,Match Report,,ligue1,2024-2025,2,3,5,away
+24.0,Fri,2025-02-28,20:45,Monaco,3–0,Reims,5517.0,Stade Louis II,Eric Wattellier,Match Report,,ligue1,2024-2025,3,0,3,home
+24.0,Sat,2025-03-01,17:00,Saint-Étienne,1–3,Nice,30070.0,Stade Geoffroy-Guichard,Jérôme Brisard,Match Report,,ligue1,2024-2025,1,3,4,away
+24.0,Sat,2025-03-01,19:00,Lens,3–4,Le Havre,38167.0,Stade Bollaert-Delelis,Jérémie Pignard,Match Report,,ligue1,2024-2025,3,4,7,away
+24.0,Sat,2025-03-01,21:05,Paris Saint-Germain,4–1,Lille,47838.0,Parc des Princes,François Letexier,Match Report,,ligue1,2024-2025,4,1,5,home
+24.0,Sun,2025-03-02,15:00,Lyon,2–1,Brest,47804.0,Groupama Stadium,Benoît Millot,Match Report,,ligue1,2024-2025,2,1,3,home
+24.0,Sun,2025-03-02,17:15,Auxerre,0–1,Strasbourg,16495.0,Stade de l'Abbé Deschamps,Mathieu Vernice,Match Report,,ligue1,2024-2025,0,1,1,away
+24.0,Sun,2025-03-02,17:15,Montpellier,0–4,Rennes,11990.0,Stade de la Mosson-Mondial 98,Florent Batta,Match Report,,ligue1,2024-2025,0,4,4,away
+24.0,Sun,2025-03-02,17:15,Angers,0–4,Toulouse,12758.0,Stade Raymond Kopa,Jeremy Stinat,Match Report,,ligue1,2024-2025,0,4,4,away
+24.0,Sun,2025-03-02,20:45,Marseille,2–0,Nantes,64074.0,Orange Vélodrome,Stéphanie Frappart,Match Report,,ligue1,2024-2025,2,0,2,home
+25.0,Fri,2025-03-07,20:45,Toulouse,1–1,Monaco,25614.0,Stadium de Toulouse,Marc Bollengier,Match Report,,ligue1,2024-2025,1,1,2,draw
+25.0,Sat,2025-03-08,17:00,Rennes,1–4,Paris Saint-Germain,28550.0,Roazhon Park,Mathieu Vernice,Match Report,,ligue1,2024-2025,1,4,5,away
+25.0,Sat,2025-03-08,19:00,Lille,1–0,Montpellier,42467.0,Decathlon Arena - Stade Pierre-Mauroy,Jérémie Pignard,Match Report,,ligue1,2024-2025,1,0,1,home
+25.0,Sat,2025-03-08,21:05,Marseille,0–1,Lens,64952.0,Orange Vélodrome,Thomas Léonard,Match Report,,ligue1,2024-2025,0,1,1,away
+25.0,Sun,2025-03-09,15:00,Brest,2–0,Angers,14612.0,Stade Francis-Le Blé,Abdelatif Kherradji,Match Report,,ligue1,2024-2025,2,0,2,home
+25.0,Sun,2025-03-09,17:15,Nantes,0–1,Strasbourg,27645.0,Stade de la Beaujoire - Louis Fonteneau,Hakim Ben El Hadj Salem,Match Report,,ligue1,2024-2025,0,1,1,away
+25.0,Sun,2025-03-09,17:15,Reims,0–2,Auxerre,15474.0,Stade Auguste-Delaune,Romain Lissorgue,Match Report,,ligue1,2024-2025,0,2,2,away
+25.0,Sun,2025-03-09,17:15,Le Havre,1–1,Saint-Étienne,22239.0,Stade Océane,Clément Turpin,Match Report,,ligue1,2024-2025,1,1,2,draw
+25.0,Sun,2025-03-09,20:45,Nice,0–2,Lyon,23840.0,Allianz Riviera,Benoît Bastien,Match Report,,ligue1,2024-2025,0,2,2,away
+26.0,Fri,2025-03-14,20:45,Nice,1–1,Auxerre,18640.0,Allianz Riviera,Abdelatif Kherradji,Match Report,,ligue1,2024-2025,1,1,2,draw
+26.0,Sat,2025-03-15,17:00,Nantes,1–0,Lille,28621.0,Stade de la Beaujoire - Louis Fonteneau,Benoît Millot,Match Report,,ligue1,2024-2025,1,0,1,home
+26.0,Sat,2025-03-15,19:00,Angers,0–2,Monaco,11116.0,Stade Raymond Kopa,Willy Delajod,Match Report,,ligue1,2024-2025,0,2,2,away
+26.0,Sat,2025-03-15,21:05,Lens,1–0,Rennes,38182.0,Stade Bollaert-Delelis,Stéphanie Frappart,Match Report,,ligue1,2024-2025,1,0,1,home
+26.0,Sun,2025-03-16,15:00,Lyon,4–2,Le Havre,39991.0,Groupama Stadium,Bastien Dechepy,Match Report,,ligue1,2024-2025,4,2,6,home
+26.0,Sun,2025-03-16,17:15,Montpellier,0–2,Saint-Étienne,,Stade de la Mosson-Mondial 98,François Letexier,Match Report,Match awarded to Saint-Étienne,ligue1,2024-2025,0,2,2,away
+26.0,Sun,2025-03-16,17:15,Brest,0–0,Reims,14517.0,Stade Francis-Le Blé,Jérôme Brisard,Match Report,,ligue1,2024-2025,0,0,0,draw
+26.0,Sun,2025-03-16,17:15,Strasbourg,2–1,Toulouse,19128.0,Stade de la Meinau,Florent Batta,Match Report,,ligue1,2024-2025,2,1,3,home
+26.0,Sun,2025-03-16,20:45,Paris Saint-Germain,3–1,Marseille,47000.0,Parc des Princes,Clément Turpin,Match Report,,ligue1,2024-2025,3,1,4,home
+27.0,Fri,2025-03-28,20:45,Strasbourg,4–2,Lyon,19496.0,Stade de la Meinau,Romain Lissorgue,Match Report,,ligue1,2024-2025,4,2,6,home
+27.0,Sat,2025-03-29,17:00,Reims,3–1,Marseille,20213.0,Stade Auguste-Delaune,Willy Delajod,Match Report,,ligue1,2024-2025,3,1,4,home
+27.0,Sat,2025-03-29,19:00,Saint-Étienne,1–6,Paris Saint-Germain,37108.0,Stade Geoffroy-Guichard,Jeremy Stinat,Match Report,,ligue1,2024-2025,1,6,7,away
+27.0,Sat,2025-03-29,21:05,Monaco,2–1,Nice,11564.0,Stade Louis II,Jérôme Brisard,Match Report,,ligue1,2024-2025,2,1,3,home
+27.0,Sun,2025-03-30,15:00,Toulouse,2–4,Brest,24418.0,Stadium de Toulouse,Hakim Ben El Hadj Salem,Match Report,,ligue1,2024-2025,2,4,6,away
+27.0,Sun,2025-03-30,17:15,Le Havre,3–2,Nantes,20436.0,Stade Océane,Eric Wattellier,Match Report,,ligue1,2024-2025,3,2,5,home
+27.0,Sun,2025-03-30,17:15,Auxerre,1–0,Montpellier,16558.0,Stade de l'Abbé Deschamps,Marc Bollengier,Match Report,,ligue1,2024-2025,1,0,1,home
+27.0,Sun,2025-03-30,17:15,Angers,0–3,Rennes,11747.0,Stade Raymond Kopa,Thomas Léonard,Match Report,,ligue1,2024-2025,0,3,3,away
+27.0,Sun,2025-03-30,20:45,Lille,1–0,Lens,48197.0,Decathlon Arena - Stade Pierre-Mauroy,Mathieu Vernice,Match Report,,ligue1,2024-2025,1,0,1,home
+28.0,Fri,2025-04-04,20:45,Nice,1–2,Nantes,20585.0,Allianz Riviera,Hakim Ben El Hadj Salem,Match Report,,ligue1,2024-2025,1,2,3,away
+28.0,Sat,2025-04-05,17:00,Paris Saint-Germain,1–0,Angers,47736.0,Parc des Princes,Marc Bollengier,Match Report,,ligue1,2024-2025,1,0,1,home
+28.0,Sat,2025-04-05,19:00,Brest,2–1,Monaco,14713.0,Stade Francis-Le Blé,Thomas Léonard,Match Report,,ligue1,2024-2025,2,1,3,home
+28.0,Sat,2025-04-05,21:05,Lyon,2–1,Lille,53771.0,Groupama Stadium,Eric Wattellier,Match Report,,ligue1,2024-2025,2,1,3,home
+28.0,Sun,2025-04-06,15:00,Lens,1–0,Saint-Étienne,38223.0,Stade Bollaert-Delelis,Romain Lissorgue,Match Report,,ligue1,2024-2025,1,0,1,home
+28.0,Sun,2025-04-06,17:15,Rennes,0–1,Auxerre,38268.0,Roazhon Park,Florent Batta,Match Report,,ligue1,2024-2025,0,1,1,away
+28.0,Sun,2025-04-06,17:15,Reims,0–1,Strasbourg,16254.0,Stade Auguste-Delaune,Clément Turpin,Match Report,,ligue1,2024-2025,0,1,1,away
+28.0,Sun,2025-04-06,17:15,Montpellier,0–2,Le Havre,10146.0,Stade de la Mosson-Mondial 98,Benoît Bastien,Match Report,,ligue1,2024-2025,0,2,2,away
+28.0,Sun,2025-04-06,20:45,Marseille,3–2,Toulouse,64320.0,Orange Vélodrome,Jérémie Pignard,Match Report,,ligue1,2024-2025,3,2,5,home
+29.0,Fri,2025-04-11,20:45,Lens,0–2,Reims,38157.0,Stade Bollaert-Delelis,François Letexier,Match Report,,ligue1,2024-2025,0,2,2,away
+29.0,Sat,2025-04-12,17:00,Monaco,3–0,Marseille,13232.0,Stade Louis II,Benoît Bastien,Match Report,,ligue1,2024-2025,3,0,3,home
+29.0,Sat,2025-04-12,19:00,Toulouse,1–2,Lille,26036.0,Stadium de Toulouse,Jérôme Brisard,Match Report,,ligue1,2024-2025,1,2,3,away
+29.0,Sat,2025-04-12,21:05,Strasbourg,2–2,Nice,19210.0,Stade de la Meinau,Jérémie Pignard,Match Report,,ligue1,2024-2025,2,2,4,draw
+29.0,Sun,2025-04-13,15:00,Saint-Étienne,3–3,Brest,32834.0,Stade Geoffroy-Guichard,Abdelatif Kherradji,Match Report,,ligue1,2024-2025,3,3,6,draw
+29.0,Sun,2025-04-13,17:15,Angers,2–0,Montpellier,12547.0,Stade Raymond Kopa,Benoît Millot,Match Report,,ligue1,2024-2025,2,0,2,home
+29.0,Sun,2025-04-13,17:15,Le Havre,1–5,Rennes,21582.0,Stade Océane,Willy Delajod,Match Report,,ligue1,2024-2025,1,5,6,away
+29.0,Sun,2025-04-13,20:45,Auxerre,1–3,Lyon,17511.0,Stade de l'Abbé Deschamps,Stéphanie Frappart,Match Report,,ligue1,2024-2025,1,3,4,away
+30.0,Fri,2025-04-18,20:45,Rennes,2–1,Nantes,27880.0,Roazhon Park,Abdelatif Kherradji,Match Report,,ligue1,2024-2025,2,1,3,home
+30.0,Sat,2025-04-19,17:00,Paris Saint-Germain,2–1,Le Havre,47113.0,Parc des Princes,Mathieu Vernice,Match Report,,ligue1,2024-2025,2,1,3,home
+30.0,Sat,2025-04-19,19:00,Monaco,0–0,Strasbourg,12825.0,Stade Louis II,Eric Wattellier,Match Report,,ligue1,2024-2025,0,0,0,draw
+30.0,Sat,2025-04-19,21:05,Marseille,5–1,Montpellier,66312.0,Orange Vélodrome,Jérôme Brisard,Match Report,,ligue1,2024-2025,5,1,6,home
+30.0,Sun,2025-04-20,15:00,Lille,3–1,Auxerre,45929.0,Decathlon Arena - Stade Pierre-Mauroy,Thomas Léonard,Match Report,,ligue1,2024-2025,3,1,4,home
+30.0,Sun,2025-04-20,17:15,Nice,2–1,Angers,25088.0,Allianz Riviera,Jeremy Stinat,Match Report,,ligue1,2024-2025,2,1,3,home
+30.0,Sun,2025-04-20,17:15,Reims,1–0,Toulouse,14608.0,Stade Auguste-Delaune,Marc Bollengier,Match Report,,ligue1,2024-2025,1,0,1,home
+30.0,Sun,2025-04-20,17:15,Brest,1–3,Lens,15049.0,Stade Francis-Le Blé,Benoît Millot,Match Report,,ligue1,2024-2025,1,3,4,away
+30.0,Sun,2025-04-20,20:45,Saint-Étienne,2–1,Lyon,40372.0,Stade Geoffroy-Guichard,François Letexier,Match Report,,ligue1,2024-2025,2,1,3,home
+29.0,Tue,2025-04-22,20:45,Nantes,1–1,Paris Saint-Germain,34420.0,Stade de la Beaujoire - Louis Fonteneau,Jérémie Pignard,Match Report,,ligue1,2024-2025,1,1,2,draw
+31.0,Fri,2025-04-25,20:45,Paris Saint-Germain,1–3,Nice,47597.0,Parc des Princes,Willy Delajod,Match Report,,ligue1,2024-2025,1,3,4,away
+31.0,Sat,2025-04-26,17:00,Strasbourg,3–1,Saint-Étienne,19603.0,Stade de la Meinau,Benoît Bastien,Match Report,,ligue1,2024-2025,3,1,4,home
+31.0,Sat,2025-04-26,19:00,Le Havre,1–1,Monaco,21340.0,Stade Océane,Clément Turpin,Match Report,,ligue1,2024-2025,1,1,2,draw
+31.0,Sat,2025-04-26,21:05,Lyon,4–1,Rennes,51034.0,Groupama Stadium,Marc Bollengier,Match Report,,ligue1,2024-2025,4,1,5,home
+31.0,Sun,2025-04-27,15:00,Angers,0–2,Lille,12865.0,Stade Raymond Kopa,Hakim Ben El Hadj Salem,Match Report,,ligue1,2024-2025,0,2,2,away
+31.0,Sun,2025-04-27,17:15,Montpellier,0–0,Reims,10806.0,Stade de la Mosson-Mondial 98,Jérémie Pignard,Match Report,,ligue1,2024-2025,0,0,0,draw
+31.0,Sun,2025-04-27,17:15,Nantes,0–0,Toulouse,31618.0,Stade de la Beaujoire - Louis Fonteneau,Florent Batta,Match Report,,ligue1,2024-2025,0,0,0,draw
+31.0,Sun,2025-04-27,17:15,Lens,0–4,Auxerre,38193.0,Stade Bollaert-Delelis,Mathieu Vernice,Match Report,,ligue1,2024-2025,0,4,4,away
+31.0,Sun,2025-04-27,20:45,Marseille,4–1,Brest,62130.0,Orange Vélodrome,Stéphanie Frappart,Match Report,,ligue1,2024-2025,4,1,5,home
+32.0,Fri,2025-05-02,20:45,Nice,1–0,Reims,24758.0,Allianz Riviera,Abdelatif Kherradji,Match Report,,ligue1,2024-2025,1,0,1,home
+32.0,Sat,2025-05-03,17:00,Strasbourg,2–1,Paris Saint-Germain,19522.0,Stade de la Meinau,Hakim Ben El Hadj Salem,Match Report,,ligue1,2024-2025,2,1,3,home
+32.0,Sat,2025-05-03,19:00,Toulouse,2–1,Rennes,23926.0,Stadium de Toulouse,Benoît Millot,Match Report,,ligue1,2024-2025,2,1,3,home
+32.0,Sat,2025-05-03,21:05,Saint-Étienne,1–3,Monaco,35757.0,Stade Geoffroy-Guichard,Jérôme Brisard,Match Report,,ligue1,2024-2025,1,3,4,away
+32.0,Sun,2025-05-04,15:00,Nantes,0–1,Angers,34556.0,Stade de la Beaujoire - Louis Fonteneau,Thomas Léonard,Match Report,,ligue1,2024-2025,0,1,1,away
+32.0,Sun,2025-05-04,17:15,Auxerre,1–2,Le Havre,17194.0,Stade de l'Abbé Deschamps,Jérémie Pignard,Match Report,,ligue1,2024-2025,1,2,3,away
+32.0,Sun,2025-05-04,17:15,Brest,1–0,Montpellier,13121.0,Stade Francis-Le Blé,Romain Lissorgue,Match Report,,ligue1,2024-2025,1,0,1,home
+32.0,Sun,2025-05-04,17:15,Lyon,1–2,Lens,52020.0,Groupama Stadium,Jeremy Stinat,Match Report,,ligue1,2024-2025,1,2,3,away
+32.0,Sun,2025-05-04,20:45,Lille,1–1,Marseille,48284.0,Decathlon Arena - Stade Pierre-Mauroy,Eric Wattellier,Match Report,,ligue1,2024-2025,1,1,2,draw
+33.0,Sat,2025-05-10,21:00,Brest,2–0,Lille,14556.0,Stade Francis-Le Blé,Thomas Léonard,Match Report,,ligue1,2024-2025,2,0,2,home
+33.0,Sat,2025-05-10,21:00,Monaco,2–0,Lyon,13578.0,Stade Louis II,Benoît Bastien,Match Report,,ligue1,2024-2025,2,0,2,home
+33.0,Sat,2025-05-10,21:00,Auxerre,1–1,Nantes,17277.0,Stade de l'Abbé Deschamps,Marc Bollengier,Match Report,,ligue1,2024-2025,1,1,2,draw
+33.0,Sat,2025-05-10,21:00,Angers,2–1,Strasbourg,14391.0,Stade Raymond Kopa,Clément Turpin,Match Report,,ligue1,2024-2025,2,1,3,home
+33.0,Sat,2025-05-10,21:00,Montpellier,1–4,Paris Saint-Germain,16787.0,Stade de la Mosson-Mondial 98,Mathieu Vernice,Match Report,,ligue1,2024-2025,1,4,5,away
+33.0,Sat,2025-05-10,21:00,Rennes,2–0,Nice,26118.0,Roazhon Park,Jeremy Stinat,Match Report,,ligue1,2024-2025,2,0,2,home
+33.0,Sat,2025-05-10,21:00,Reims,0–2,Saint-Étienne,18630.0,Stade Auguste-Delaune,Eric Wattellier,Match Report,,ligue1,2024-2025,0,2,2,away
+33.0,Sat,2025-05-10,21:00,Le Havre,1–3,Marseille,23831.0,Stade Océane,Willy Delajod,Match Report,,ligue1,2024-2025,1,3,4,away
+33.0,Sat,2025-05-10,21:00,Toulouse,1–1,Lens,27890.0,Stadium de Toulouse,Bastien Dechepy,Match Report,,ligue1,2024-2025,1,1,2,draw
+34.0,Sat,2025-05-17,21:00,Saint-Étienne,2–3,Toulouse,38725.0,Stade Geoffroy-Guichard,Thomas Léonard,Match Report,,ligue1,2024-2025,2,3,5,away
+34.0,Sat,2025-05-17,21:00,Paris Saint-Germain,3–1,Auxerre,47926.0,Parc des Princes,Abdelatif Kherradji,Match Report,,ligue1,2024-2025,3,1,4,home
+34.0,Sat,2025-05-17,21:00,Lyon,2–0,Angers,56517.0,Groupama Stadium,Stéphanie Frappart,Match Report,,ligue1,2024-2025,2,0,2,home
+34.0,Sat,2025-05-17,21:00,Strasbourg,2–3,Le Havre,19280.0,Stade de la Meinau,Jérôme Brisard,Match Report,,ligue1,2024-2025,2,3,5,away
+34.0,Sat,2025-05-17,21:00,Lens,4–0,Monaco,38160.0,Stade Bollaert-Delelis,François Letexier,Match Report,,ligue1,2024-2025,4,0,4,home
+34.0,Sat,2025-05-17,21:00,Marseille,4–2,Rennes,57274.0,Orange Vélodrome,Jérémie Pignard,Match Report,,ligue1,2024-2025,4,2,6,home
+34.0,Sat,2025-05-17,21:00,Nantes,3–0,Montpellier,34780.0,Stade de la Beaujoire - Louis Fonteneau,Clément Turpin,Match Report,,ligue1,2024-2025,3,0,3,home
+34.0,Sat,2025-05-17,21:00,Nice,6–0,Brest,30298.0,Allianz Riviera,Hakim Ben El Hadj Salem,Match Report,,ligue1,2024-2025,6,0,6,home
+34.0,Sat,2025-05-17,21:00,Lille,2–1,Reims,45599.0,Decathlon Arena - Stade Pierre-Mauroy,Willy Delajod,Match Report,,ligue1,2024-2025,2,1,3,home

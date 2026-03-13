@@ -1,0 +1,554 @@
+player_id,Rk,Player,Nation,Pos,Squad,Age,Born,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_Gls,Performance_Ast,Performance_G+A,Performance_G-PK,Performance_PK,Performance_PKatt,Performance_CrdY,Performance_CrdR,Per 90 Minutes_Gls,Per 90 Minutes_Ast,Per 90 Minutes_G+A,Per 90 Minutes_G-PK,Per 90 Minutes_G+A-PK,Matches,league,saison
+7310786d,1,Keyliane Abdallah,FRA,FW,Marseille,18.0,2006.0,1,0,3,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+32c2d95f,2,Yunis Abdelhamid,MAR,DF,Saint-Étienne,36.0,1987.0,16,11,1033,11.5,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+7978cbf0,3,Himad Abdelli,ALG,MF,Angers,24.0,1999.0,32,32,2842,31.6,6,1,7,3,3,4,4,0,0.19,0.03,0.22,0.1,0.13,Matches,ligue1,2024-2025
+bff15d74,4,Mohamed Abdelmoneim,EGY,DF,Nice,25.0,1999.0,12,10,855,9.5,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+ad7cdb35,5,Ali Abdi,TUN,MF,Nice,30.0,1993.0,25,17,1393,15.5,5,2,7,5,0,0,2,0,0.32,0.13,0.45,0.32,0.45,Matches,ligue1,2024-2025
+0e46fa2f,6,Matthis Abline,FRA,FW,Nantes,21.0,2003.0,34,33,2768,30.8,9,2,11,8,1,1,3,0,0.29,0.07,0.36,0.26,0.33,Matches,ligue1,2024-2025
+7f9c5d2d,7,Abner,BRA,"DF,MF",Lyon,24.0,2000.0,19,12,1090,12.1,1,1,2,1,0,0,1,0,0.08,0.08,0.17,0.08,0.17,Matches,ligue1,2024-2025
+c2a6033c,8,Zakaria Aboukhlal,MAR,"MF,FW",Toulouse,24.0,2000.0,26,22,1901,21.1,7,2,9,6,1,2,4,0,0.33,0.09,0.43,0.28,0.38,Matches,ligue1,2024-2025
+2ccd39ed,9,Akor Adams,NGA,FW,Montpellier,24.0,2000.0,15,13,1075,11.9,3,1,4,3,0,0,2,0,0.25,0.08,0.33,0.25,0.33,Matches,ligue1,2024-2025
+7587446d,10,Martin Adeline,FRA,MF,Reims,20.0,2003.0,1,0,26,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+e980e78d,11,Adryelson,BRA,DF,Lyon,26.0,1998.0,1,0,1,0.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+75f1ed80,12,Emmanuel Agbadou,CIV,DF,Reims,27.0,1997.0,14,14,1260,14.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+3d6aaa54,13,Jeremy Agbonifo,SWE,FW,Lens,18.0,2005.0,8,1,300,3.3,1,0,1,1,0,0,1,0,0.3,0.0,0.3,0.3,0.3,Matches,ligue1,2024-2025
+3dd738a1,14,Ruben Aguilar,FRA,"MF,DF",Lens,31.0,1993.0,16,13,1124,12.5,1,2,3,1,0,0,4,0,0.08,0.16,0.24,0.08,0.24,Matches,ligue1,2024-2025
+a6c58494,15,Naouirou Ahamada,FRA,MF,Rennes,22.0,2002.0,3,0,58,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+48b28bfd,16,Jean-Eudes Aholou,CIV,MF,Angers,30.0,1994.0,26,26,1959,21.8,2,0,2,2,0,0,7,0,0.09,0.0,0.09,0.09,0.09,Matches,ligue1,2024-2025
+8399c416,17,Ayman Aiki,FRA,MF,Saint-Étienne,19.0,2005.0,5,1,127,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+462475ed,18,Ludovic Ajorque,FRA,FW,Brest,30.0,1994.0,31,29,2495,27.7,13,2,15,13,0,1,5,0,0.47,0.07,0.54,0.47,0.54,Matches,ligue1,2024-2025
+d746900e,19,Ümit Akdag,ROU,DF,Toulouse,20.0,2003.0,9,6,500,5.6,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+06efa9dc,20,Sergio Akieme,ESP,DF,Reims,26.0,1997.0,30,29,2523,28.0,2,3,5,2,0,0,5,0,0.07,0.11,0.18,0.07,0.18,Matches,ligue1,2024-2025
+b625b241,21,Maghnes Akliouche,FRA,MF,Monaco,22.0,2002.0,32,27,2406,26.7,5,10,15,4,1,1,2,0,0.19,0.37,0.56,0.15,0.52,Matches,ligue1,2024-2025
+31f5b89b,22,Paul Akouokou,CIV,MF,Lyon,26.0,1997.0,2,0,19,0.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+0abb5072,23,Clément Akpa,CIV,DF,Auxerre,22.0,2001.0,31,29,2486,27.6,0,1,1,0,0,0,7,0,0.0,0.04,0.04,0.0,0.04,Matches,ligue1,2024-2025
+e2b384d2,24,Chuba Akpom,ENG,FW,Lille,28.0,1995.0,14,6,639,7.1,3,1,4,2,1,2,0,0,0.42,0.14,0.56,0.28,0.42,Matches,ligue1,2024-2025
+f8405304,25,Mohamed Ali Cho,FRA,"FW,MF",Nice,20.0,2004.0,27,21,1621,18.0,3,4,7,3,0,0,2,0,0.17,0.22,0.39,0.17,0.39,Matches,ligue1,2024-2025
+1956b948,26,Jim Allevinah,GAB,MF,Angers,29.0,1995.0,28,23,1750,19.4,1,3,4,1,0,0,3,0,0.05,0.15,0.21,0.05,0.21,Matches,ligue1,2024-2025
+27f33438,27,Thiago Almada,ARG,MF,Lyon,23.0,2001.0,16,9,951,10.6,1,4,5,1,0,0,3,0,0.09,0.38,0.47,0.09,0.47,Matches,ligue1,2024-2025
+22721b88,28,Jordan Amavi,FRA,DF,Brest,30.0,1994.0,11,8,790,8.8,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+bcc81786,29,Kelvin Amian,FRA,DF,Nantes,26.0,1998.0,30,23,2165,24.1,1,0,1,1,0,0,5,0,0.04,0.0,0.04,0.04,0.04,Matches,ligue1,2024-2025
+349cae8f,30,Michael Amir Murillo,PAN,DF,Marseille,28.0,1996.0,30,27,2437,27.1,1,3,4,1,0,0,3,0,0.04,0.11,0.15,0.04,0.15,Matches,ligue1,2024-2025
+9eedf0e0,31,Samuel Amo-Ameyaw,ENG,MF,Strasbourg,18.0,2006.0,9,3,320,3.6,2,0,2,2,0,0,0,0,0.56,0.0,0.56,0.56,0.56,Matches,ligue1,2024-2025
+f93cca97,32,Mathis Amougou,FRA,MF,Saint-Étienne,18.0,2006.0,17,9,859,9.5,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+ef9c1c95,33,Benjamin André,FRA,MF,Lille,33.0,1990.0,30,30,2692,29.9,0,3,3,0,0,0,12,0,0.0,0.1,0.1,0.0,0.1,Matches,ligue1,2024-2025
+ea36375c,34,Kyllian Antonio,FRA,"MF,DF",Lens,16.0,2008.0,3,2,139,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+feb5d3ab,35,Dennis Appiah,FRA,DF,Saint-Étienne,32.0,1992.0,29,22,2128,23.6,0,1,1,0,0,0,2,0,0.0,0.04,0.04,0.0,0.04,Matches,ligue1,2024-2025
+5e837126,36,Carlens Arcus,HAI,DF,Angers,28.0,1996.0,28,25,2047,22.7,0,1,1,0,0,0,3,0,0.0,0.04,0.04,0.0,0.04,Matches,ligue1,2024-2025
+45af8a54,37,Marco Asensio,ESP,"FW,MF",Paris Saint-Germain,28.0,1996.0,12,8,618,6.9,2,4,6,2,0,0,0,0,0.29,0.58,0.87,0.29,0.87,Matches,ligue1,2024-2025
+b026bbf6,38,Lorenz Assignon,TOG,"MF,DF",Rennes,24.0,2000.0,32,27,2357,26.2,3,4,7,3,0,0,9,0,0.11,0.15,0.27,0.11,0.27,Matches,ligue1,2024-2025
+fb32896c,39,Dehmaine Assoumani,FRA,FW,Nantes,19.0,2005.0,12,0,98,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+6b5edd5d,40,Valentin Atangana Edoa,FRA,MF,Reims,18.0,2005.0,34,33,2854,31.7,1,0,1,1,0,0,7,0,0.03,0.0,0.03,0.03,0.03,Matches,ligue1,2024-2025
+718b8afd,41,Florian Ayé,FRA,FW,Auxerre,27.0,1997.0,26,4,575,6.4,2,0,2,2,0,0,0,0,0.31,0.0,0.31,0.31,0.31,Matches,ligue1,2024-2025
+5dbefa9d,42,André Ayew,GHA,FW,Le Havre,34.0,1989.0,27,15,1453,16.1,4,1,5,4,0,0,2,0,0.25,0.06,0.31,0.25,0.31,Matches,ligue1,2024-2025
+17e1261b,43,Neil El Aynaoui,MAR,MF,Lens,23.0,2001.0,24,17,1588,17.6,8,1,9,5,3,3,4,0,0.45,0.06,0.51,0.28,0.34,Matches,ligue1,2024-2025
+c6f0d5d4,44,Shavy Babicka,GAB,MF,Toulouse,24.0,2000.0,30,11,1186,13.2,4,2,6,4,0,0,2,0,0.3,0.15,0.46,0.3,0.46,Matches,ligue1,2024-2025
+c724745e,45,Theo Bair,CAN,FW,Auxerre,24.0,1999.0,29,11,939,10.4,2,1,3,2,0,0,1,0,0.19,0.1,0.29,0.19,0.29,Matches,ligue1,2024-2025
+a8567629,46,Mitchel Bakker,NED,"MF,DF",Lille,24.0,2000.0,24,14,1139,12.7,3,2,5,3,0,0,3,1,0.24,0.16,0.4,0.24,0.4,Matches,ligue1,2024-2025
+57de24a3,47,Darryl Bakola,FRA,MF,Marseille,16.0,2007.0,2,0,14,0.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+2b5a35e5,48,Dilane Bakwa,FRA,MF,Strasbourg,21.0,2002.0,30,29,2497,27.7,6,8,14,6,0,0,4,0,0.22,0.29,0.5,0.22,0.5,Matches,ligue1,2024-2025
+7c3ed041,49,Leonardo Balerdi,ARG,DF,Marseille,25.0,1999.0,27,27,2273,25.3,0,0,0,0,0,0,9,1,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+f449640d,50,Fodé Ballo-Touré,SEN,"DF,MF",Le Havre,27.0,1997.0,10,9,589,6.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+31822f8c,51,Folarin Balogun,USA,FW,Monaco,23.0,2001.0,13,7,615,6.8,4,0,4,4,0,0,0,0,0.59,0.0,0.59,0.59,0.59,Matches,ligue1,2024-2025
+7fecbcdb,52,Abdoulaye Bamba,CIV,DF,Angers,34.0,1990.0,19,16,1510,16.8,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+562bf675,53,Mohamed Bamba,CIV,MF,Reims,19.0,2004.0,2,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+b9f282ec,54,Valentín Barco,ARG,MF,Strasbourg,20.0,2004.0,14,14,1157,12.9,0,2,2,0,0,0,2,0,0.0,0.16,0.16,0.0,0.16,Matches,ligue1,2024-2025
+a0d55a09,55,Bradley Barcola,FRA,FW,Paris Saint-Germain,21.0,2002.0,34,27,2181,24.2,14,10,24,14,0,0,2,0,0.58,0.41,0.99,0.58,0.99,Matches,ligue1,2024-2025
+1ddbc7ca,56,Melvin Bard,FRA,"DF,MF",Nice,23.0,2000.0,24,22,1938,21.5,2,1,3,2,0,0,4,2,0.09,0.05,0.14,0.09,0.14,Matches,ligue1,2024-2025
+5475a510,57,Gabriel Bares,SUI,MF,Montpellier,23.0,2000.0,6,0,56,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+70530825,58,Téo Barisic,CRO,DF,Lyon,19.0,2004.0,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+37d39918,59,Dylan Batubinsika,COD,DF,Saint-Étienne,28.0,1996.0,25,22,2016,22.4,1,0,1,1,0,0,3,1,0.04,0.0,0.04,0.04,0.04,Matches,ligue1,2024-2025
+2b1bed19,60,Haris Belkebla,ALG,MF,Angers,30.0,1994.0,22,21,1792,19.9,0,1,1,0,0,0,1,0,0.0,0.05,0.05,0.0,0.05,Matches,ligue1,2024-2025
+e21d1928,61,Yassin Belkhdim,FRA,MF,Angers,22.0,2002.0,29,16,1523,16.9,1,1,2,1,0,0,4,0,0.06,0.06,0.12,0.06,0.12,Matches,ligue1,2024-2025
+3bd65247,62,Eliesse Ben Seghir,MAR,MF,Monaco,19.0,2005.0,33,19,1750,19.4,6,3,9,4,2,2,0,0,0.31,0.15,0.46,0.21,0.36,Matches,ligue1,2024-2025
+db092d3b,63,Ismaël Bennacer,ALG,MF,Marseille,26.0,1997.0,12,8,646,7.2,0,2,2,0,0,0,2,0,0.0,0.28,0.28,0.0,0.28,Matches,ligue1,2024-2025
+5a04fd92,64,Saïd Benrahma,ALG,"FW,MF",Lyon,28.0,1995.0,13,9,735,8.2,1,3,4,1,0,0,0,0,0.12,0.37,0.49,0.12,0.49,Matches,ligue1,2024-2025
+3189f61a,65,Nabil Bentaleb,ALG,MF,Lille,29.0,1994.0,10,3,329,3.7,1,0,1,1,0,0,0,0,0.27,0.0,0.27,0.27,0.27,Matches,ligue1,2024-2025
+b8aedf06,66,Lucas Beraldo,BRA,DF,Paris Saint-Germain,20.0,2003.0,25,22,2011,22.3,1,0,1,1,0,0,6,0,0.04,0.0,0.04,0.04,0.04,Matches,ligue1,2024-2025
+43750e5d,67,Maxime Bernauer,FRA,DF,Saint-Étienne,26.0,1998.0,11,9,763,8.5,0,0,0,0,0,0,4,1,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+380a15e2,68,Dimitry Bertaud,COD,GK,Montpellier,26.0,1998.0,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+a1d95db3,69,Mika Biereth,DEN,FW,Monaco,21.0,2003.0,16,16,1228,13.6,13,2,15,12,1,2,0,0,0.95,0.15,1.1,0.88,1.03,Matches,ligue1,2024-2025
+e5a94f46,70,Emmanuel Biumla,FRA,DF,Angers,19.0,2005.0,17,15,1336,14.8,1,0,1,1,0,0,2,0,0.07,0.0,0.07,0.07,0.07,Matches,ligue1,2024-2025
+3d214e5f,71,Marco Bizot,NED,GK,Brest,33.0,1991.0,32,32,2880,32.0,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+6191093d,72,Ludovic Blas,FRA,"MF,FW",Rennes,26.0,1997.0,29,26,2293,25.5,6,8,14,6,0,0,6,0,0.24,0.31,0.55,0.24,0.55,Matches,ligue1,2024-2025
+59e9edb5,73,Augustine Boakye,GHA,"MF,FW",Saint-Étienne,23.0,2000.0,17,8,733,8.1,3,0,3,3,0,0,5,0,0.37,0.0,0.37,0.37,0.37,Matches,ligue1,2024-2025
+c4c45a88,74,Mathéo Bodmer,FRA,DF,Le Havre,20.0,2004.0,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+fe012aca,75,Jeremie Boga,CIV,"MF,FW",Nice,27.0,1997.0,21,12,1054,11.7,1,2,3,1,0,0,0,0,0.09,0.17,0.26,0.09,0.26,Matches,ligue1,2024-2025
+c2f23fc8,76,Moïse Bombito,CAN,DF,Nice,24.0,2000.0,27,25,2192,24.4,0,0,0,0,0,0,3,1,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+f40e77d9,77,Saïmon Bouabré,FRA,MF,Monaco,18.0,2006.0,3,1,97,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+8006228f,78,Ayyoub Bouaddi,FRA,MF,Lille,16.0,2007.0,24,11,1151,12.8,0,1,1,0,0,0,2,0,0.0,0.08,0.08,0.0,0.08,Matches,ligue1,2024-2025
+0400dd2f,79,Badredine Bouanani,ALG,"MF,FW",Nice,19.0,2004.0,26,11,1099,12.2,3,3,6,2,1,1,2,0,0.25,0.25,0.49,0.16,0.41,Matches,ligue1,2024-2025
+599f9013,80,Benjamin Bouchouari,MAR,MF,Saint-Étienne,22.0,2001.0,25,20,1772,19.7,1,0,1,1,0,0,6,0,0.05,0.0,0.05,0.05,0.05,Matches,ligue1,2024-2025
+f9d5908e,81,Hicham Boudaoui,ALG,MF,Nice,24.0,1999.0,29,27,2435,27.1,2,3,5,2,0,0,9,0,0.07,0.11,0.18,0.07,0.18,Matches,ligue1,2024-2025
+2db7975a,82,Justin Bourgault,FRA,DF,Brest,18.0,2005.0,2,2,122,1.4,1,0,1,1,0,0,0,0,0.74,0.0,0.74,0.74,0.74,Matches,ligue1,2024-2025
+20e73fac,83,Benjamin Bourigeaud,FRA,MF,Rennes,30.0,1994.0,1,1,80,0.9,1,0,1,1,0,0,0,0,1.13,0.0,1.13,1.13,1.13,Matches,ligue1,2024-2025
+02bcaf8e,84,Bilal Brahimi,ALG,MF,Nice,24.0,2000.0,2,1,76,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+5b146df3,85,Lilian Brassier,FRA,DF,Marseille,24.0,1999.0,12,9,779,8.7,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+5b146df3,86,Lilian Brassier,FRA,DF,Rennes,24.0,1999.0,14,14,1234,13.7,1,1,2,1,0,0,1,0,0.07,0.07,0.15,0.07,0.15,Matches,ligue1,2024-2025
+16324e1d,87,Anthony Briançon,FRA,"DF,MF",Saint-Étienne,29.0,1994.0,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+b4705807,88,Aurélio Buta,POR,DF,Reims,27.0,1997.0,27,24,1970,21.9,0,1,1,0,0,0,5,0,0.0,0.05,0.05,0.0,0.05,Matches,ligue1,2024-2025
+db87a2c4,89,Marcin Bułka,POL,GK,Nice,24.0,1999.0,34,34,3060,34.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+148e136f,90,Rémy Cabella,FRA,MF,Lille,34.0,1990.0,23,12,1011,11.2,1,2,3,1,0,0,1,0,0.09,0.18,0.27,0.09,0.27,Matches,ligue1,2024-2025
+2a657da0,91,Mathieu Cafaro,FRA,"MF,FW",Saint-Étienne,27.0,1997.0,15,9,732,8.1,1,0,1,1,0,0,3,1,0.12,0.0,0.12,0.12,0.12,Matches,ligue1,2024-2025
+94f8d10c,92,Duje Ćaleta-Car,CRO,DF,Lyon,27.0,1996.0,19,17,1584,17.6,1,0,1,1,0,0,8,0,0.06,0.0,0.06,0.06,0.06,Matches,ligue1,2024-2025
+9a34200f,93,Issiaga Camara,GUI,MF,Nice,19.0,2005.0,4,0,20,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+19c2ffa4,94,Lamine Camara,SEN,MF,Monaco,20.0,2004.0,29,25,2054,22.8,2,7,9,2,0,0,10,1,0.09,0.31,0.39,0.09,0.39,Matches,ligue1,2024-2025
+8577e60a,95,Mahdi Camara,FRA,MF,Brest,26.0,1998.0,34,31,2659,29.5,5,3,8,5,0,0,5,0,0.17,0.1,0.27,0.17,0.27,Matches,ligue1,2024-2025
+7d3dfdfd,96,Ousmane Camara,MLI,DF,Angers,21.0,2003.0,3,3,252,2.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+9f4a940f,97,Axel Camblan,FRA,FW,Brest,20.0,2003.0,2,0,26,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+3684108d,98,Jaydee Canvot,FRA,"DF,MF",Toulouse,18.0,2006.0,18,12,1106,12.3,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+79b2399c,99,Pierrick Capelle,FRA,MF,Angers,37.0,1987.0,16,3,483,5.4,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+9cbf42e7,100,Gabin Capuano,FRA,FW,Lens,18.0,2006.0,1,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+f81ef10d,101,Maxence Caqueret,FRA,MF,Lyon,24.0,2000.0,9,6,573,6.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+3545e643,102,Simon Cara,FRA,FW,Montpellier,19.0,2005.0,2,0,9,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+707b98f1,103,Valentin Carboni,ARG,MF,Marseille,19.0,2005.0,4,1,103,1.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+5e080f73,104,Irvin Cardona,MLT,"FW,MF",Saint-Étienne,26.0,1997.0,15,13,1063,11.8,5,3,8,5,0,1,2,0,0.42,0.25,0.68,0.42,0.68,Matches,ligue1,2024-2025
+168c50c5,105,Patrik Carlgren,SWE,GK,Nantes,32.0,1992.0,5,4,417,4.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+481f76cf,106,Josué Casimir,HAI,"MF,FW",Le Havre,22.0,2001.0,27,23,1997,22.2,4,4,8,4,0,0,5,0,0.18,0.18,0.36,0.18,0.36,Matches,ligue1,2024-2025
+f86fe8c1,107,Cristian Cásseres Jr.,VEN,MF,Toulouse,24.0,2000.0,32,31,2696,30.0,1,3,4,1,0,0,11,0,0.03,0.1,0.13,0.03,0.13,Matches,ligue1,2024-2025
+e0f3a1f6,108,Jean-Charles Castelletto,CMR,"DF,MF",Nantes,29.0,1995.0,30,30,2620,29.1,0,0,0,0,0,0,5,1,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+40581e00,109,Enzo Caumont,FRA,MF,Angers,20.0,2004.0,2,0,34,0.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+3c6bbbab,110,Fabien Centonze,FRA,DF,Nantes,28.0,1996.0,7,3,265,2.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+16aa7d4c,111,Brendan Chardonnet,FRA,DF,Brest,29.0,1994.0,27,27,2416,26.8,1,0,1,1,0,0,6,0,0.04,0.0,0.04,0.04,0.04,Matches,ligue1,2024-2025
+649b57e9,112,Jhoanner Chávez,ECU,MF,Lens,22.0,2002.0,10,7,596,6.6,1,0,1,1,0,0,1,0,0.15,0.0,0.15,0.15,0.15,Matches,ligue1,2024-2025
+5a5b785e,113,Théo Chennahi,FRA,DF,Montpellier,19.0,2005.0,4,2,181,2.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+78430598,114,Sidiki Cherif,FRA,FW,Angers,17.0,2006.0,7,3,324,3.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+b34c63a5,115,Rayan Cherki,FRA,"MF,FW",Lyon,20.0,2003.0,30,22,2041,22.7,8,11,19,8,0,0,3,0,0.35,0.49,0.84,0.35,0.84,Matches,ligue1,2024-2025
+b3d76d84,116,Lucas Chevalier,FRA,GK,Lille,22.0,2001.0,34,34,3060,34.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+68a26d51,117,Pedro Chirivella,ESP,MF,Nantes,27.0,1997.0,30,28,2348,26.1,0,2,2,0,0,0,6,0,0.0,0.08,0.08,0.0,0.08,Matches,ligue1,2024-2025
+7909ffa4,118,Joris Chotard,FRA,MF,Montpellier,22.0,2001.0,26,23,1892,21.0,1,0,1,1,0,0,5,0,0.05,0.0,0.05,0.05,0.05,Matches,ligue1,2024-2025
+576ca93f,119,Djaoui Cissé,FRA,MF,Rennes,20.0,2004.0,14,14,1121,12.5,1,0,1,1,0,0,4,0,0.08,0.0,0.08,0.08,0.08,Matches,ligue1,2024-2025
+fd739131,120,Yoann Cissé,FRA,MF,Auxerre,19.0,2004.0,2,0,5,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+5219ab4a,121,Jonathan Clauss,FRA,"MF,DF",Nice,31.0,1992.0,28,27,2303,25.6,3,8,11,3,0,0,7,0,0.12,0.31,0.43,0.12,0.43,Matches,ligue1,2024-2025
+3010aefb,122,Marcus Coco,FRA,DF,Nantes,28.0,1996.0,20,10,951,10.6,0,1,1,0,0,0,3,2,0.0,0.09,0.09,0.0,0.09,Matches,ligue1,2024-2025
+535b0343,123,Alois Confais,FRA,"DF,MF",Le Havre,27.0,1996.0,1,0,3,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+a6951bf8,124,Francis Coquelin,FRA,MF,Nantes,33.0,1991.0,6,3,224,2.5,1,1,2,1,0,0,1,0,0.4,0.4,0.8,0.4,0.8,Matches,ligue1,2024-2025
+577744b8,125,Derek Cornelius,CAN,DF,Marseille,26.0,1997.0,21,17,1420,15.8,0,0,0,0,0,0,9,2,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+edeb21ff,126,Pierre Cornud,FRA,"DF,MF",Saint-Étienne,27.0,1996.0,11,7,576,6.4,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+59948ef7,127,David Costa,POR,MF,Lens,23.0,2001.0,11,3,352,3.9,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+bfb2056e,128,Logan Costa,CPV,DF,Toulouse,23.0,2001.0,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+ca95200f,129,Grégoire Coudert,FRA,GK,Brest,25.0,1999.0,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+78310540,130,Lasso Coulibaly,CIV,MF,Auxerre,21.0,2002.0,3,0,45,0.5,1,0,1,1,0,0,0,0,2.0,0.0,2.0,2.0,2.0,Matches,ligue1,2024-2025
+dacf856a,131,Mamadou Coulibaly,FRA,MF,Monaco,20.0,2004.0,1,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+9dff291c,132,Soumaïla Coulibaly,FRA,DF,Brest,20.0,2003.0,7,5,438,4.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+05ba9d7c,133,Tanguy Coulibaly,FRA,"MF,FW",Montpellier,23.0,2001.0,25,17,1485,16.5,3,0,3,3,0,0,4,2,0.18,0.0,0.18,0.18,0.18,Matches,ligue1,2024-2025
+28ab7aba,134,Marius Courcoul,FRA,MF,Angers,17.0,2007.0,8,3,309,3.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+8f325097,135,Nicolas Cozza,FRA,"DF,MF",Nantes,25.0,1999.0,27,23,2051,22.8,1,0,1,1,0,0,3,1,0.04,0.0,0.04,0.04,0.04,Matches,ligue1,2024-2025
+4654e5f5,136,Charlie Cresswell,ENG,DF,Toulouse,21.0,2002.0,31,29,2592,28.8,3,1,4,3,0,0,5,0,0.1,0.03,0.14,0.1,0.14,Matches,ligue1,2024-2025
+e76f6fbe,137,Kévin Danois,FRA,MF,Auxerre,20.0,2004.0,22,16,1460,16.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+6e33125f,138,Kevin Danso,AUT,DF,Lens,25.0,1998.0,12,12,1080,12.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+fd2bc67d,139,Dante,BRA,DF,Nice,40.0,1983.0,25,21,1964,21.8,0,0,0,0,0,0,5,1,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+d4925a40,140,Pape Daouda Diongue,SEN,MF,Strasbourg,,,9,1,78,0.9,1,0,1,1,0,0,0,0,1.15,0.0,1.15,1.15,1.15,Matches,ligue1,2024-2025
+06a1d642,141,Mohamed Daramy,DEN,"FW,MF",Reims,22.0,2002.0,2,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+ce50fd99,142,Jonathan David,CAN,FW,Lille,24.0,2000.0,32,28,2554,28.4,16,5,21,10,6,7,4,0,0.56,0.18,0.74,0.35,0.53,Matches,ligue1,2024-2025
+88b4d2e3,143,Zuriko Davitashvili,GEO,"FW,MF",Saint-Étienne,23.0,2001.0,33,32,2778,30.9,9,8,17,7,2,2,3,0,0.29,0.26,0.55,0.23,0.49,Matches,ligue1,2024-2025
+afbb55d2,144,Théo De Percin,MTQ,GK,Auxerre,23.0,2001.0,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+5fdcb075,145,Thibault De Smet,BEL,DF,Reims,26.0,1998.0,5,2,192,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+bc6e544a,146,Amar Dedić,BIH,MF,Marseille,21.0,2002.0,10,2,314,3.5,0,1,1,0,0,0,1,0,0.0,0.29,0.29,0.0,0.29,Matches,ligue1,2024-2025
+0be95d34,147,Romain Del Castillo,FRA,"FW,MF",Brest,28.0,1996.0,26,14,1259,14.0,6,4,10,3,3,4,0,0,0.43,0.29,0.71,0.21,0.5,Matches,ligue1,2024-2025
+8332db56,148,Thomas Delaine,FRA,"DF,MF",Strasbourg,32.0,1992.0,2,0,9,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+d33c706e,149,Andy Delort,ALG,FW,Montpellier,32.0,1991.0,9,8,607,6.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+b19db005,150,Ousmane Dembélé,FRA,FW,Paris Saint-Germain,27.0,1997.0,29,20,1730,19.2,21,6,27,20,1,1,1,0,1.09,0.31,1.4,1.04,1.35,Matches,ligue1,2024-2025
+477e50ce,151,Rémy Descamps,FRA,GK,Lyon,28.0,1996.0,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+e8c5dd4d,152,Arthur Desmas,FRA,GK,Le Havre,30.0,1994.0,18,18,1620,18.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+331c5a98,153,Mamadou Diakhon,FRA,"MF,FW",Reims,18.0,2005.0,28,5,858,9.5,2,1,3,2,0,0,2,0,0.21,0.1,0.31,0.21,0.31,Matches,ligue1,2024-2025
+1bfb6fef,154,Bafodé Diakité,FRA,DF,Lille,23.0,2001.0,31,31,2766,30.7,4,1,5,4,0,0,8,1,0.13,0.03,0.16,0.13,0.16,Matches,ligue1,2024-2025
+44435c8f,155,Oumar Diakité,CIV,FW,Reims,20.0,2003.0,26,20,1628,18.1,4,1,5,4,0,1,6,0,0.22,0.06,0.28,0.22,0.28,Matches,ligue1,2024-2025
+6d0fe035,156,Habib Diarra,SEN,"MF,FW",Strasbourg,20.0,2004.0,30,27,2352,26.1,4,5,9,2,2,2,6,0,0.15,0.19,0.34,0.08,0.27,Matches,ligue1,2024-2025
+8104e41e,157,Krépin Diatta,SEN,"DF,MF",Monaco,25.0,1999.0,19,3,508,5.6,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+1f038218,158,Kandet Diawara,GUI,MF,Le Havre,24.0,2000.0,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+1906b842,159,Mahamadou Diawara,FRA,MF,Le Havre,19.0,2005.0,15,6,582,6.5,0,1,1,0,0,0,0,0,0.0,0.15,0.15,0.0,0.15,Matches,ligue1,2024-2025
+1906b842,160,Mahamadou Diawara,FRA,MF,Lyon,19.0,2005.0,2,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+40774c6b,161,Bamba Dieng,SEN,FW,Angers,24.0,2000.0,18,5,532,5.9,3,0,3,2,1,1,1,0,0.51,0.0,0.51,0.34,0.34,Matches,ligue1,2024-2025
+bd604262,162,Kembo Diliwidi,FRA,FW,Lens,18.0,2006.0,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+6de23ab0,163,Sinaly Diomande,CIV,DF,Auxerre,23.0,2001.0,23,22,1945,21.6,3,2,5,3,0,0,6,0,0.14,0.09,0.23,0.14,0.23,Matches,ligue1,2024-2025
+4be0b467,164,Lois Diony,FRA,FW,Angers,31.0,1992.0,1,0,21,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+21ab03c8,165,Sérigné Diop,SEN,FW,Brest,19.0,2005.0,2,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+19053e31,166,Sofiane Diop,MAR,"MF,FW",Nice,24.0,2000.0,28,8,1064,11.8,6,4,10,6,0,0,3,0,0.51,0.34,0.85,0.51,0.85,Matches,ligue1,2024-2025
+9b5237b1,167,Andy Diouf,FRA,MF,Lens,21.0,2003.0,34,27,2225,24.7,1,2,3,1,0,0,2,0,0.04,0.08,0.12,0.04,0.12,Matches,ligue1,2024-2025
+eedea60b,168,Yehvann Diouf,SEN,GK,Reims,24.0,1999.0,34,34,3060,34.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+7f622eef,169,Assane Dioussé,SEN,MF,Auxerre,26.0,1997.0,17,7,663,7.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+f240be08,170,Álex Domínguez,ESP,GK,Toulouse,26.0,1998.0,1,0,19,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+08f5afaa,171,Gianluigi Donnarumma,ITA,GK,Paris Saint-Germain,25.0,1999.0,24,24,2091,23.2,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+135ebd39,172,Sékou Doucoure,FRA,DF,Nantes,19.0,2005.0,2,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+9e7483ff,173,Désiré Doué,FRA,"MF,FW",Paris Saint-Germain,19.0,2005.0,31,18,1730,19.2,6,6,12,6,0,0,1,0,0.31,0.31,0.62,0.31,0.62,Matches,ligue1,2024-2025
+b4ef3fb5,174,Guela Doué,CIV,"DF,MF",Strasbourg,21.0,2002.0,32,30,2717,30.2,1,2,3,1,0,0,7,0,0.03,0.07,0.1,0.03,0.1,Matches,ligue1,2024-2025
+301c287b,175,Douglas,BRA,MF,Nantes,27.0,1997.0,28,28,2307,25.6,4,2,6,4,0,0,8,0,0.16,0.08,0.23,0.16,0.23,Matches,ligue1,2024-2025
+0512a60a,176,Ismaël Doukouré,FRA,"DF,MF",Strasbourg,21.0,2003.0,31,31,2639,29.3,1,1,2,1,0,0,7,0,0.03,0.03,0.07,0.03,0.07,Matches,ligue1,2024-2025
+9226aa22,177,Kamory Doumbia,MLI,"MF,FW",Brest,21.0,2003.0,30,13,1322,14.7,3,2,5,3,0,0,1,0,0.2,0.14,0.34,0.2,0.34,Matches,ligue1,2024-2025
+c4d2da61,178,Amidou Doumbouya,FRA,MF,Nice,16.0,2007.0,2,0,46,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+0cbc8baa,179,Jean-Kevin Duverne,HAI,DF,Nantes,27.0,1997.0,9,7,537,6.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+38ef169e,180,Stefan Džodić,SRB,DF,Montpellier,19.0,2005.0,7,2,242,2.7,0,0,0,0,0,0,2,1,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+10cff752,181,Aron Dønnum,NOR,MF,Toulouse,26.0,1998.0,32,31,2689,29.9,3,2,5,3,0,0,6,0,0.1,0.07,0.17,0.1,0.17,Matches,ligue1,2024-2025
+92976f0d,182,Noah Edjouma,FRA,MF,Toulouse,18.0,2005.0,10,1,171,1.9,2,0,2,2,0,0,0,1,1.05,0.0,1.05,1.05,1.05,Matches,ligue1,2024-2025
+8d5016e6,183,Jacques Ekomie,GAB,"DF,MF",Angers,20.0,2003.0,18,7,697,7.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+830371be,184,Pierre Ekwah Elimby,FRA,MF,Saint-Étienne,22.0,2002.0,29,29,2575,28.6,1,0,1,1,0,0,3,0,0.03,0.0,0.03,0.03,0.03,Matches,ligue1,2024-2025
+5d51b074,185,Meschak Elia,COD,FW,Nantes,26.0,1997.0,8,1,170,1.9,1,0,1,1,0,0,0,0,0.53,0.0,0.53,0.53,0.53,Matches,ligue1,2024-2025
+0b4f388a,186,Breel Embolo,SUI,"FW,MF",Monaco,27.0,1997.0,29,19,1841,20.5,6,4,10,6,0,0,5,0,0.29,0.2,0.49,0.29,0.49,Matches,ligue1,2024-2025
+a0c590b9,187,Emanuel Emegha,NED,FW,Strasbourg,21.0,2003.0,27,27,2293,25.5,14,3,17,14,0,0,5,0,0.55,0.12,0.67,0.55,0.67,Matches,ligue1,2024-2025
+745ca0a3,188,Romain Faivre,FRA,"MF,FW",Brest,26.0,1998.0,20,10,899,10.0,3,2,5,2,1,1,2,0,0.3,0.2,0.5,0.2,0.4,Matches,ligue1,2024-2025
+faf00ab8,189,Khalil Fayad,FRA,"MF,FW",Montpellier,20.0,2004.0,20,10,1028,11.4,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+15d0c248,190,Luiz Felipe,ITA,DF,Marseille,27.0,1997.0,4,2,122,1.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+005c0807,191,Zinedine Ferhat,ALG,MF,Angers,31.0,1993.0,24,8,849,9.4,2,0,2,2,0,0,1,0,0.21,0.0,0.21,0.21,0.21,Matches,ligue1,2024-2025
+3bb625ac,192,Edimilson Fernandes,SUI,"MF,DF",Brest,28.0,1996.0,19,12,1105,12.3,0,1,1,0,0,0,1,0,0.0,0.08,0.08,0.0,0.08,Matches,ligue1,2024-2025
+0cdb6a2a,193,Matias Fernandez-Pardo,BEL,"MF,FW",Lille,19.0,2005.0,22,12,1065,11.8,4,2,6,4,0,0,4,0,0.34,0.17,0.51,0.34,0.51,Matches,ligue1,2024-2025
+375622c5,194,Jordan Ferri,FRA,MF,Montpellier,32.0,1992.0,25,21,1773,19.7,0,2,2,0,0,0,6,1,0.0,0.1,0.1,0.0,0.1,Matches,ligue1,2024-2025
+50ac8941,195,Karol Fila,POL,DF,Strasbourg,26.0,1998.0,1,0,5,0.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+8236f673,196,Malick Fofana,BEL,"FW,MF",Lyon,19.0,2005.0,29,16,1589,17.7,5,4,9,5,0,0,2,0,0.28,0.23,0.51,0.28,0.51,Matches,ligue1,2024-2025
+ad48a336,197,Rayan Fofana,FRA,MF,Lens,18.0,2006.0,2,0,25,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+5313ed43,198,Seko Fofana,CIV,MF,Rennes,29.0,1995.0,16,9,844,9.4,1,1,2,1,0,0,3,0,0.11,0.11,0.21,0.11,0.21,Matches,ligue1,2024-2025
+9d420dad,199,Yahia Fofana,CIV,GK,Angers,23.0,2000.0,33,33,2970,33.0,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+2145368f,200,Lamine Fomba,FRA,MF,Saint-Étienne,26.0,1998.0,7,3,217,2.4,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+00a8d210,201,Przemysław Frankowski,POL,"MF,DF",Lens,29.0,1995.0,18,16,1387,15.4,4,2,6,2,2,2,3,0,0.26,0.13,0.39,0.13,0.26,Matches,ligue1,2024-2025
+4b96c347,202,Angelo Fulgini,FRA,MF,Lens,27.0,1996.0,23,11,1045,11.6,1,1,2,1,0,0,3,0,0.09,0.09,0.17,0.09,0.17,Matches,ligue1,2024-2025
+fd4d5f81,203,Kyogo Furuhashi,JPN,FW,Rennes,29.0,1995.0,6,1,123,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+db3164e1,204,Gauthier Gallon,FRA,GK,Rennes,31.0,1993.0,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+23c63b7f,205,Ignatius Ganago,CMR,MF,Nantes,25.0,1999.0,11,1,241,2.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+c952f633,206,Ulisses Garcia,SUI,"DF,MF",Marseille,28.0,1996.0,20,10,930,10.3,2,2,4,2,0,0,2,0,0.19,0.19,0.39,0.19,0.39,Matches,ligue1,2024-2025
+6bd603db,207,Jean-Philippe Gbamin,CIV,MF,Nantes,28.0,1995.0,14,2,216,2.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+ab8b392c,208,Mory Gbane,CIV,"DF,MF",Reims,23.0,2000.0,13,13,1125,12.5,0,1,1,0,0,0,2,0,0.0,0.08,0.08,0.0,0.08,Matches,ligue1,2024-2025
+6be41a31,209,Yann Gboho,FRA,"MF,FW",Toulouse,23.0,2001.0,31,27,2333,25.9,5,4,9,5,0,0,2,0,0.19,0.15,0.35,0.19,0.35,Matches,ligue1,2024-2025
+badcdcae,210,Denis Genreau,AUS,MF,Toulouse,25.0,1999.0,8,2,222,2.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+3708e9fa,211,Aleksandr Golovin,RUS,MF,Monaco,28.0,1996.0,19,13,1153,12.8,3,0,3,3,0,0,1,0,0.23,0.0,0.23,0.23,0.23,Matches,ligue1,2024-2025
+1961b2aa,212,André Gomes,POR,MF,Lille,31.0,1993.0,20,16,1276,14.2,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+645a3363,213,Angel Gomes,ENG,MF,Lille,23.0,2000.0,14,10,736,8.2,1,1,2,1,0,1,1,0,0.12,0.12,0.24,0.12,0.24,Matches,ligue1,2024-2025
+76a82373,214,Carlos Gómez,COL,MF,Rennes,21.0,2002.0,17,2,381,4.2,3,0,3,3,0,0,1,0,0.71,0.0,0.71,0.71,0.71,Matches,ligue1,2024-2025
+4d3e9033,215,Mathieu Gorgelin,FRA,GK,Le Havre,33.0,1990.0,16,16,1440,16.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+aad56ca3,216,Amine Gouiri,ALG,FW,Marseille,24.0,2000.0,14,12,1048,11.6,10,3,13,10,0,0,0,0,0.86,0.26,1.12,0.86,1.12,Matches,ligue1,2024-2025
+aad56ca3,217,Amine Gouiri,ALG,"MF,FW",Rennes,24.0,2000.0,19,11,1037,11.5,3,2,5,3,0,0,2,0,0.26,0.17,0.43,0.26,0.43,Matches,ligue1,2024-2025
+06c48679,218,Jonathan Gradit,FRA,DF,Lens,31.0,1992.0,25,24,2112,23.5,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+d2448564,219,Samuel Grandsir,FRA,"FW,MF",Le Havre,27.0,1996.0,6,0,84,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+58eee997,220,Mason Greenwood,ENG,"MF,FW",Marseille,22.0,2001.0,34,32,2804,31.2,21,5,26,14,7,9,3,0,0.67,0.16,0.83,0.45,0.61,Matches,ligue1,2024-2025
+0da5076f,221,Albert Grønbaek,DEN,"MF,FW",Rennes,23.0,2001.0,16,9,813,9.0,2,1,3,2,0,0,1,0,0.22,0.11,0.33,0.22,0.33,Matches,ligue1,2024-2025
+d5d22a58,222,Gabriel Gudmundsson,SWE,"DF,MF",Lille,25.0,1999.0,30,20,1785,19.8,2,0,2,2,0,0,3,0,0.1,0.0,0.1,0.1,0.1,Matches,ligue1,2024-2025
+f6857b4f,223,Axel Gueguin,FRA,FW,Montpellier,19.0,2005.0,1,0,23,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+b73f17f8,224,Evann Guessand,CIV,"MF,FW",Nice,23.0,2001.0,33,30,2565,28.5,12,8,20,12,0,0,2,0,0.42,0.28,0.7,0.42,0.7,Matches,ligue1,2024-2025
+a08bb82c,225,Bahereba Guirassy,FRA,MF,Nantes,17.0,2006.0,19,2,348,3.9,2,0,2,2,0,0,0,0,0.52,0.0,0.52,0.52,0.52,Matches,ligue1,2024-2025
+5167c97e,226,Massadio Haïdara,MLI,DF,Brest,31.0,1992.0,22,20,1678,18.6,0,0,0,0,0,0,3,2,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+e42d61c7,227,Achraf Hakimi,MAR,DF,Paris Saint-Germain,25.0,1998.0,25,24,2066,23.0,4,6,10,4,0,0,4,0,0.17,0.26,0.44,0.17,0.44,Matches,ligue1,2024-2025
+6bfb4303,228,Florent Hanin,ALG,DF,Angers,34.0,1990.0,33,31,2672,29.7,1,2,3,1,0,0,2,0,0.03,0.07,0.1,0.03,0.1,Matches,ligue1,2024-2025
+e2ae54db,229,Hákon Haraldsson,ISL,MF,Lille,21.0,2003.0,25,21,1755,19.5,5,3,8,5,0,0,3,0,0.26,0.15,0.41,0.26,0.41,Matches,ligue1,2024-2025
+e7d59f4f,230,Amine Harit,MAR,MF,Marseille,27.0,1997.0,13,8,519,5.8,2,4,6,2,0,0,1,1,0.35,0.69,1.04,0.35,1.04,Matches,ligue1,2024-2025
+3b333ac3,231,Hans Hateboer,NED,"DF,MF",Rennes,30.0,1994.0,26,18,1684,18.7,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+d3ae48eb,232,Kjetil Haug,NOR,GK,Toulouse,26.0,1998.0,6,5,498,5.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+f36d5624,233,Luis Henrique,BRA,MF,Marseille,22.0,2001.0,33,29,2613,29.0,7,7,14,7,0,0,0,0,0.24,0.24,0.48,0.24,0.48,Matches,ligue1,2024-2025
+c3ee18ef,234,Lucas Hernández,FRA,DF,Paris Saint-Germain,28.0,1996.0,16,10,877,9.7,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+9a71e978,235,Ki-Jana Hoever,NED,"DF,MF",Auxerre,22.0,2002.0,30,26,2124,23.6,1,2,3,1,0,0,4,1,0.04,0.08,0.13,0.04,0.13,Matches,ligue1,2024-2025
+00891164,236,Cédric Hountondji,BEN,DF,Angers,30.0,1994.0,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+910e3cad,237,Ilyes Housni,FRA,FW,Le Havre,19.0,2005.0,12,3,230,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+8b04d6c1,238,Pierre Højbjerg,DEN,MF,Marseille,28.0,1995.0,30,30,2664,29.6,2,4,6,2,0,0,5,0,0.07,0.14,0.2,0.07,0.2,Matches,ligue1,2024-2025
+f4f05099,239,Hafiz Ibrahim,NGA,FW,Reims,18.0,2005.0,11,2,391,4.3,0,1,1,0,0,0,2,1,0.0,0.23,0.23,0.0,0.23,Matches,ligue1,2024-2025
+78c3ad07,240,George Ilenikhena,NGA,FW,Monaco,17.0,2006.0,23,6,717,8.0,3,2,5,3,0,0,0,0,0.38,0.25,0.63,0.38,0.63,Matches,ligue1,2024-2025
+c9f49454,241,Rareş Ilie,ROU,MF,Nice,21.0,2003.0,2,0,13,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+cf182add,242,Ismaily,BRA,DF,Lille,34.0,1990.0,16,10,904,10.0,0,1,1,0,0,0,4,0,0.0,0.1,0.1,0.0,0.1,Matches,ligue1,2024-2025
+5d004b30,243,Yanis Issoufou,FRA,MF,Montpellier,17.0,2006.0,4,1,77,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+dbd3a428,244,Junya Ito,JPN,"MF,FW",Reims,31.0,1993.0,33,31,2690,29.9,4,3,7,4,0,0,1,0,0.13,0.1,0.23,0.13,0.23,Matches,ligue1,2024-2025
+cef70c94,245,Jérémy Jacquet,FRA,DF,Rennes,19.0,2005.0,11,11,927,10.3,0,1,1,0,0,0,0,0,0.0,0.1,0.1,0.0,0.1,Matches,ligue1,2024-2025
+a0415710,246,Ismail Jakobs,SEN,DF,Monaco,24.0,1999.0,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+f719ad7f,247,Jordan James,WAL,MF,Rennes,20.0,2004.0,23,14,1178,13.1,0,1,1,0,0,0,4,0,0.0,0.08,0.08,0.0,0.08,Matches,ligue1,2024-2025
+8dbf56c8,248,Malcolm Jeng,SWE,DF,Reims,19.0,2005.0,3,2,107,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+fd01216a,249,John Joe,IRL,MF,Reims,20.0,2003.0,13,5,545,6.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+a56bd2ee,250,Karl-Johan Johnsson,SWE,GK,Strasbourg,34.0,1990.0,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+5b4bc323,251,Paul Joly,FRA,"DF,MF",Auxerre,24.0,2000.0,26,10,1009,11.2,0,1,1,0,0,0,3,1,0.0,0.09,0.09,0.0,0.09,Matches,ligue1,2024-2025
+8c5f1522,252,Jota,POR,MF,Rennes,25.0,1999.0,9,3,334,3.7,1,0,1,1,0,0,0,0,0.27,0.0,0.27,0.27,0.27,Matches,ligue1,2024-2025
+f9124307,253,Antoine Joujou,FRA,"MF,FW",Le Havre,21.0,2003.0,26,9,943,10.5,0,2,2,0,0,0,1,0,0.0,0.19,0.19,0.0,0.19,Matches,ligue1,2024-2025
+56ae428b,254,Jubal,BRA,DF,Auxerre,30.0,1993.0,30,30,2640,29.3,6,0,6,3,3,4,7,0,0.2,0.0,0.2,0.1,0.1,Matches,ligue1,2024-2025
+7b505397,255,Abdulai Juma Bah,SLE,DF,Lens,18.0,2006.0,10,8,686,7.6,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+570bb4b9,256,Hamed Junior Traorè,CIV,MF,Auxerre,24.0,2000.0,26,26,2093,23.3,10,2,12,10,0,0,5,0,0.43,0.09,0.52,0.43,0.52,Matches,ligue1,2024-2025
+cedc53d2,257,Yaya Kader Fofana,MLI,"MF,FW",Reims,20.0,2004.0,12,8,634,7.0,1,1,2,1,0,0,4,0,0.14,0.14,0.28,0.14,0.28,Matches,ligue1,2024-2025
+7d08063d,258,Tino Kadewere,ZIM,MF,Nantes,28.0,1996.0,12,6,512,5.7,1,2,3,1,0,0,1,0,0.18,0.35,0.53,0.18,0.53,Matches,ligue1,2024-2025
+bf4c41f9,259,Arnaud Kalimuendo,FRA,FW,Rennes,22.0,2002.0,33,31,2578,28.6,17,3,20,12,5,8,2,0,0.59,0.1,0.7,0.42,0.52,Matches,ligue1,2024-2025
+32e2163d,260,Justin-Noël Kalumba,FRA,FW,Angers,19.0,2004.0,2,0,31,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+a426a912,261,Warren Kamanzi,NOR,MF,Toulouse,23.0,2000.0,24,11,1022,11.4,1,1,2,1,0,0,3,0,0.09,0.09,0.18,0.09,0.18,Matches,ligue1,2024-2025
+4da9191b,262,Glen Kamara,FIN,MF,Rennes,28.0,1995.0,13,8,662,7.4,0,1,1,0,0,0,0,0,0.0,0.14,0.14,0.0,0.14,Matches,ligue1,2024-2025
+1a7cfdea,263,Noham Kamara,FRA,DF,Paris Saint-Germain,17.0,2007.0,2,0,76,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+c5908bc4,264,Nordine Kandil,FRA,MF,Strasbourg,22.0,2001.0,1,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+8455ad90,265,Lee Kang-in,KOR,"FW,MF",Paris Saint-Germain,23.0,2001.0,30,19,1663,18.5,6,6,12,6,0,0,1,0,0.32,0.32,0.65,0.32,0.65,Matches,ligue1,2024-2025
+abefc3af,266,Yassine Kechta,MAR,"MF,FW",Le Havre,22.0,2002.0,31,25,2096,23.3,2,0,2,2,0,0,4,0,0.09,0.0,0.09,0.09,0.09,Matches,ligue1,2024-2025
+51dbeea9,267,Thilo Kehrer,GER,DF,Monaco,27.0,1996.0,27,27,2383,26.5,4,0,4,4,0,0,1,0,0.15,0.0,0.15,0.15,0.15,Matches,ligue1,2024-2025
+88acf83f,268,Reda Khadra,GER,"FW,MF",Reims,23.0,2001.0,4,0,78,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+2677a1de,269,Wahbi Khazri,TUN,"FW,MF",Montpellier,33.0,1991.0,30,10,1118,12.4,1,1,2,1,0,0,4,0,0.08,0.08,0.16,0.08,0.16,Matches,ligue1,2024-2025
+d17ce930,270,Abdukodir Khusanov,UZB,DF,Lens,20.0,2004.0,13,11,975,10.8,0,0,0,0,0,0,2,1,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+aef6e670,271,Presnel Kimpembe,FRA,DF,Paris Saint-Germain,28.0,1995.0,2,0,23,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+43458538,272,Joshua King,NOR,"FW,MF",Toulouse,32.0,1992.0,28,21,1673,18.6,6,3,9,6,0,0,2,0,0.32,0.16,0.48,0.32,0.48,Matches,ligue1,2024-2025
+9f30e7ed,273,Cédric Kipré,CIV,DF,Reims,27.0,1996.0,28,26,2190,24.3,0,1,1,0,0,0,4,2,0.0,0.04,0.04,0.0,0.04,Matches,ligue1,2024-2025
+faf873a7,274,Hervé Koffi,BFA,GK,Lens,27.0,1996.0,5,5,450,5.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+ff74841d,275,Philipp Köhn,SUI,GK,Monaco,26.0,1998.0,19,19,1710,19.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+9fc2531b,276,Koka,EGY,FW,Le Havre,31.0,1993.0,16,10,851,9.5,3,1,4,2,1,1,2,0,0.32,0.11,0.42,0.21,0.32,Matches,ligue1,2024-2025
+c0b3669f,277,Randal Kolo Muani,FRA,FW,Paris Saint-Germain,25.0,1998.0,10,2,358,4.0,2,1,3,1,1,1,0,0,0.5,0.25,0.75,0.25,0.5,Matches,ligue1,2024-2025
+cce181df,278,Geoffrey Kondogbia,CTA,"DF,MF",Marseille,31.0,1993.0,25,22,2020,22.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+c1ebf5d2,279,Abdoul Koné,FRA,DF,Reims,19.0,2005.0,4,1,133,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+2eb1ec07,280,Amadou Koné,MLI,MF,Reims,19.0,2005.0,24,17,1293,14.4,0,0,0,0,0,0,3,1,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+e0220b70,281,Ismaël Koné,CAN,MF,Marseille,22.0,2002.0,8,3,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+e0220b70,282,Ismaël Koné,CAN,MF,Rennes,22.0,2002.0,13,4,469,5.2,2,1,3,2,0,0,1,0,0.38,0.19,0.58,0.38,0.58,Matches,ligue1,2024-2025
+cb3c6ca9,283,Emmanuel Koum Mbondo,FRA,FW,Marseille,18.0,2006.0,1,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+562a4799,284,Boubakar Kouyaté,MLI,DF,Montpellier,27.0,1997.0,11,8,756,8.4,0,0,0,0,0,0,6,1,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+2659a508,285,Goduine Koyalipou,CTA,FW,Lens,24.0,2000.0,15,12,885,9.8,4,0,4,4,0,0,0,0,0.41,0.0,0.41,0.41,0.41,Matches,ligue1,2024-2025
+c385bf49,286,Sael Kumbedi,FRA,DF,Lyon,19.0,2005.0,14,12,951,10.6,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+d4e93bab,287,Daler Kuzyaev,RUS,MF,Le Havre,31.0,1993.0,12,6,567,6.3,1,0,1,1,0,0,1,0,0.16,0.0,0.16,0.16,0.16,Matches,ligue1,2024-2025
+dea88efd,288,Khvicha Kvaratskhelia,GEO,FW,Paris Saint-Germain,23.0,2001.0,14,11,916,10.2,4,3,7,4,0,0,0,0,0.39,0.29,0.69,0.39,0.69,Matches,ligue1,2024-2025
+c90f380c,289,Rémy Labeau Lascary,GLP,"MF,FW",Lens,21.0,2003.0,14,6,637,7.1,2,1,3,2,0,0,5,0,0.28,0.14,0.42,0.28,0.42,Matches,ligue1,2024-2025
+7cdda3bf,290,Gaëtan Laborde,FRA,FW,Nice,30.0,1994.0,28,20,1829,20.3,11,4,15,7,4,4,1,0,0.54,0.2,0.74,0.34,0.54,Matches,ligue1,2024-2025
+9dbb75ca,291,Alexandre Lacazette,FRA,FW,Lyon,33.0,1991.0,30,24,2051,22.8,15,2,17,10,5,6,5,0,0.66,0.09,0.75,0.44,0.53,Matches,ligue1,2024-2025
+fdfe71e8,292,Younes Lachaab,FRA,MF,Lille,19.0,2005.0,2,0,9,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+4e7db402,293,Alban Lafont,CIV,GK,Nantes,25.0,1999.0,12,12,1080,12.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+770d7eb8,294,Kenny Lala,MAD,DF,Brest,32.0,1991.0,30,29,2686,29.8,3,2,5,0,3,3,5,0,0.1,0.07,0.17,0.0,0.07,Matches,ligue1,2024-2025
+01870104,295,Mohamed Lamine Bayo,GUI,FW,Lille,26.0,1998.0,12,4,309,3.4,2,1,3,2,0,0,1,0,0.58,0.29,0.87,0.58,0.87,Matches,ligue1,2024-2025
+b49729cb,296,Gautier Larsonneur,FRA,GK,Saint-Étienne,27.0,1997.0,34,34,3060,34.0,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+547a72ad,297,Julien Le Cardinal,FRA,DF,Brest,26.0,1997.0,16,15,1378,15.3,0,1,1,0,0,0,3,0,0.0,0.07,0.07,0.0,0.07,Matches,ligue1,2024-2025
+88c4d190,298,Jérémy Le Douaron,FRA,FW,Brest,26.0,1998.0,2,1,102,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+2fa2a875,299,Benjamin Lecomte,FRA,GK,Montpellier,33.0,1991.0,30,30,2700,30.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+f5044e54,300,Pierre Lees-Melou,FRA,MF,Brest,31.0,1993.0,20,17,1526,17.0,2,2,4,2,0,0,7,0,0.12,0.12,0.24,0.12,0.24,Matches,ligue1,2024-2025
+c3e4ecbb,301,Jordan Lefort,FRA,DF,Angers,30.0,1993.0,34,34,3060,34.0,0,1,1,0,0,0,3,0,0.0,0.03,0.03,0.0,0.03,Matches,ligue1,2024-2025
+8ca9415f,302,Félix Lemaréchal,FRA,"MF,FW",Strasbourg,20.0,2003.0,27,20,1779,19.8,4,3,7,4,0,0,2,0,0.2,0.15,0.35,0.2,0.35,Matches,ligue1,2024-2025
+51c83a90,303,Donovan Léon,GUF,GK,Auxerre,31.0,1992.0,32,32,2880,32.0,0,2,2,0,0,0,4,0,0.0,0.06,0.06,0.0,0.06,Matches,ligue1,2024-2025
+85ce1949,304,Esteban Lepaul,FRA,FW,Angers,24.0,2000.0,28,18,1629,18.1,9,0,9,9,0,0,2,0,0.5,0.0,0.5,0.5,0.5,Matches,ligue1,2024-2025
+1e52971c,305,Johann Lepenant,FRA,MF,Nantes,21.0,2002.0,29,23,2048,22.8,2,1,3,2,0,0,3,0,0.09,0.04,0.13,0.09,0.13,Matches,ligue1,2024-2025
+88972aa9,306,Louis Leroux,FRA,"MF,DF",Nantes,18.0,2006.0,16,8,816,9.1,2,1,3,2,0,0,1,0,0.22,0.11,0.33,0.22,0.33,Matches,ligue1,2024-2025
+ff800ed8,307,Pol Lirola,ESP,DF,Marseille,26.0,1997.0,19,5,680,7.6,1,2,3,1,0,0,1,1,0.13,0.26,0.4,0.13,0.4,Matches,ligue1,2024-2025
+ac89503b,308,Gautier Lloris,FRA,DF,Le Havre,29.0,1995.0,31,31,2768,30.8,2,1,3,2,0,0,5,0,0.07,0.03,0.1,0.07,0.1,Matches,ligue1,2024-2025
+40221fa7,309,Bradley Locko,FRA,DF,Brest,22.0,2002.0,2,1,97,1.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+daa11a4f,310,Elysée Logbo,FRA,FW,Le Havre,20.0,2004.0,1,0,27,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+f00de885,311,Anthony Lopes,POR,GK,Nantes,33.0,1990.0,18,18,1563,17.4,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+fc4cf6a7,312,Jordan Lotomba,SUI,"DF,MF",Nice,25.0,1998.0,2,0,35,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+f999e9be,313,Tom Louchet,FRA,"DF,MF",Nice,21.0,2003.0,22,7,775,8.6,1,0,1,1,0,0,1,0,0.12,0.0,0.12,0.12,0.12,Matches,ligue1,2024-2025
+b1c7a35e,314,Milos Lukovic,SRB,FW,Strasbourg,18.0,2005.0,2,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+5bdb4a7b,315,Othmane Maamma,MAR,MF,Montpellier,18.0,2005.0,12,2,361,4.0,1,1,2,1,0,0,1,0,0.25,0.25,0.5,0.25,0.5,Matches,ligue1,2024-2025
+b3f8bdef,316,Deiver Machado,COL,"DF,MF",Lens,30.0,1993.0,27,20,1805,20.1,1,4,5,1,0,0,7,2,0.05,0.2,0.25,0.05,0.25,Matches,ligue1,2024-2025
+e7cf1d4c,317,Lanroy Machine,FRA,MF,Angers,18.0,2005.0,2,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+0bb6e193,318,Yvann Macon,FRA,DF,Saint-Étienne,25.0,1998.0,12,10,790,8.8,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+0ed50019,319,Eros Maddy,NED,"FW,MF",Auxerre,23.0,2001.0,2,0,15,0.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+dfc5d4fa,320,Soungoutou Magassa,FRA,MF,Monaco,20.0,2003.0,21,12,1025,11.4,0,1,1,0,0,0,5,1,0.0,0.09,0.09,0.0,0.09,Matches,ligue1,2024-2025
+d4d35152,321,Hugo Magnetti,FRA,MF,Brest,26.0,1998.0,32,27,2323,25.8,1,0,1,1,0,0,5,0,0.04,0.0,0.04,0.04,0.04,Matches,ligue1,2024-2025
+42fdb11d,322,Frank Magri,CMR,FW,Toulouse,24.0,1999.0,31,17,1516,16.8,5,1,6,5,0,0,5,1,0.3,0.06,0.36,0.3,0.36,Matches,ligue1,2024-2025
+e3a5814e,323,Ainsley Maitland-Niles,ENG,"DF,MF",Lyon,26.0,1997.0,32,20,1985,22.1,1,4,5,1,0,0,1,0,0.05,0.18,0.23,0.05,0.23,Matches,ligue1,2024-2025
+20de219a,324,Radosław Majecki,POL,GK,Monaco,24.0,1999.0,15,15,1350,15.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+8fe2fb2a,325,Hamidou Makalou,MLI,MF,Brest,18.0,2006.0,4,0,32,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+16b9d5cf,326,Nikola Maksimović,SRB,DF,Montpellier,32.0,1991.0,7,7,581,6.5,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+4fe2648c,327,Aaron Malouda,FRA,FW,Lille,18.0,2005.0,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+1d2d5cc8,328,Steve Mandanda,FRA,GK,Rennes,39.0,1985.0,18,17,1486,16.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+fbd6378b,329,Aïssa Mandi,ALG,DF,Lille,32.0,1991.0,24,20,1733,19.3,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+a572e291,330,Orel Mangala,BEL,MF,Lyon,26.0,1998.0,1,1,67,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+3544641e,331,Sekou Mara,FRA,"FW,MF",Strasbourg,22.0,2002.0,25,7,768,8.5,1,1,2,1,0,0,2,0,0.12,0.12,0.23,0.12,0.23,Matches,ligue1,2024-2025
+d5f2f82b,332,Marquinhos,BRA,DF,Paris Saint-Germain,30.0,1994.0,22,19,1725,19.2,2,0,2,2,0,0,3,0,0.1,0.0,0.1,0.1,0.1,Matches,ligue1,2024-2025
+13579ed2,333,Ange Martial Tia,MLI,MF,Reims,17.0,2006.0,6,2,171,1.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+468fdbad,334,Jonas Martin,FRA,MF,Brest,34.0,1990.0,17,5,496,5.5,1,0,1,1,0,0,2,0,0.18,0.0,0.18,0.18,0.18,Matches,ligue1,2024-2025
+eba1e557,335,Han-Noah Massengo,FRA,MF,Auxerre,23.0,2001.0,17,11,1046,11.6,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+55abe554,336,Clinton Mata,ANG,DF,Lyon,31.0,1992.0,29,27,2370,26.3,0,4,4,0,0,0,6,0,0.0,0.15,0.15,0.0,0.15,Matches,ligue1,2024-2025
+15944afd,337,Eliot Matazo,BEL,MF,Monaco,22.0,2002.0,3,1,68,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+eb7822d7,338,Nemanja Matić,SRB,MF,Lyon,35.0,1988.0,29,25,2010,22.3,0,1,1,0,0,0,1,0,0.0,0.04,0.04,0.0,0.04,Matches,ligue1,2024-2025
+64b170af,339,Rudy Matondo,FRA,MF,Auxerre,16.0,2008.0,5,0,66,0.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+a17a94d6,340,Azor Matusiwa,NED,MF,Rennes,26.0,1998.0,29,23,2078,23.1,1,3,4,1,0,0,3,0,0.04,0.13,0.17,0.04,0.17,Matches,ligue1,2024-2025
+4bcf39f6,341,Neal Maupay,FRA,FW,Marseille,27.0,1996.0,22,13,1042,11.6,4,4,8,4,0,0,3,1,0.35,0.35,0.69,0.35,0.69,Matches,ligue1,2024-2025
+2c70d915,342,Christian Mawissa,FRA,DF,Monaco,19.0,2005.0,22,17,1501,16.7,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+bac89b96,343,Senny Mayulu,FRA,MF,Paris Saint-Germain,18.0,2006.0,20,8,808,9.0,2,2,4,2,0,0,1,0,0.22,0.22,0.45,0.22,0.45,Matches,ligue1,2024-2025
+d595de71,344,Ethan Mbappé,FRA,MF,Lille,17.0,2006.0,10,1,222,2.5,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+201b4ee4,345,Ibrahim Mbaye,SEN,FW,Paris Saint-Germain,16.0,2008.0,9,4,340,3.8,1,1,2,1,0,0,0,0,0.26,0.26,0.53,0.26,0.53,Matches,ligue1,2024-2025
+0f86995c,346,Hianga'a Mbock,FRA,MF,Brest,24.0,1999.0,1,0,21,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+a5f5d094,347,Mark McKenzie,USA,DF,Toulouse,25.0,1999.0,30,29,2496,27.7,1,1,2,1,0,0,1,1,0.04,0.04,0.07,0.04,0.07,Matches,ligue1,2024-2025
+6f5ec8bb,348,Facundo Medina,ARG,DF,Lens,25.0,1999.0,29,29,2543,28.3,0,1,1,0,0,0,15,1,0.0,0.04,0.04,0.0,0.04,Matches,ligue1,2024-2025
+e1a873eb,349,Henrik Meister,DEN,FW,Rennes,20.0,2003.0,4,0,63,0.7,1,0,1,1,0,0,0,0,1.43,0.0,1.43,1.43,1.43,Matches,ligue1,2024-2025
+04ac78d2,350,Bamo Meïté,CIV,DF,Montpellier,22.0,2001.0,7,6,424,4.7,0,0,0,0,0,0,2,1,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+04ac78d2,351,Bamo Meïté,CIV,DF,Marseille,22.0,2001.0,3,0,26,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+424cbbb3,352,Kader Meïté,FRA,FW,Rennes,16.0,2007.0,12,5,544,6.0,2,0,2,2,0,0,0,0,0.33,0.0,0.33,0.33,0.33,Matches,ligue1,2024-2025
+d21e361a,353,Farid El Melali,ALG,"MF,FW",Angers,27.0,1997.0,32,22,1893,21.0,2,3,5,2,0,0,1,0,0.1,0.14,0.24,0.1,0.24,Matches,ligue1,2024-2025
+f20e4cc9,354,Nuno Mendes,POR,DF,Paris Saint-Germain,22.0,2002.0,24,19,1676,18.6,1,3,4,1,0,0,3,0,0.05,0.16,0.21,0.05,0.21,Matches,ligue1,2024-2025
+3322e296,355,Antoine Mendy,SEN,"DF,MF",Nice,20.0,2004.0,18,8,825,9.2,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+1598599e,356,Nampalys Mendy,SEN,MF,Lens,32.0,1992.0,10,7,588,6.5,0,1,1,0,0,0,2,0,0.0,0.15,0.15,0.0,0.15,Matches,ligue1,2024-2025
+9bdd8118,357,Gideon Mensah,GHA,"DF,MF",Auxerre,26.0,1998.0,29,26,2280,25.3,0,1,1,0,0,0,2,0,0.0,0.04,0.04,0.0,0.04,Matches,ligue1,2024-2025
+0bfca6a1,358,Quentin Merlin,FRA,"MF,DF",Marseille,22.0,2002.0,27,21,1589,17.7,1,3,4,1,0,0,1,0,0.06,0.17,0.23,0.06,0.23,Matches,ligue1,2024-2025
+bbc86fc4,359,Rafik Messali,FRA,MF,Toulouse,21.0,2003.0,13,5,456,5.1,0,1,1,0,0,0,0,0,0.0,0.2,0.2,0.0,0.2,Matches,ligue1,2024-2025
+e162b013,360,Thomas Meunier,BEL,DF,Lille,32.0,1991.0,30,21,1928,21.4,2,0,2,2,0,0,5,0,0.09,0.0,0.09,0.09,0.09,Matches,ligue1,2024-2025
+0c7b1c91,361,Lucas Michal,FRA,FW,Monaco,19.0,2005.0,8,0,117,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+4788cb6b,362,Georges Mikautadze,GEO,"FW,MF",Lyon,23.0,2000.0,34,13,1449,16.1,11,6,17,8,3,4,2,0,0.68,0.37,1.06,0.5,0.87,Matches,ligue1,2024-2025
+3ba938b6,363,Igor Miladinović,SRB,MF,Saint-Étienne,21.0,2003.0,3,0,26,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+f833a830,364,Takumi Minamino,JPN,MF,Monaco,29.0,1995.0,31,27,2231,24.8,6,3,9,6,0,0,4,0,0.24,0.12,0.36,0.24,0.36,Matches,ligue1,2024-2025
+02b3733e,365,Lucas Mincarelli,FRA,DF,Montpellier,20.0,2004.0,10,8,715,7.9,1,0,1,1,0,0,0,0,0.13,0.0,0.13,0.13,0.13,Matches,ligue1,2024-2025
+065dc209,366,Terem Moffi,NGA,FW,Nice,25.0,1999.0,5,0,58,0.6,1,0,1,1,0,0,0,0,1.55,0.0,1.55,1.55,1.55,Matches,ligue1,2024-2025
+595e6f3e,367,Mostafa Mohamed,EGY,FW,Nantes,26.0,1997.0,30,11,1252,13.9,5,0,5,5,0,0,3,0,0.36,0.0,0.36,0.36,0.36,Matches,ligue1,2024-2025
+7e82a78f,368,Florent Mollet,FRA,MF,Nantes,32.0,1991.0,9,3,242,2.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+12de1b0d,369,Diego Moreira,BEL,"MF,DF",Strasbourg,19.0,2004.0,32,29,2568,28.5,2,7,9,2,0,0,4,1,0.07,0.25,0.32,0.07,0.32,Matches,ligue1,2024-2025
+709d3f52,370,Gabriel Moscardo,BRA,MF,Reims,18.0,2005.0,6,0,84,0.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+153e48e0,371,Yael Mouanga,FRA,DF,Montpellier,19.0,2005.0,14,10,946,10.5,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+2591b066,372,Aimen Moueffek,FRA,MF,Saint-Étienne,23.0,2001.0,22,13,1039,11.5,0,1,1,0,0,0,2,0,0.0,0.09,0.09,0.0,0.09,Matches,ligue1,2024-2025
+6ce43701,373,Youssoufa Moukoko,GER,FW,Nice,19.0,2004.0,11,2,204,2.3,2,1,3,2,0,0,0,0,0.88,0.44,1.32,0.88,1.32,Matches,ligue1,2024-2025
+c37823fe,374,Louis Mouton,FRA,MF,Saint-Étienne,22.0,2002.0,24,12,1045,11.6,0,1,1,0,0,0,2,0,0.0,0.09,0.09,0.0,0.09,Matches,ligue1,2024-2025
+bb461b8a,375,Ngal'Ayel Mukau,COD,MF,Lille,19.0,2004.0,22,14,1190,13.2,0,1,1,0,0,0,4,0,0.0,0.08,0.08,0.0,0.08,Matches,ligue1,2024-2025
+2acf0cd7,376,Marshall Munetsi,ZIM,MF,Reims,28.0,1996.0,19,19,1692,18.8,4,2,6,4,0,0,5,0,0.21,0.11,0.32,0.21,0.32,Matches,ligue1,2024-2025
+cd6a1a59,377,Almoatasem Al Musrati,LBY,MF,Monaco,28.0,1996.0,10,3,386,4.3,1,1,2,1,0,0,0,0,0.23,0.23,0.47,0.23,0.47,Matches,ligue1,2024-2025
+ee158be5,378,Junior Mwanga,FRA,MF,Le Havre,21.0,2003.0,11,11,952,10.6,1,2,3,1,0,0,1,1,0.09,0.19,0.28,0.09,0.28,Matches,ligue1,2024-2025
+ee158be5,379,Junior Mwanga,FRA,MF,Strasbourg,21.0,2003.0,8,2,296,3.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+b1fe3000,380,Loïc N'Gatta,FRA,DF,Auxerre,20.0,2003.0,2,0,13,0.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+63b27fab,381,Djylian N'Guessan,FRA,FW,Saint-Étienne,15.0,2008.0,8,3,181,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+a6b6fa6e,382,Mickael Nade,FRA,DF,Saint-Étienne,25.0,1999.0,26,25,2306,25.6,1,2,3,1,0,0,1,0,0.04,0.08,0.12,0.04,0.12,Matches,ligue1,2024-2025
+226673c2,383,Bilal Nadir,MAR,MF,Marseille,20.0,2003.0,15,5,383,4.3,1,0,1,1,0,0,2,0,0.23,0.0,0.23,0.23,0.23,Matches,ligue1,2024-2025
+8bfbf257,384,Mahamadou Nagida,CMR,MF,Rennes,19.0,2005.0,12,4,430,4.8,2,0,2,2,0,0,1,0,0.42,0.0,0.42,0.42,0.42,Matches,ligue1,2024-2025
+d97af612,385,Keito Nakamura,JPN,"MF,FW",Reims,24.0,2000.0,32,31,2649,29.4,11,2,13,11,0,0,5,0,0.37,0.07,0.44,0.37,0.44,Matches,ligue1,2024-2025
+ce747d2a,386,Sebastian Nanasi,SWE,"MF,FW",Strasbourg,22.0,2002.0,31,26,2107,23.4,6,4,10,6,0,0,1,0,0.26,0.17,0.43,0.26,0.43,Matches,ligue1,2024-2025
+35f311ec,387,Yael Nandjou,FRA,DF,Nice,19.0,2005.0,3,2,154,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+65c55288,388,Youssouf Ndayishimiye,BDI,DF,Nice,25.0,1998.0,23,22,1932,21.5,3,0,3,3,0,0,5,0,0.14,0.0,0.14,0.14,0.14,Matches,ligue1,2024-2025
+03412e45,389,Junior Ndiaye,UAE,FW,Montpellier,19.0,2005.0,15,4,441,4.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+36f65bdf,390,Rassoul Ndiaye,SEN,MF,Le Havre,22.0,2001.0,27,11,1061,11.8,1,0,1,1,0,0,2,0,0.08,0.0,0.08,0.08,0.08,Matches,ligue1,2024-2025
+f2b7d401,391,Wilfried Ndollo,CMR,DF,Montpellier,19.0,2005.0,8,3,401,4.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+5cdddffa,392,Tanguy Ndombele,FRA,MF,Nice,27.0,1996.0,18,12,1131,12.6,1,2,3,1,0,0,2,0,0.08,0.16,0.24,0.08,0.24,Matches,ligue1,2024-2025
+c3b6fa1e,393,Loïc Nego,HUN,"DF,MF",Le Havre,33.0,1991.0,31,28,2459,27.3,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+c2a15a27,394,João Neves,POR,"MF,DF",Paris Saint-Germain,19.0,2004.0,29,22,1844,20.5,3,8,11,3,0,0,1,0,0.15,0.39,0.54,0.15,0.54,Matches,ligue1,2024-2025
+b37ae816,395,Mikayil Ngor Faye,SEN,DF,Rennes,20.0,2004.0,11,7,688,7.6,0,0,0,0,0,0,1,1,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+731f1f5a,396,Steve Ngoura,FRA,FW,Le Havre,19.0,2005.0,8,2,289,3.2,1,0,1,1,0,0,0,0,0.31,0.0,0.31,0.31,0.31,Matches,ligue1,2024-2025
+95915bb5,397,Bernard Nguene,CMR,FW,Nice,17.0,2006.0,1,0,13,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+00242715,398,Moussa Niakhate,SEN,DF,Lyon,28.0,1996.0,31,30,2726,30.3,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+b8cd2ae4,399,Abdoulaye Niakhate Ndiaye,SEN,DF,Brest,22.0,2002.0,22,19,1707,19.0,1,0,1,1,0,0,4,1,0.05,0.0,0.05,0.05,0.05,Matches,ligue1,2024-2025
+46faabfa,400,Ibrahima Niane,SEN,FW,Angers,25.0,1999.0,24,8,943,10.5,3,1,4,2,1,1,0,0,0.29,0.1,0.38,0.19,0.29,Matches,ligue1,2024-2025
+3f319bb9,401,Rasmus Nicolaisen,DEN,DF,Toulouse,27.0,1997.0,7,7,623,6.9,0,1,1,0,0,0,0,0,0.0,0.14,0.14,0.0,0.14,Matches,ligue1,2024-2025
+7b9a9e25,402,Arnaud Nordin,FRA,"MF,FW",Montpellier,26.0,1998.0,16,14,1166,13.0,4,1,5,3,1,2,2,0,0.31,0.08,0.39,0.23,0.31,Matches,ligue1,2024-2025
+ab90a99b,403,Plamedi Nsingi,,FW,Nantes,23.0,2000.0,1,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+234a703c,404,Ernest Nuamah,GHA,"MF,FW",Lyon,20.0,2003.0,23,13,1052,11.7,3,1,4,3,0,0,2,0,0.26,0.09,0.34,0.26,0.34,Matches,ligue1,2024-2025
+627c7a3d,405,Rabby Nzingoula,FRA,MF,Montpellier,18.0,2005.0,27,20,1689,18.8,1,0,1,1,0,0,11,0,0.05,0.0,0.05,0.05,0.05,Matches,ligue1,2024-2025
+a4948e67,406,M'Bala Nzola,ANG,FW,Lens,27.0,1996.0,21,16,1460,16.2,6,1,7,6,0,0,3,1,0.37,0.06,0.43,0.37,0.43,Matches,ligue1,2024-2025
+165787d9,407,Marwann Nzuzi,FRA,DF,Saint-Étienne,20.0,2004.0,2,2,125,1.4,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+25124a21,408,Hamzat Ojediran,NGA,MF,Lens,20.0,2003.0,17,1,416,4.6,1,0,1,1,0,0,5,0,0.22,0.0,0.22,0.22,0.22,Matches,ligue1,2024-2025
+039f1983,409,Joseph Okumu,KEN,DF,Reims,27.0,1997.0,22,20,1695,18.8,1,0,1,1,0,0,5,1,0.05,0.0,0.05,0.05,0.05,Matches,ligue1,2024-2025
+f3ec7e64,410,Kazeem Olaigbe,BEL,"MF,FW",Rennes,21.0,2003.0,10,3,299,3.3,0,2,2,0,0,0,0,0,0.0,0.6,0.6,0.0,0.6,Matches,ligue1,2024-2025
+e14e818c,411,Ben Old,NZL,"MF,FW",Saint-Étienne,21.0,2002.0,13,4,528,5.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+4534a352,412,Warmed Omari,COM,DF,Lyon,24.0,2000.0,1,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+c284d6fb,413,Becir Omeragic,SUI,DF,Montpellier,22.0,2002.0,22,21,1799,20.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+c393a6c4,414,Andrew Omobamidele,IRL,DF,Strasbourg,22.0,2002.0,10,6,539,6.0,0,0,0,0,0,0,5,1,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+ff4df82e,415,Ado Onaiwu,JPN,"MF,FW",Auxerre,28.0,1995.0,31,9,957,10.6,4,1,5,4,0,0,1,1,0.38,0.09,0.47,0.38,0.47,Matches,ligue1,2024-2025
+914bb955,416,Christopher Operi,CIV,"MF,DF",Le Havre,27.0,1997.0,13,13,1169,13.0,0,2,2,0,0,0,2,1,0.0,0.15,0.15,0.0,0.15,Matches,ligue1,2024-2025
+c0347e9b,417,Fredrik Oppegard,NOR,"MF,DF",Auxerre,21.0,2002.0,9,2,273,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+cbfb7cd7,418,Victor Orakpo,NGA,FW,Nice,18.0,2006.0,4,0,36,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+60e53ba1,419,Ike Orazi,IRL,FW,Reims,17.0,2007.0,1,0,3,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+de17db90,420,Gift Orban,NGA,FW,Lyon,22.0,2002.0,3,2,186,2.1,2,0,2,2,0,0,1,0,0.97,0.0,0.97,0.97,0.97,Matches,ligue1,2024-2025
+cd889153,421,Gabriel Osho,NGA,DF,Auxerre,25.0,1998.0,20,20,1654,18.4,1,0,1,1,0,0,1,1,0.05,0.0,0.05,0.05,0.05,Matches,ligue1,2024-2025
+967bb460,422,Jibril Othman,TUN,FW,Saint-Étienne,20.0,2004.0,1,0,5,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+d028b5e5,423,Abdoul Ouattara,FRA,"MF,FW",Strasbourg,18.0,2005.0,17,3,471,5.2,1,1,2,1,0,0,1,0,0.19,0.19,0.38,0.19,0.38,Matches,ligue1,2024-2025
+6620c21a,424,Kassoum Ouattara,FRA,"MF,DF",Monaco,19.0,2004.0,12,5,391,4.3,0,1,1,0,0,0,2,0,0.0,0.23,0.23,0.0,0.23,Matches,ligue1,2024-2025
+6b4436ba,425,Zinédine Ould Khaled,FRA,MF,Angers,24.0,2000.0,10,4,343,3.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+32c61db3,426,Beres Owusu,FRA,DF,Saint-Étienne,20.0,2003.0,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+e2781082,427,Elisha Owusu,GHA,MF,Auxerre,26.0,1997.0,28,28,2344,26.0,1,3,4,1,0,0,7,0,0.04,0.12,0.15,0.04,0.15,Matches,ligue1,2024-2025
+ecbe2839,428,Willian Pacho,ECU,DF,Paris Saint-Germain,22.0,2001.0,28,23,2132,23.7,0,1,1,0,0,0,2,0,0.0,0.04,0.04,0.0,0.04,Matches,ligue1,2024-2025
+779847d6,429,Nicolas Pallois,FRA,DF,Nantes,36.0,1987.0,26,23,2017,22.4,0,2,2,0,0,0,9,0,0.0,0.09,0.09,0.0,0.09,Matches,ligue1,2024-2025
+b9f2c759,430,Nicolas Pays,FRA,"MF,FW",Montpellier,20.0,2003.0,9,4,447,5.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+ff1f24ca,431,Kévin Pedro,FRA,DF,Saint-Étienne,18.0,2006.0,1,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+b684a484,432,Jordan Pefok,USA,FW,Reims,28.0,1996.0,7,6,380,4.2,1,0,1,1,0,0,0,0,0.24,0.0,0.24,0.24,0.24,Matches,ligue1,2024-2025
+97fb4608,433,Théo Pellenard,FRA,DF,Auxerre,30.0,1994.0,2,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+f8ce97ca,434,Timothee Pembele,FRA,"DF,MF",Le Havre,21.0,2002.0,20,12,1113,12.4,1,0,1,1,0,0,3,0,0.08,0.0,0.08,0.08,0.08,Matches,ligue1,2024-2025
+58aae0a9,435,Faris Pemi Moumbagna,CMR,FW,Marseille,24.0,2000.0,1,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+57bc72ea,436,Óscar Perea,COL,MF,Strasbourg,18.0,2005.0,2,0,14,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+8846a40f,437,Mathias Pereira Lage,POR,"MF,FW",Brest,27.0,1996.0,29,18,1571,17.5,2,7,9,2,0,0,4,0,0.11,0.4,0.52,0.11,0.52,Matches,ligue1,2024-2025
+5dbd461a,438,Lucas Perri,BRA,GK,Lyon,26.0,1997.0,33,33,2970,33.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+10dd88f9,439,Gaëtan Perrin,FRA,MF,Auxerre,28.0,1996.0,34,31,2691,29.9,10,11,21,10,0,0,2,0,0.33,0.37,0.7,0.33,0.7,Matches,ligue1,2024-2025
+1bfb331d,440,Prosper Peter,NGA,FW,Angers,16.0,2007.0,2,0,27,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+00638016,441,Léo Pétrot,FRA,DF,Saint-Étienne,27.0,1997.0,31,29,2634,29.3,0,3,3,0,0,0,4,0,0.0,0.1,0.1,0.0,0.1,Matches,ligue1,2024-2025
+0cf321c8,442,Đorđe Petrović,SRB,GK,Strasbourg,24.0,1999.0,31,31,2790,31.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+dafce747,443,Tom Pouilly,FRA,DF,Lens,21.0,2003.0,10,2,273,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+8794e251,444,Adrien Rabiot,FRA,MF,Marseille,29.0,1995.0,29,27,2485,27.6,9,4,13,9,0,0,4,0,0.33,0.14,0.47,0.33,0.47,Matches,ligue1,2024-2025
+f63cda26,445,Gonçalo Ramos,POR,FW,Paris Saint-Germain,23.0,2001.0,22,12,1066,11.8,10,3,13,8,2,3,1,0,0.84,0.25,1.1,0.68,0.93,Matches,ligue1,2024-2025
+79a793b7,446,Lilian Raolisoa,FRA,"DF,MF",Angers,24.0,2000.0,29,14,1318,14.6,0,3,3,0,0,0,1,2,0.0,0.2,0.2,0.0,0.2,Matches,ligue1,2024-2025
+fb3236a7,447,Rayan Raveloson,MAD,"MF,DF",Auxerre,27.0,1997.0,13,7,724,8.0,1,0,1,1,0,0,3,0,0.12,0.0,0.12,0.12,0.12,Matches,ligue1,2024-2025
+6b91b999,448,Guillaume Restes,FRA,GK,Toulouse,19.0,2005.0,29,29,2543,28.3,0,1,1,0,0,0,2,0,0.0,0.04,0.04,0.0,0.04,Matches,ligue1,2024-2025
+102c9665,449,Alexsandro Ribeiro,BRA,DF,Lille,24.0,1999.0,30,30,2700,30.0,1,1,2,1,0,0,10,0,0.03,0.03,0.07,0.03,0.07,Matches,ligue1,2024-2025
+fbe1cf6b,450,Alejandro Rodriguez,POR,FW,Lyon,16.0,2008.0,1,0,20,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+ed45c4a5,451,Valentin Rongier,FRA,"MF,DF",Marseille,29.0,1994.0,25,17,1562,17.4,3,1,4,3,0,0,5,0,0.17,0.06,0.23,0.17,0.23,Matches,ligue1,2024-2025
+1a6b7ea4,452,Pablo Rosario,DOM,"MF,DF",Nice,27.0,1997.0,29,21,1775,19.7,3,1,4,2,1,1,6,1,0.15,0.05,0.2,0.1,0.15,Matches,ligue1,2024-2025
+9b545925,453,Anthony Rouault,FRA,DF,Rennes,23.0,2001.0,11,11,972,10.8,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+8c12f884,454,Jonathan Rowe,ENG,"MF,FW",Marseille,21.0,2003.0,28,6,807,9.0,3,3,6,3,0,0,2,0,0.33,0.33,0.67,0.33,0.67,Matches,ligue1,2024-2025
+c0c7ff58,455,Fabián Ruiz Peña,ESP,MF,Paris Saint-Germain,28.0,1996.0,30,21,1923,21.4,4,5,9,4,0,0,1,0,0.19,0.23,0.42,0.19,0.42,Matches,ligue1,2024-2025
+625c144a,456,Gerónimo Rulli,ARG,GK,Marseille,32.0,1992.0,34,34,3060,34.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+4535e4bb,457,Mathew Ryan,AUS,GK,Lens,32.0,1992.0,14,14,1260,14.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+2e1b7c83,458,Emmanuel Sabbi,USA,"MF,FW",Le Havre,26.0,1997.0,15,7,653,7.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+6388e356,459,Falaye Sacko,MLI,DF,Montpellier,29.0,1995.0,16,14,1233,13.7,0,1,1,0,0,0,1,0,0.0,0.07,0.07,0.0,0.07,Matches,ligue1,2024-2025
+d97b252e,460,Matvei Safonov,RUS,GK,Paris Saint-Germain,25.0,1999.0,10,9,879,9.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+76d679c7,461,Modibo Sagnan,MLI,DF,Montpellier,25.0,1999.0,27,24,2141,23.8,2,0,2,2,0,0,10,0,0.08,0.0,0.08,0.08,0.08,Matches,ligue1,2024-2025
+6f9fa232,462,Osame Sahraoui,MAR,MF,Lille,23.0,2001.0,30,10,1293,14.4,3,3,6,3,0,0,1,0,0.21,0.21,0.42,0.21,0.42,Matches,ligue1,2024-2025
+90fcf472,463,Wesley Saïd,FRA,FW,Lens,29.0,1995.0,24,11,905,10.1,3,0,3,3,0,0,4,0,0.3,0.0,0.3,0.3,0.3,Matches,ligue1,2024-2025
+93c942fb,464,Théo Sainte-Luce,FRA,DF,Montpellier,25.0,1998.0,16,11,1018,11.3,1,0,1,1,0,0,3,0,0.09,0.0,0.09,0.09,0.09,Matches,ligue1,2024-2025
+cad3fd4d,465,Ibrahim Salah,MAR,"MF,FW",Brest,22.0,2001.0,12,4,358,4.0,1,1,2,1,0,0,0,0,0.25,0.25,0.5,0.25,0.5,Matches,ligue1,2024-2025
+bc7cc472,466,Amine Salama,FRA,FW,Reims,24.0,2000.0,17,2,373,4.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+0b33f6ad,467,Mohammed Salisu,GHA,DF,Monaco,25.0,1999.0,15,11,1023,11.4,1,0,1,1,0,0,2,0,0.09,0.0,0.09,0.09,0.09,Matches,ligue1,2024-2025
+c3725db2,468,Yoann Salmier,GUF,DF,Le Havre,31.0,1992.0,13,9,797,8.9,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+fb14aa28,469,Mama Samba Baldé,GNB,"FW,MF",Lyon,28.0,1995.0,2,0,33,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+fb14aa28,470,Mama Samba Baldé,GNB,"FW,MF",Brest,28.0,1995.0,27,12,1149,12.8,2,3,5,2,0,0,4,0,0.16,0.23,0.39,0.16,0.39,Matches,ligue1,2024-2025
+60d90c55,471,Brice Samba,FRA,GK,Rennes,30.0,1994.0,17,17,1529,17.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+60d90c55,472,Brice Samba,FRA,GK,Lens,30.0,1994.0,15,15,1350,15.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+17bb562c,473,Arouna Sangante,SEN,DF,Le Havre,22.0,2002.0,16,16,1244,13.8,3,0,3,3,0,0,4,1,0.22,0.0,0.22,0.22,0.22,Matches,ligue1,2024-2025
+3f465a66,474,Nhoa Sangui,FRA,"DF,MF",Reims,18.0,2006.0,26,10,1158,12.9,0,2,2,0,0,0,3,0,0.0,0.16,0.16,0.0,0.16,Matches,ligue1,2024-2025
+6e7f1353,475,Morgan Sanson,FRA,MF,Nice,29.0,1994.0,6,3,235,2.6,3,0,3,3,0,0,0,0,1.15,0.0,1.15,1.15,1.15,Matches,ligue1,2024-2025
+5e22e2a4,476,Baptiste Santamaria,FRA,MF,Nice,29.0,1995.0,13,11,927,10.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+5e22e2a4,477,Baptiste Santamaria,FRA,MF,Rennes,29.0,1995.0,10,5,482,5.4,0,1,1,0,0,0,1,0,0.0,0.19,0.19,0.0,0.19,Matches,ligue1,2024-2025
+dd745366,478,Andrey Santos,BRA,MF,Strasbourg,20.0,2004.0,32,32,2855,31.7,10,3,13,10,0,0,8,0,0.32,0.09,0.41,0.32,0.41,Matches,ligue1,2024-2025
+3eeebc87,479,Tiago Santos,POR,"DF,MF",Lille,22.0,2002.0,7,4,404,4.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+4315f30d,480,Malang Sarr,FRA,DF,Lens,25.0,1999.0,21,15,1385,15.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+61f80c89,481,Mamadou Sarr,SEN,DF,Strasbourg,18.0,2005.0,27,27,2365,26.3,0,1,1,0,0,0,4,0,0.0,0.04,0.04,0.0,0.04,Matches,ligue1,2024-2025
+86383d0e,482,Martin Satriano,URU,FW,Lens,23.0,2001.0,7,0,88,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+6bde367b,483,Téji Savanier,FRA,MF,Montpellier,32.0,1991.0,31,27,2363,26.3,2,5,7,0,2,2,4,1,0.08,0.19,0.27,0.0,0.19,Matches,ligue1,2024-2025
+b9ae8560,484,Niklas Schmidt,GER,MF,Toulouse,26.0,1998.0,9,2,205,2.3,0,1,1,0,0,0,0,0,0.0,0.44,0.44,0.0,0.44,Matches,ligue1,2024-2025
+0b6911e4,485,Jérémy Sebas,MTQ,MF,Strasbourg,21.0,2003.0,13,1,190,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+cea59f02,486,Alidu Seidu,GHA,DF,Rennes,24.0,2000.0,11,10,803,8.9,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+7304dd80,487,Hiroki Sekine,JPN,DF,Reims,21.0,2002.0,15,9,887,9.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+1d383c10,488,Marvin Senaya,TOG,DF,Strasbourg,23.0,2001.0,10,1,227,2.5,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+4c5b714f,489,Djibril Sidibé,FRA,DF,Toulouse,32.0,1992.0,28,24,2101,23.3,0,3,3,0,0,0,1,0,0.0,0.13,0.13,0.0,0.13,Matches,ligue1,2024-2025
+92ffb8f9,490,Vincent Sierro,SUI,MF,Toulouse,28.0,1995.0,29,27,2402,26.7,5,1,6,3,2,2,4,0,0.19,0.04,0.22,0.11,0.15,Matches,ligue1,2024-2025
+30af8b93,491,Caio Henrique Oliveira Silva,BRA,DF,Monaco,27.0,1997.0,27,21,1929,21.4,0,6,6,0,0,0,3,0,0.0,0.28,0.28,0.0,0.28,Matches,ligue1,2024-2025
+fdbde523,492,Abdallah Sima,SEN,"FW,MF",Brest,23.0,2001.0,27,14,1238,13.8,7,2,9,7,0,0,2,0,0.51,0.15,0.65,0.51,0.65,Matches,ligue1,2024-2025
+5f3eaaf5,493,Moses Simon,NGA,"FW,MF",Nantes,29.0,1995.0,32,31,2609,29.0,8,10,18,4,4,4,2,0,0.28,0.34,0.62,0.14,0.48,Matches,ligue1,2024-2025
+5e5249c8,494,Lassine Sinayoko,MLI,"FW,MF",Auxerre,24.0,1999.0,34,25,2299,25.5,5,8,13,4,1,1,5,0,0.2,0.31,0.51,0.16,0.47,Matches,ligue1,2024-2025
+8b609c34,495,Wilfried Singo,CIV,DF,Monaco,23.0,2000.0,27,23,2096,23.3,1,2,3,1,0,0,4,0,0.04,0.09,0.13,0.04,0.13,Matches,ligue1,2024-2025
+6fd76804,496,Ayanda Sishuba,BEL,MF,Rennes,19.0,2005.0,1,0,3,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+a170541f,497,Ibrahim Sissoko,MLI,FW,Saint-Étienne,28.0,1995.0,20,8,819,9.1,3,1,4,2,1,1,1,0,0.33,0.11,0.44,0.22,0.33,Matches,ligue1,2024-2025
+d349f13b,498,Niama Sissoko,MLI,FW,Reims,18.0,2005.0,4,0,47,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+b35a7399,499,Leo Skiri Østigård,NOR,DF,Rennes,24.0,1999.0,16,14,1227,13.6,1,0,1,1,0,0,4,0,0.07,0.0,0.07,0.07,0.07,Matches,ligue1,2024-2025
+30f5ffa9,500,Milan Škriniar,SVK,DF,Paris Saint-Germain,29.0,1995.0,5,4,382,4.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+d7547531,501,Naatan Skyttä,FIN,MF,Toulouse,22.0,2002.0,1,0,5,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+2ccd89a3,502,Eduard Sobol,UKR,"DF,MF",Strasbourg,29.0,1995.0,10,0,95,1.1,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+7a42d0df,503,Florian Sotoca,FRA,"FW,MF",Lens,33.0,1990.0,31,22,1794,19.9,1,1,2,1,0,0,2,1,0.05,0.05,0.1,0.05,0.1,Matches,ligue1,2024-2025
+1d8aa290,504,Issa Soumaré,SEN,"MF,FW",Le Havre,23.0,2000.0,29,21,1902,21.1,5,4,9,5,0,0,0,0,0.24,0.19,0.43,0.24,0.43,Matches,ligue1,2024-2025
+f6b94e8d,505,Saidou Sow,GUI,DF,Strasbourg,22.0,2002.0,12,11,1018,11.3,0,1,1,0,0,0,2,0,0.0,0.09,0.09,0.0,0.09,Matches,ligue1,2024-2025
+f6b94e8d,506,Saidou Sow,GUI,DF,Nantes,22.0,2002.0,9,9,799,8.9,1,0,1,1,0,0,1,0,0.11,0.0,0.11,0.11,0.11,Matches,ligue1,2024-2025
+a47d6f3a,507,Lucas Stassin,BEL,FW,Saint-Étienne,19.0,2004.0,28,23,1887,21.0,12,4,16,12,0,0,4,0,0.57,0.19,0.76,0.57,0.76,Matches,ligue1,2024-2025
+c2e3ceb7,508,Enzo Sternal,FRA,FW,Marseille,17.0,2007.0,2,0,24,0.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+39b326ed,509,Gabriel Suazo,CHI,"MF,DF",Toulouse,26.0,1997.0,30,23,2163,24.0,0,6,6,0,0,0,0,0,0.0,0.25,0.25,0.0,0.25,Matches,ligue1,2024-2025
+29c91632,510,Abakar Sylla,CIV,DF,Strasbourg,21.0,2002.0,21,10,950,10.6,1,0,1,1,0,0,2,1,0.09,0.0,0.09,0.09,0.09,Matches,ligue1,2024-2025
+b99bec05,511,Issiaga Sylla,GUI,"DF,MF",Montpellier,30.0,1994.0,19,15,1156,12.8,1,0,1,1,0,0,2,0,0.08,0.0,0.08,0.08,0.08,Matches,ligue1,2024-2025
+f15f8b2b,512,Musa Al-Taamari,JOR,"MF,FW",Montpellier,27.0,1997.0,15,12,1116,12.4,2,1,3,2,0,0,3,0,0.16,0.08,0.24,0.16,0.24,Matches,ligue1,2024-2025
+f15f8b2b,513,Musa Al-Taamari,JOR,"FW,MF",Rennes,27.0,1997.0,11,7,567,6.3,1,0,1,1,0,0,1,0,0.16,0.0,0.16,0.16,0.16,Matches,ligue1,2024-2025
+f0661424,514,Nicolás Tagliafico,ARG,DF,Lyon,31.0,1992.0,24,22,1902,21.1,3,1,4,3,0,0,7,0,0.14,0.05,0.19,0.14,0.19,Matches,ligue1,2024-2025
+75cde619,515,Axel Tapé,FRA,DF,Paris Saint-Germain,16.0,2007.0,2,2,180,2.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+ed39121c,516,Florian Tardieu,FRA,MF,Saint-Étienne,32.0,1992.0,24,13,1252,13.9,2,4,6,2,0,0,0,0,0.14,0.29,0.43,0.14,0.43,Matches,ligue1,2024-2025
+abd56820,517,Oussama Targhalline,MAR,MF,Le Havre,22.0,2002.0,14,12,990,11.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+7f783431,518,Enzo Tchato,CMR,"DF,MF",Montpellier,21.0,2002.0,27,21,1899,21.1,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+30670b0e,519,Arnau Tenas,ESP,GK,Paris Saint-Germain,23.0,2001.0,1,1,90,1.0,0,1,1,0,0,0,0,0,0.0,1.0,1.0,0.0,1.0,Matches,ligue1,2024-2025
+ac277993,520,Tanner Tessmann,USA,MF,Lyon,22.0,2001.0,25,13,1234,13.7,1,0,1,1,0,0,3,0,0.07,0.0,0.07,0.07,0.07,Matches,ligue1,2024-2025
+5c26ca51,521,Teddy Teuma,MLT,MF,Reims,30.0,1993.0,17,9,750,8.3,1,0,1,0,1,1,1,0,0.12,0.0,0.12,0.0,0.0,Matches,ligue1,2024-2025
+82e9b1bb,522,Jordan Teze,NED,"DF,MF",Monaco,24.0,1999.0,16,8,569,6.3,1,0,1,1,0,0,2,1,0.16,0.0,0.16,0.16,0.16,Matches,ligue1,2024-2025
+8725a42e,523,Sorba Thomas,WAL,"MF,DF",Nantes,24.0,1999.0,25,15,1321,14.7,1,3,4,1,0,0,3,0,0.07,0.2,0.27,0.07,0.27,Matches,ligue1,2024-2025
+c76b7567,524,Adrien Thomasson,FRA,MF,Lens,30.0,1993.0,33,31,2615,29.1,3,7,10,3,0,0,7,0,0.1,0.24,0.34,0.1,0.34,Matches,ligue1,2024-2025
+652d4c37,525,Corentin Tolisso,FRA,MF,Lyon,29.0,1994.0,32,27,2329,25.9,7,4,11,7,0,0,4,0,0.27,0.15,0.43,0.27,0.43,Matches,ligue1,2024-2025
+ef7cd87a,526,Abdoulaye Touré,GUI,MF,Le Havre,30.0,1994.0,28,26,2324,25.8,10,1,11,2,8,9,5,0,0.39,0.04,0.43,0.08,0.12,Matches,ligue1,2024-2025
+a4b798a9,527,Birama Touré,MLI,"MF,DF",Montpellier,32.0,1992.0,8,2,300,3.3,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+2a0f917e,528,Ousmane Toure,FRA,DF,Lille,19.0,2005.0,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+5d0e0a1f,529,Adrien Truffert,FRA,"MF,DF",Rennes,22.0,2001.0,33,31,2752,30.6,2,2,4,2,0,0,3,0,0.07,0.07,0.13,0.07,0.13,Matches,ligue1,2024-2025
+ee45fd85,530,Vanderson,BRA,DF,Monaco,23.0,2001.0,29,23,2064,22.9,1,3,4,1,0,0,6,1,0.04,0.13,0.17,0.04,0.17,Matches,ligue1,2024-2025
+74fb9321,531,Robinio Vaz,FRA,FW,Marseille,17.0,2007.0,2,0,75,0.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+4a56052c,532,Jordan Veretout,FRA,MF,Lyon,31.0,1993.0,27,19,1553,17.3,2,0,2,2,0,0,3,0,0.12,0.0,0.12,0.12,0.12,Matches,ligue1,2024-2025
+88fe0c2d,533,Ben Viadere,FRA,FW,Auxerre,18.0,2005.0,1,0,5,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+3b029691,534,Vitinha,POR,MF,Paris Saint-Germain,24.0,2000.0,29,20,2042,22.7,5,1,6,3,2,2,1,0,0.22,0.04,0.26,0.13,0.18,Matches,ligue1,2024-2025
+c844f6f9,535,Ibrahima Wadji,SEN,FW,Saint-Étienne,29.0,1995.0,10,2,347,3.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+0d7b6576,536,Elye Wahi,FRA,FW,Marseille,21.0,2003.0,13,7,574,6.4,3,1,4,2,1,1,1,0,0.47,0.16,0.63,0.31,0.47,Matches,ligue1,2024-2025
+64796fe0,537,Caleb Wiley,USA,"MF,DF",Strasbourg,19.0,2004.0,6,3,266,3.0,0,1,1,0,0,0,1,0,0.0,0.34,0.34,0.0,0.34,Matches,ligue1,2024-2025
+b003239d,538,Christopher Wooh,CMR,DF,Rennes,22.0,2001.0,20,17,1456,16.2,0,0,0,0,0,0,6,1,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+12a4e38c,539,Etienne Youte Kinkoue,FRA,DF,Le Havre,22.0,2002.0,28,26,2320,25.8,0,0,0,0,0,0,4,1,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+51438572,540,Eloge Zabi,CIV,MF,Reims,17.0,2006.0,2,0,18,0.2,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+5ce497e2,541,Yoram Zague,FRA,DF,Paris Saint-Germain,18.0,2006.0,4,2,183,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+b2bc3b1f,542,Wilfried Zaha,CIV,FW,Lyon,31.0,1992.0,4,1,73,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+6b9960cf,543,Warren Zaïre-Emery,FRA,"MF,DF",Paris Saint-Germain,18.0,2006.0,29,23,2050,22.8,1,2,3,1,0,0,3,0,0.04,0.09,0.13,0.04,0.13,Matches,ligue1,2024-2025
+83e4643e,544,Miha Zajc,SVN,MF,Toulouse,30.0,1994.0,19,1,262,2.9,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+384d58d9,545,Denis Zakaria,SUI,MF,Monaco,27.0,1996.0,26,24,2144,23.8,6,4,10,4,2,2,5,0,0.25,0.17,0.42,0.17,0.34,Matches,ligue1,2024-2025
+07d65234,546,Anass Zaroury,MAR,"MF,FW",Lens,23.0,2000.0,28,16,1405,15.6,2,2,4,2,0,0,3,1,0.13,0.13,0.26,0.13,0.26,Matches,ligue1,2024-2025
+fb4c5b6e,547,Nathan Zeze,FRA,DF,Nantes,19.0,2005.0,18,17,1512,16.8,0,0,0,0,0,0,6,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+34a88e3e,548,Edon Zhegrova,KVX,MF,Lille,25.0,1999.0,12,12,978,10.9,4,1,5,4,0,0,1,0,0.37,0.09,0.46,0.37,0.46,Matches,ligue1,2024-2025
+1d59fe9c,549,Melvin Zinga,FRA,GK,Angers,22.0,2002.0,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+3725b44f,550,Luck Zogbé,CIV,DF,Brest,19.0,2005.0,13,7,638,7.1,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+3dcd9017,551,Aristide Zossou,CIV,MF,Auxerre,19.0,2005.0,3,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025
+ec724366,552,Yanis Zouaoui,ALG,"DF,MF",Le Havre,30.0,1994.0,17,9,976,10.8,0,2,2,0,0,0,3,0,0.0,0.18,0.18,0.0,0.18,Matches,ligue1,2024-2025
+2a74ef47,553,Edhy Zuliani,FRA,MF,Toulouse,19.0,2004.0,1,0,9,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Matches,ligue1,2024-2025

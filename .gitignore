@@ -37,8 +37,7 @@ var/
 *.sqlite3
 
 # Data files (raw/processed)
-data/
-processed/
+data/raw/
 
 # OS files
 .DS_Store
